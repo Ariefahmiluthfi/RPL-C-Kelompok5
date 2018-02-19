@@ -120,17 +120,13 @@ Proses kontroling dilakukan oleh manager tim dan dilaksanakan setiap hari jumat 
 
 3.5 Perencanaan staff
 
-Project Manager   : Arie Fahmi Luthfi
-
-Programmer        : Stephan Dwiki Alkine
-
-Tester            : Shafa Dhiyanti
-
-Analisis          : Shafa Dhiyanti
-
-Desainer          : Arie Fahmi Luthfi
-
-Marketing         : Diky Anwar
+| Project Manager   :  | Arie Fahmi Luthfi |
+| ----------- | --------- |
+| Programmer        :  | Stephan Dwiki Alkine |
+| Tester            :  | Shafa Dhiyanti |
+| Analisis          :  | Shafa Dhiyanti |
+| Desainer          :  | Arie Fahmi Luthfi |
+| Marketing         :  | Diky Anwar |
 
 Bab 4. Proses Teknis
 
