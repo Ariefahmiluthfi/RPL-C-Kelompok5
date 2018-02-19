@@ -59,8 +59,12 @@ Analysis
 Bab 3. Proses Manajerial
 
 3.1 Tujuan dan prioritas manajemen
+Tujuan dari proyek ini adalah untuk membuat sistem kesahatan tubuh dengan dengan metode lari/joging menggunakan sistem GIS. Proyek ini sangat diprioritaskan karena memberi manfaat tinggi bagi masyarakat atau orang yang jarang berolahraga.
 
 3.2 Asumsi-asumsi, ketergantungan/keterkaitan, dan batasan-batasan
+Asumsi proyek adalah sebagai berikut
+i. Tim 4 sumber
+ii. 
 
 3.3 Manajemen resiko
 
