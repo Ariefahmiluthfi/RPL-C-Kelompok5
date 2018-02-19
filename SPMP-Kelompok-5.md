@@ -49,28 +49,27 @@ Dalam proyek yang kami buat kita menggunakan model proses Sashimi
 | Manager | Anggota | Dimana manager menjadi pengawas dari anggota-anggotanya bilamana saat anggota lalai dengan tugas-tugasnya manager berhak menegur dan bagi anggota tidak berhak melawan jika ditegur, dan untuk manager sendiri tidak berhak semena-mena dengan jabatanya. |
 | Programmer | Analysis | Dikala programmer melakukan kesalahan dalam mengkoding, analaisi memiliki tanggung jawab untuk mengecek kesalahan koding-koding yg dilakukan programmer. |
 | Analysis | Programmer | Betugas untuk memberi gambaran projek dan alur pengkodingan pada programmer.|
-| Design | Programmer | Bertugas mendesain tampilan aplikasi yang dapat menarik konsumen saat aplikasi dirilis. |
-| Programmer | Database Engineer | Bertugas membuat perancangan sistem databasenya. |
+| Design Application | Programmer | Bertugas mendesain tampilan aplikasi yang dapat menarik konsumen saat aplikasi dirilis. |
+| Programmer | Database Engineer | Bertugas membuat perancangan sistem database. |
 
 2.4 Lingkup tanggung jawab
 
 Untuk tanggung jawab utama per tahap, lihat bagian 2.2. Seluruh tim proyek bertanggung jawab atas tugasnya masing-masing untuk keberhasilan projek.
+
 Ketua Tim (Manager) : Bertanggung jawab, mengarahkan, mengatur anggota tim atas  projek  yang sedang dibuat
+
 Analisis : Menganalisa atau  mengoreksi fungsi program
+
 Desainer : Membuat kerangka desain projek yang sedang dibuat
-Database Engineer : Membuat perancangan sistem databasenya
+
+Database Engineer : Membuat perancangan sistem database
 
 
 Bab 3. Proses Manajerial
 
 3.1 Tujuan dan prioritas manajemen
-3.1.1 Tujuan dari proyek ini adalah untuk membuat aplikasi dengan sistem lari atau joging. Proyek ini sangat diprioritaskan karena memberi manfaat tinggi bagi kesehatan tubuh manusia dan membentuk tubuh yang ideal.
 
-3.2 Asumsi-asumsi, Ketergantungan / Keterkaitan, dan batasan-batasan
-3.2.1 Asumsi
-Adapun aplikasi yang sejenis lari atau jalan sehat dengan sistem GIS, tetapi project yang kami buat ada tambahan fitur pertihungan MBR (Metabolic Basic Rate)
-3.2.2 Ketergantungan / Keterkaitan
-
+3.2 Asumsi-asumsi, ketergantungan/keterkaitan, dan batasan-batasan
 
 3.3 Manajemen resiko
 
@@ -153,17 +152,26 @@ Bab 5. Paket pekerjaan, jadwal, dan budget
 5.2 Ketergantungan/keterkaitan
 
 Dalam pengerjaan projek ini keterkaitan dari tugas masing-masing saling menopang agar terbentuknya ketelitian saat pengerjaan dan mendapat hasil akhir yang maksimal
+
 | From | To | Kaitan |
 | ----------- | :---------: | ----------: | 
 | Manager | Anggota | Dimana manager menjadi pengawas dari anggota-anggotanya bilamana saat anggota lalai dengan tugas-tugasnya manager berhak menegur dan bagi anggota tidak berhak melawan jika ditegur, dan untuk manager sendiri tidak berhak semena-mena dengan jabatanya. |
 | Programmer | Analysis | Dikala programmer melakukan kesalahan dalam mengkoding, analaisi memiliki tanggung jawab untuk mengecek kesalahan koding-koding yg dilakukan programmer. |
 | Analysis | Programmer | Betugas untuk memberi gambaran projek dan alur pengkodingan pada programmer.|
 | Design | Programmer | Bertugas mendesain tampilan aplikasi yang dapat menarik konsumen saat aplikasi dirilis. |
-| Programmer | Database Engineer | Bertugas membuat perancangan sistem databasenya. |
+| Programmer | Database Engineer | Bertugas membuat perancangan sistem database. |
 
 
 5.3 Kebutuhan-kebutuhan sumber daya
 
+| Sumber Daya | Jenis Kebutuhan | Alasan |
+| ----------- | :---------: | ----------: | 
+| Sumber Daya Manusia | 4 Orang anggota pekerja projek | Mengajukan jumlah tersebut dikarenakan agar keseimbangan antara pengerjaan projek, dokumen-dokumen dan pencarian masukan dari pasar, dengan demikian kita dapat mempercepat proses pekerjaan projek. |
+| Sumber Daya Software | Android Studio | Pengajuan software android studio dikarenakan pengerjaan projek menggunakan bahasa pemrograman Java dan agar pengerjaan jauh lebih efisien. |
+| | Firebase | Menggunakan software ini di gunakan untuk pembuatan database untuk mengaktifkan projeknya. |
+| | JDK dan plugin-pluginnya | Digunakan untuk pembuatan sistem capturing images. |
+| Sumber Daya Hardware | Perangkat Komputer | Perangkat induk yang di gunakan dalam pengerjaan projek. |
+| | Mobile | Perangkat yang digunakan untuk uji coba aplikasi. |
 
 5.4 Alokasi budget dan sumber daya
 
