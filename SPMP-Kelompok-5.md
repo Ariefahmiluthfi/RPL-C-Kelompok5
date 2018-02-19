@@ -31,7 +31,9 @@ Bab 2. Organisasi Proyek
 
 2.1 Model proses
 
-Dalam proyek yang kami buat kita menggunakan model proses Sashimi
+Dalam proyek yang kami buat kita menggunakan model proses Sashimi. 
+
+Sashimi adalah versi modifikasi dari mode Waterfall. Fase-fase yang agak sama seperti dalam Model Waterfall, hanya kali ini fase yang tumpang tindih satu sama lain yang hadir banyak keuntungan. Misalnya waktu tidak akan terbuang karena sebelum Tahap 1 akan selesai, Tahap 2 sudah akan berlangsung. Selain itu, karena mereka tumpang tindih sehingga seseorang dapat kembali ke langkah sebelumnya jika diinginkan.
 
 2.2 Struktur organisasi
 
