@@ -28,43 +28,42 @@ IEEE	Institute of Electrical and Electronics Engineer Bab 2. Organisasi Proyek
 
 2.1 Model proses
 
-Dalam proyek yang kami buat kita menggunakan model proses Overlap
+Dalam proyek yang kami buat kita menggunakan model proses Sashimi
 
 2.2 Struktur organisasi
 
--Project Manager
+-Arie Fahmi Luthfi as Project Manager
 
--Programmer
+-Stephan Dwiki Alkine as Programmer
 
--Database engineer
+-Diky Anwar as Database engineer
 
--Design
+-Arie Fahmi Luthfi as Design Application
 
--Analysis
+-Shafa Dhiyanti as Analysis
 
 2.3 Batasan dan antarmuka organisasi
+Pemimpin tim selama setiap tahap akan bertanggung jawab untuk mengkoordinasikan pertemuan tim, update, komunikasi, dan pengiriman tim
 
-FROM	TO	KAITAN Project Manager
-
-Programmer
-
-Database Engineer
-
-Design
-
-Analysis
 
 2.4 Lingkup tanggung jawab
+
+Untuk tanggung jawab utama per tahap, lihat bagian 2.2. Seluruh tim proyek bertanggung jawab atas tugasnya masing-masing untuk keberhasilan projek.
+1.	Project Plan – Seluruh Tim
+2.	Requirements Specification – TBD
+3.	Analysis – TBD
+4.	Architecture Spec – TBD
+5.	Component/Object Specification – TBD
+6.	Source Code – TBD
+7.	Test Plan – TBD
+8.	Final Deliverable – Seluruh Tim
+
 
 Bab 3. Proses Manajerial
 
 3.1 Tujuan dan prioritas manajemen
-Tujuan dari proyek ini adalah untuk membuat sistem kesahatan tubuh dengan dengan metode lari/joging menggunakan sistem GIS. Proyek ini sangat diprioritaskan karena memberi manfaat tinggi bagi masyarakat atau orang yang jarang berolahraga.
 
 3.2 Asumsi-asumsi, ketergantungan/keterkaitan, dan batasan-batasan
-Asumsi proyek adalah sebagai berikut
-i. Tim 4 sumber
-ii. 
 
 3.3 Manajemen resiko
 
