@@ -24,6 +24,17 @@ Perangkat lunak yang akan dikembangkan adalah perangkat lunak aplikasi Jalan Seh
 
 1.3 Definisi, Akronim, Singkatan
 
+Akronim dan Singkatan :
+- APB : Aplikasi Jalan Sehat (JAHAT)
+- SRS : Software Requirement Specification
+- lot : lokasi penempatan
+Definisi :
+- Software Requirement Specification adalah perangkat lunak yang akan
+dibuat dan sebagai penyembatani komunikasih pembuat dengan
+pengguna.
+- use case adalah situasi dimana sistem anda digunakan untuk memenuhi
+satu atau lebih kebutuhan pemakaian anda.
+
 1.4 Referensi
 
 1.5 Overview
