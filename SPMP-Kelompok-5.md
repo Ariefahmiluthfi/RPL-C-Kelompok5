@@ -50,7 +50,7 @@ Dalam proyek yang kami buat kita menggunakan model proses Sashimi
 | From | To | Kaitan |
 | ----------- | --------- | ---------- | 
 | Manager | Anggota | Dimana manager menjadi pengawas dari anggota-anggotanya bilamana saat anggota lalai dengan tugas-tugasnya manager berhak menegur dan bagi anggota tidak berhak melawan jika ditegur, dan untuk manager sendiri tidak berhak semena-mena dengan jabatanya. |
-| Programmer | Analysis | Dikala programmer melakukan kesalahan dalam mengkoding, analaisi memiliki tanggung jawab untuk mengecek kesalahan koding-koding yg dilakukan programmer. |
+| Programmer | Analysis | Dikala programmer melakukan kesalahan dalam mengkoding, analisis memiliki tanggung jawab untuk mengecek kesalahan koding-koding yg dilakukan programmer. |
 | Analysis | Programmer | Betugas untuk memberi gambaran projek dan alur pengkodingan pada programmer.|
 | Design Application | Programmer | Bertugas mendesain tampilan aplikasi yang dapat menarik konsumen saat aplikasi dirilis. |
 | Programmer | Database Engineer | Bertugas membuat perancangan sistem database. |
@@ -159,7 +159,7 @@ Dalam pengerjaan projek ini keterkaitan dari tugas masing-masing saling menopang
 | From | To | Kaitan |
 | ----------- | --------- | ---------- | 
 | Manager | Anggota | Dimana manager menjadi pengawas dari anggota-anggotanya bilamana saat anggota lalai dengan tugas-tugasnya manager berhak menegur dan bagi anggota tidak berhak melawan jika ditegur, dan untuk manager sendiri tidak berhak semena-mena dengan jabatanya. |
-| Programmer | Analysis | Dikala programmer melakukan kesalahan dalam mengkoding, analaisi memiliki tanggung jawab untuk mengecek kesalahan koding-koding yg dilakukan programmer. |
+| Programmer | Analysis | Dikala programmer melakukan kesalahan dalam mengkoding, analisis memiliki tanggung jawab untuk mengecek kesalahan koding-koding yg dilakukan programmer. |
 | Analysis | Programmer | Betugas untuk memberi gambaran projek dan alur pengkodingan pada programmer.|
 | Design | Programmer | Bertugas mendesain tampilan aplikasi yang dapat menarik konsumen saat aplikasi dirilis. |
 | Programmer | Database Engineer | Bertugas membuat perancangan sistem database. |
