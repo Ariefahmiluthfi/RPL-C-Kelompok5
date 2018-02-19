@@ -2,7 +2,7 @@ SPMP Bab 1. Pendahuluan
 
 1.1 Gambaran Proyek
 
-Proyek ini adalah untuk membuat Aplikasi JAHAT (Aplikasi Jalan Sehat berbasis Mobile). Didalam proyek ini menggunakan bahasa Pemrograman Java. Aplikasi ini dibuat dengan menggunakan software Android Studio. Dibuatnya aplikasi ini bertujuan untuk masyarakat umum yang memang gemar berolahraga dan membantu seberapa jauh dia berjalan dan berapa jauhnya yang diperlukan untuk berolahraga yang bermanfaat untuk kesehatannya dengan dibantu adanya Aplikasi Jalan Sehat ini. Kami juga mengharapkan dengan adanya aplikasi ini bisa berguna bagi kami sendiri khususnya ataupun bagi masyarakat luas pada umumnya.000000
+Proyek ini adalah untuk membuat Aplikasi JAHAT (Aplikasi Jalan Sehat berbasis Mobile). Didalam proyek ini menggunakan bahasa Pemrograman Java. Aplikasi ini dibuat dengan menggunakan software Android Studio. Dibuatnya aplikasi ini bertujuan untuk masyarakat umum yang memang gemar berolahraga dan membantu seberapa jauh dia berjalan dan berapa jauhnya yang diperlukan untuk berolahraga yang bermanfaat untuk kesehatannya dengan dibantu adanya Aplikasi Jalan Sehat ini. Kami juga mengharapkan dengan adanya aplikasi ini bisa berguna bagi kami sendiri khususnya ataupun bagi masyarakat luas pada umumnya.
 
 1.2 Dokumen-dokumen dalam proyek
 
