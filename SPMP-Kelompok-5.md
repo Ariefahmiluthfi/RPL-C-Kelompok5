@@ -141,7 +141,7 @@ Bab 5. Paket pekerjaan, jadwal, dan budget
 
 5.1 Paket pekerjaan
 
-| No | Nama | Jabatan | Model | Rincian Pekerjaan |
+| No | Nama | Jabatan | Modul | Rincian Pekerjaan |
 | ----------- | :---------: | ----------: | ----------: | ----------: |
 | 1 | Arie Fahmi Luthfi | Project Manager & Design application | - | - |
 | 2 | Diky Anwar | Database Engineer | - | - |
@@ -154,7 +154,7 @@ Bab 5. Paket pekerjaan, jadwal, dan budget
 Dalam pengerjaan projek ini keterkaitan dari tugas masing-masing saling menopang agar terbentuknya ketelitian saat pengerjaan dan mendapat hasil akhir yang maksimal
 
 | From | To | Kaitan |
-| ----------- | :---------: | ----------: | 
+| ----------- | --------- | ---------- | 
 | Manager | Anggota | Dimana manager menjadi pengawas dari anggota-anggotanya bilamana saat anggota lalai dengan tugas-tugasnya manager berhak menegur dan bagi anggota tidak berhak melawan jika ditegur, dan untuk manager sendiri tidak berhak semena-mena dengan jabatanya. |
 | Programmer | Analysis | Dikala programmer melakukan kesalahan dalam mengkoding, analaisi memiliki tanggung jawab untuk mengecek kesalahan koding-koding yg dilakukan programmer. |
 | Analysis | Programmer | Betugas untuk memberi gambaran projek dan alur pengkodingan pada programmer.|
@@ -165,7 +165,7 @@ Dalam pengerjaan projek ini keterkaitan dari tugas masing-masing saling menopang
 5.3 Kebutuhan-kebutuhan sumber daya
 
 | Sumber Daya | Jenis Kebutuhan | Alasan |
-| ----------- | :---------: | ----------: | 
+| ----------- | --------- | ---------- | 
 | Sumber Daya Manusia | 4 Orang anggota pekerja projek | Mengajukan jumlah tersebut dikarenakan agar keseimbangan antara pengerjaan projek, dokumen-dokumen dan pencarian masukan dari pasar, dengan demikian kita dapat mempercepat proses pekerjaan projek. |
 | Sumber Daya Software | Android Studio | Pengajuan software android studio dikarenakan pengerjaan projek menggunakan bahasa pemrograman Java dan agar pengerjaan jauh lebih efisien. |
 | | Firebase | Menggunakan software ini di gunakan untuk pembuatan database untuk mengaktifkan projeknya. |
