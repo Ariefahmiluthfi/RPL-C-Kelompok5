@@ -72,9 +72,61 @@ Bab 4. Proses Teknis
 
 4.1 Metode, tool, dan teknik
 
+4.1.1. Metoda
+Dalam sebuah perancangan Jalan Sehat berbasis mobile, diperlukan perhatian khusus pada karakteristik penggunan dan keterbatasan device-nya. Jalan Sehat berbasis mobile yang ada tidak begitu saja diaplikasikan. Beberapa aspek yang menjadi perhatian dalam perancangan aplikasi Jalan Sehat berbasis berbasis mobile adalah sebagai berikut:
+1) Keterbatasan Resource
+Dibanding dengan perangkat desktop yang didukung oleh hardware yang lebih powerfull, perangkat mobile sangat terbatas dalam hal resource. Hal ini menyebabkan penggunaan resource pada proses komputasi mobile harus dilakukan secara efisien dan seefektif mungkin. Keterbatasan resource disini adalah keterbatasan proses komputasi.
+2) Keterbatasan Hardware
+Keterbatasan hardware yaitu pada pemakaian baterai dan keterbatasan memori. Penghematan baterai pada penggunaan smartphone android dilakukan dengan meminimasi gambar dan animasi. Tampilan lebih banyak menggunakan teks dan button. Tampilan gambar hanya ditampilkan secara sederhana dan seperlunya saja.
+Untuk menghemat memori maka aplikasi mengalokasikan memori seoptimal dan seefisien mungkin, sedangkan untuk mengatasi keterbatasan proses komputasi maka perangkat lunak akan melakukan komputasi dan menggunakan thread seminimum mungkin.
+3) Keterbatasan Jaringan
+Untuk mengurangi penggunaan internet secara terus menerus, maka aplikasi ini harus mampu memberi dukungan opererasi secara offline sehingga tidak harus terhubung secara terus menerus dengan server.
+4) Device yang pervasif
+Perangkat bergerak memiliki bentuk kecil, mudah dibawa kemana- mana, dan dapat
+berpindah tangan sehingga dibutuhkan solusi untuk persoalan sosial maupun pesoalan teknis ini. Diperlukan adanya mekanisme proteksi on-device untuk melindungi data sensitive.
+5) Skema integrasi
+Banyak aplikasi nirkabel bergerak yang membutuhkan integrasi dengan banyak sistem backend atau middleware berbeda. Saat ini terdapat beberapa teknologi yang dapat digunakan, diantaranya adalah protokol biner proprietary, Framework RPC, messaging serta xml web sercive. Masing - masing teknologi ini memiliki kekurangan dan kelebihan.
+6) Kenyamanan pengguna
+Merancang aplikasi yang mudah digunakan adalah tantangan besar bagi pengembang.
+Beberapa hal yang perlu diperhatikan. Tampilan yang menarik, tidak membosankan, tidak terlalu padat, dan pemanfaatan thread untuk proses yang lama, prefensi pengguna dan penyediaan deployment descriptor untuk kemudahan instalasi.
+
+4.1.2 Tool
+1. Laptop
+Dalam hal ini keberadaan Laptop digunakan untuk membuat Aplikasi Jalan Sehat, melalui aplikasi Android Studio
+2. Handphone Android
+Dalam hal ini keberadaan Handphone Android digunakan untuk menguji coba aplikasi apakah sudah bisa digunakan atau tidaknya dari aplikasi Jalan Sehat tersebut
+3. Buku Referensi
+Buku Referensi digunakan sebagai sumber untuk mencari Sourcode yang diperlukan dalam membuat aplikasi Jalan Sehat, dan sebagai Sumber data dari Proposal yang dibuat
+
+4.1.3 Teknik
+4.1.3.1 Teknik Pengumpulan data
+Teknik pengumpulan data dalam membuat aplikasi Jalan Sehat berbasis Mobile menggunakan dua macam metode penelitian. Kedua macam metode tersebut meliputi :
+1.	Metode Observasi
+Metode observasi dilakukan untuk kegiatan analisis kebutuhan pada penelitian pendahuluan. Metode ini digunakan untuk mengetahui kebutuhan masyarakat akan aplikasi yang kami buat.
+2.	Metode Tes
+Metode tes digunakan untuk mengetahui tingkat efektivitas produk yang dihasilkan berupa media Jalan Sehat berbasis Mobile, apabila nanti sudah ada aplikasinya akan digunakan atau tidaknya.
+4.1.3.2 Teknik Analisis data
+Data hasil penelitian diperoleh dari diskusi bersama satu kelompok, dengan cara mengetahui terlebih dahulu apa yang saat ini masyarakat butuhkan. Dengan cara itu maka diambil kesepakatan untuk membuat aplikasi Jalan Sehat berbasis Mobile
+
 4.2 Dokumentasi perangkat lunak
+1. Sistem Operasi
+Sistem operasi yang digunakan adalah Linux, dan windows
+2. Bahasa Pemrograman
+Bahasa Pemrograman yang digunakan untuk membuat aplikasi Jalan sehat berbasis Mobile ini menggunakan bahasa pemrograman Java
+3. Program Aplikasi
+Aplikasi yang digunakan untuk membuat aplikasi ini yaitu menggunakan Android Studio
 
 4.3 Fungsi-fungsi pendukung proyek
+1. Fungsi Rutin
+Yaitu fungsi adaministrasi yang membutuhkan banyak pemikiran mencakup pembuatan proposal, serta pembuatan Logbook dll.
+2. Fungsi Teknis
+Yaitu fungsi yang membutuhkan pendapat, dan keputusan bersama agar pembuatan aplikasi berjalan dengan baik
+3. Fungsi Analisis
+Yaitu fungsi yang membutuhkan pemikiran yang kritis dan kreatif disertai kemampuan untuk mengambil keputusan, seperti menganalisis Proposal, Laporan, maupun membuat keputusan
+4. Fungi Interpersonal
+Yaitu fungsi yang membutuhkan penilaian dan analisis sebagai dasar pengambilan keputusan serta keterampilan yang berhubungan dengan orang lain, sebagai contohnya dia tahu tugasnya sebagai apa dan bisa menempatkan dirinya dengan tugasnya tersebut
+5. Fungsi Leader-Manajerial
+Yaitu fungsi yang dimiliki oleh seorang Manajer Proyek, dalam hal ini diperlukan adanya ketegasan dari seorang pemimpin tersebut dalam memimpin kelompoknya. Hal ini dimaksudkan agar adanya kerjasama dalam  membuat aplikasi Jalan Sehat berbasis Mobile
 
 Bab 5. Paket pekerjaan, jadwal, dan budget
 
