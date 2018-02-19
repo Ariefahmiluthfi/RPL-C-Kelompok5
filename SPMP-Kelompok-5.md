@@ -45,7 +45,7 @@ Dalam proyek yang kami buat kita menggunakan model proses Sashimi
 2.3 Batasan dan antarmuka organisasi
 
 | From | To | Kaitan |
-| ----------- | :---------: | ----------: | 
+| ----------- | --------- | ---------- | 
 | Manager | Anggota | Dimana manager menjadi pengawas dari anggota-anggotanya bilamana saat anggota lalai dengan tugas-tugasnya manager berhak menegur dan bagi anggota tidak berhak melawan jika ditegur, dan untuk manager sendiri tidak berhak semena-mena dengan jabatanya. |
 | Programmer | Analysis | Dikala programmer melakukan kesalahan dalam mengkoding, analaisi memiliki tanggung jawab untuk mengecek kesalahan koding-koding yg dilakukan programmer. |
 | Analysis | Programmer | Betugas untuk memberi gambaran projek dan alur pengkodingan pada programmer.|
