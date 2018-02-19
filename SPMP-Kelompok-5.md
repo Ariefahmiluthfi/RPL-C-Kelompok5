@@ -24,7 +24,9 @@ Dokumen ini adalah dokumen yang digunakan pada tahap perencanaan awal pengerjaan
 
 1.5 Definisi dan Akronim (singkatan)
 
-IEEE	Institute of Electrical and Electronics Engineer Bab 2. Organisasi Proyek
+| IEEE |	Institute of Electrical and Electronics Engineer |
+
+Bab 2. Organisasi Proyek
 
 2.1 Model proses
 
