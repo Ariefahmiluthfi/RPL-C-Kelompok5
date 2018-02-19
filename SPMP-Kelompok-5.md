@@ -142,7 +142,7 @@ Bab 5. Paket pekerjaan, jadwal, dan budget
 5.1 Paket pekerjaan
 
 | No | Nama | Jabatan | Modul | Rincian Pekerjaan |
-| ----------- | :---------: | ----------: | ----------: | ----------: |
+| ----------- | --------- | ---------- | ---------- | ---------- |
 | 1 | Arie Fahmi Luthfi | Project Manager & Design application | - | - |
 | 2 | Diky Anwar | Database Engineer | - | - |
 | 3 | Shafa Dhiyanti | Analysis | - | - |
