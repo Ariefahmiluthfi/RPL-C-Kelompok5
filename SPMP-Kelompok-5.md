@@ -31,9 +31,7 @@ Bab 2. Organisasi Proyek
 
 2.1 Model proses
 
-Dalam proyek yang kami buat kita menggunakan model proses Sashimi. 
-
-Sashimi adalah versi modifikasi dari mode Waterfall. Fase-fase yang agak sama seperti dalam Model Waterfall, hanya kali ini fase yang tumpang tindih satu sama lain yang hadir banyak keuntungan. Misalnya waktu tidak akan terbuang karena sebelum Tahap 1 akan selesai, Tahap 2 sudah akan berlangsung. Selain itu, karena mereka tumpang tindih sehingga seseorang dapat kembali ke langkah sebelumnya jika diinginkan.
+Dalam proyek yang kami buat kita menggunakan model proses Sashimi
 
 2.2 Struktur organisasi
 
@@ -73,6 +71,7 @@ Database Engineer : Membuat perancangan sistem database
 Bab 3. Proses Manajerial
 
 3.1 Tujuan dan prioritas manajemen
+
 3.1.1 Tujuan dari proyek ini adalah untuk membuat aplikasi jalan sehat atau joging dengan fitur GIS dan perhitungan MBR. Proyek ini sangat diprioritaskan karena memberi manfaat tinggi bagi tubuh manusia dan untuk membentuk tubuh yang ideal.
 
 3.2 Asumsi-asumsi, ketergantungan/keterkaitan, dan batasan-batasan
@@ -80,17 +79,45 @@ Bab 3. Proses Manajerial
 3.2.1 Asumsi
 Adapun aplikasi yang sejenis jalan sehat atau joging dengan fitur GIS, project yang kami buat ada tambahan fitur perhitungan MBR.
 
-3.2.2 Ketergantungan / Keterkaitan
+3.2.2 Ketergantungan / Keterkaitan dan Batasan - batasan
 Dalam project yang kami buat menggunakan smartphone untuk membuka atau menjalankan aplikasi kami.
-
-3.2.3 Batasan - batasan
-
 
 3.3 Manajemen resiko
 
+3.3.1 Resiko
+- Biaya dan waktu yang tidak sesuai
+- Pengembangan sofware yang belum maksimal
+- Kegagalan pada komponen-komponen
+- Kegagalan kinerja real time
+- Kegalan menjalan tugas eksternal
+3.3.2 Teknik Manajemen Resiko
+- Membuat berapa biaya etimasi
+- Menamabah waktu dalam pengerjaan projek
+- Menganalisa  waktu project yang akan dibuat
+- Evaluasi project yang ditingkatkan
+- Membuat metode yang spesifikasi
+- Mencari referensi-referensi
+- Menganalisis project yang akan di buat
+- Prosedur jaminan kualitas
+- Membangun kekompakan tim
+- Kesungguhan dalam tim
+- Analisis teknis
+
 3.4 Mekanisme monitoring dan kontroling
 
+3.4.1 Monitoring
+Proses monitoring dilakukan secara tim dan dilaksanakan setiap hari minggu.
+
+3.4.2 kontroling
+Proses kontroling dilakukan oleh manager tim dan dilaksanakan setiap hari jumat agar bisa dievaluasi pada hari terakhir kegiatan
+
 3.5 Perencanaan staff
+Project Manager   : Arie Fahmi Luthfi
+Programmer        : Stephan Dwiki Alkine
+Tester            : Shafa Dhiyanti
+Analisis          : Shafa Dhiyanti
+Desainer          : Arie Fahmi Luthfi
+Marketing         : Dicky Anwar
 
 Bab 4. Proses Teknis
 
