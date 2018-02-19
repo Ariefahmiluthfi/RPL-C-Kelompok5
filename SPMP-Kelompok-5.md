@@ -111,9 +111,11 @@ Dalam project yang kami buat menggunakan smartphone untuk membuka atau menjalank
 3.4 Mekanisme monitoring dan kontroling
 
 3.4.1 Monitoring
+
 Proses monitoring dilakukan secara tim dan dilaksanakan setiap hari minggu.
 
-3.4.2 kontroling
+3.4.2 Kontroling
+
 Proses kontroling dilakukan oleh manager tim dan dilaksanakan setiap hari jumat agar bisa dievaluasi pada hari terakhir kegiatan
 
 3.5 Perencanaan staff
@@ -128,7 +130,7 @@ Analisis          : Shafa Dhiyanti
 
 Desainer          : Arie Fahmi Luthfi
 
-Marketing         : Dicky Anwar
+Marketing         : Diky Anwar
 
 Bab 4. Proses Teknis
 
