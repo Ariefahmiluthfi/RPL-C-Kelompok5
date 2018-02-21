@@ -273,4 +273,4 @@ Berikut adalah rincian biaya yang diperlukan untuk penggarapan proyek antara lai
 
 5.5 Jadwal
 
-![gambar](img/jadwal model sashimi.PNG)
+![gambar](img/jms.PNG)
