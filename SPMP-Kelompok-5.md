@@ -268,5 +268,7 @@ Dalam pengerjaan projek ini keterkaitan dari tugas masing-masing saling menopang
 | | Mobile | Perangkat yang digunakan untuk uji coba aplikasi. |
 
 5.4 Alokasi budget dan sumber daya
+
 Berikut adalah rincian biaya yang diperlukan untuk penggarapan proyek antara lain :
+
 5.5 Jadwal
