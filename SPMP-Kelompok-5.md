@@ -272,5 +272,8 @@ Dalam pengerjaan projek ini keterkaitan dari tugas masing-masing saling menopang
 5.4 Alokasi budget dan sumber daya
 
 Berikut adalah rincian biaya yang diperlukan untuk penggarapan proyek antara lain :
+![gambar](img/biaya.png)
 
 5.5 Jadwal
+
+![gambar](img/jms.PNG)
