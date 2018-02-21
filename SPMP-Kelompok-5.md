@@ -19,6 +19,7 @@ SRS ( Software Requirements Specification ) adalah dokumen yang menjelaskan tent
 Dokumen ini akan selalu diperbarui seiring dengan kemajuan proyek. Pembaruan harus diharapkan pada bagian berikut :
 
 Referensi diperbarui seperlunya Definisi, akronim, dan singkatan-singkatan seperlunya Proses teknis - bagian ini akan direvisi dengan tepat karena persyaratan dan keputusan disain menjadi lebih jelas Jadwal - saat proyek berjalan, jadwal akan diperbarui sesuai dengan itu
+
 1.4 Material acuan
 
 Dokumen ini adalah dokumen yang digunakan pada tahap perencanaan awal pengerjaan proyek dalam pembuatan kami memakai standar IEEE.
