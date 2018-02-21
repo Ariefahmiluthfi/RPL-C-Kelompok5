@@ -272,3 +272,5 @@ Dalam pengerjaan projek ini keterkaitan dari tugas masing-masing saling menopang
 Berikut adalah rincian biaya yang diperlukan untuk penggarapan proyek antara lain :
 
 5.5 Jadwal
+
+![gambar](img/jadwal model sashimi.PNG)
