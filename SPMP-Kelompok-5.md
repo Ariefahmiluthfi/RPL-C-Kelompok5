@@ -276,5 +276,4 @@ Berikut adalah rincian biaya yang diperlukan untuk penggarapan proyek antara lai
 ![gambar](img/biaya.png)
 
 5.5 Jadwal
-
 ![gambar](img/jms.PNG)
