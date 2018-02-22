@@ -71,4 +71,32 @@ BAB 2 GAMBARAN UMUM
 
 BAB 3 KEBUTUHAN LAIN YANG SPESIFIK
 
+Berikut adalah kebutuhan perangkat lunak untuk perancang sistem aplikasi Jalan Sehat, diantaranya yaitu sebagai berikut :
+
+3.1 Kebutuhan Antarmuka Eksternal
+
+Akan disediakan penjelasan rinci dari semua masukan (input) dan luaran (output) dari aplikasi Jalan Sehat
+
+3.1.1 Daftar Masukan
+
+Daftar berbeda dari setiap modulnya, yang diberikan sebagai berikut.
+
+3.1.1.1 Module Login
+
+Disini User / pengguna diwajibkan untuk menginputkan email dan sandi
+
+3.1.1.2 Module Menu
+
+Disini User / Pengguna setelah berhasil login yaitu memilih menu
+
+3.1.2 Daftar Keluaran
+
+3.1.2.1 Laporan Hasil
+
+Disini user mendapatkan segala informasi ketika selesai melakukan kegiatan olahraga
+
+3.1.2.2 Laporan Penyimpanan
+Disini Data hasil dari kegiatan selama olahraga akan disimpan dalam database
+
+
 BAB 4 INFORMASI PENDUKUNG
