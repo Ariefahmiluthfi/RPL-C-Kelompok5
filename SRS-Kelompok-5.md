@@ -96,6 +96,7 @@ Disini User / Pengguna setelah berhasil login yaitu memilih menu
 Disini user mendapatkan segala informasi ketika selesai melakukan kegiatan olahraga
 
 3.1.2.2 Laporan Penyimpanan
+
 Disini Data hasil dari kegiatan selama olahraga akan disimpan dalam database
 
 
