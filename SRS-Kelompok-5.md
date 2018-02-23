@@ -6,11 +6,11 @@ BAB 1 PENDAHULUAN
 
 Dokumen ini berisi Spesifikasi Kebutuhan Perangkat Lunak (SKPL) atau Software Requirement Spesification (SRS) untuk Aplikasi Pola Hidup Sehat ( Pola Hidup Sehat ) .Tujuan dari penulisan dokumen ini adalah untuk memberikan penjelasan mengenai perangkat lunak yang akan dibangun baik berupa gambaran umum maupun penjelasan detail dan menyeluruh.
 
-Pengguna dari dokumen ini adalah pengembang perangkat lunak aplikasi Jalan Sehat pengguna (user) dari perangkat lunak atau personil-personil yang terlibat dalam sistem.Dokumen ini akan digunakan sebagai bahan acuan dalam proses pengembangan dan sebagai bahan evaluasi pada saat proses pengembangan perangkat lunak maupun di akhir pengembangannya. Dengan adanya dokumen SRS ini diharapkan pengembangan perangkat lunak akan lebih terarah dan lebih terfokus serta tidak menimbulkan ambiguitas terutama bagi pengembang perangkat lunak aplikasi Jalan Sehat.
+Pengguna dari dokumen ini adalah pengembang perangkat lunak aplikasi Pola Hidup Sehat pengguna (user) dari perangkat lunak atau personil-personil yang terlibat dalam sistem.Dokumen ini akan digunakan sebagai bahan acuan dalam proses pengembangan dan sebagai bahan evaluasi pada saat proses pengembangan perangkat lunak maupun di akhir pengembangannya. Dengan adanya dokumen SRS ini diharapkan pengembangan perangkat lunak akan lebih terarah dan lebih terfokus serta tidak menimbulkan ambiguitas terutama bagi pengembang perangkat lunak aplikasi Pola Hidup Sehat.
 
 1.2 Lingkup
 
-Perangkat lunak yang akan dikembangkan adalah perangkat lunak aplikasi Pola Hidup Sehat, yaitu merupakan perangkat lunak yang digunakan untuk mempermudah pengguna (user) mengetahui aktivitas seperti jalan sehat, jogging, maupun bersepeda dengan GPS yang dimana fungsinya adalah memberikan statistik kepada kita tentang kecepatan, jarak, waktu berolahraga kita, serta perhitungan MBR ( Metabolic Basic Rate ) . Aplikasi ini dapat melakukan hal-hal berikut ini :
+Perangkat lunak yang akan dikembangkan adalah perangkat lunak aplikasi Pola Hidup Sehat, yaitu merupakan perangkat lunak yang digunakan untuk mempermudah pengguna (user) mengetahui aktivitas seperti jalan sehat, jogging, maupun bersepeda dengan GPS yang dimana fungsinya adalah memberikan statistik kepada kita tentang kecepatan, jarak, waktu berolahraga kita, serta perhitungan BMR ( Basal Metabolic Rate ) . Aplikasi ini dapat melakukan hal-hal berikut ini :
 
 1.2.1 Fasilitas Login untuk pengguna ( user )
 
@@ -24,12 +24,12 @@ Perangkat lunak yang akan dikembangkan adalah perangkat lunak aplikasi Pola Hidu
 
 Akronim dan Singkatan :
 - Pahat : Aplikasi Pola Hidup Sehat
-- SRS 	: Software Requirement Specification
-- lot 	: lokasi penempatan
+- SRS 	 : Software Requirement Specification
+- lot 	 : lokasi penempatan
 
 Definisi :
 - Software Requirement Specification adalah perangkat lunak yang akan dibuat dan sebagai penyembatani komunikasih pembuat dengan pengguna.
-- use case adalah situasi dimana sistem anda digunakan untuk memenuhi satu atau lebih kebutuhan pemakaian anda.
+- Use case adalah situasi dimana sistem anda digunakan untuk memenuhi satu atau lebih kebutuhan pemakaian anda.
 
 1.4 Referensi
 Referensi yang digunakan dalam pengembangan perangkat lunak ini adalah :
