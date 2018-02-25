@@ -2,7 +2,7 @@ SPMP Bab 1. Pendahuluan
 
 1.1 Gambaran Proyek
 
-Proyek ini adalah untuk membuat Aplikasi JAHAT (Aplikasi Jalan Sehat berbasis Mobile). Didalam proyek ini menggunakan bahasa Pemrograman Java. Aplikasi ini dibuat dengan menggunakan software Android Studio. Dibuatnya aplikasi ini bertujuan untuk masyarakat umum yang memang gemar berolahraga dan membantu seberapa jauh dia berjalan dan berapa jauhnya yang diperlukan untuk berolahraga yang bermanfaat untuk kesehatannya dengan dibantu adanya Aplikasi Jalan Sehat ini. Kami juga mengharapkan dengan adanya aplikasi ini bisa berguna bagi kami sendiri khususnya ataupun bagi masyarakat luas pada umumnya.
+Proyek ini adalah untuk membuat Aplikasi PAHAT (Aplikasi Pola Hidup Sehat berbasis Mobile). Didalam proyek ini menggunakan bahasa Pemrograman Java. Aplikasi ini dibuat dengan menggunakan software Android Studio. Dibuatnya aplikasi ini bertujuan untuk masyarakat umum yang memang gemar berolahraga dan membantu seberapa jauh dia berjalan dan berapa jauhnya yang diperlukan untuk berolahraga yang bermanfaat untuk kesehatannya dengan dibantu adanya Aplikasi Jalan Sehat ini. Kami juga mengharapkan dengan adanya aplikasi ini bisa berguna bagi kami sendiri khususnya ataupun bagi masyarakat luas pada umumnya.
 
 1.2 Dokumen-dokumen dalam proyek
 
@@ -75,13 +75,13 @@ Bab 3. Proses Manajerial
 
 3.1 Tujuan dan prioritas manajemen
 
-3.1.1 Tujuan dari proyek ini adalah untuk membuat aplikasi jalan sehat atau joging dengan fitur GIS dan perhitungan MBR. Proyek ini sangat diprioritaskan karena memberi manfaat tinggi bagi tubuh manusia dan untuk membentuk tubuh yang ideal.
+3.1.1 Tujuan dari proyek ini adalah untuk membuat aplikasi jalan sehat atau joging dengan fitur GIS dan perhitungan BMR. Proyek ini sangat diprioritaskan karena memberi manfaat tinggi bagi tubuh manusia dan untuk membentuk tubuh yang ideal.
 
 3.2 Asumsi-asumsi, ketergantungan/keterkaitan, dan batasan-batasan
 
 3.2.1 Asumsi
 
-Adapun aplikasi yang sejenis jalan sehat atau joging dengan fitur GIS, project yang kami buat ada tambahan fitur perhitungan MBR.
+Adapun aplikasi yang sejenis jalan sehat atau joging dengan fitur GIS, project yang kami buat ada tambahan fitur perhitungan BMR.
 
 3.2.2 Ketergantungan / Keterkaitan dan Batasan - batasan
 
@@ -137,7 +137,7 @@ Bab 4. Proses Teknis
 
 4.1.1. Metoda
 
-Dalam sebuah perancangan Jalan Sehat berbasis mobile, diperlukan perhatian khusus pada karakteristik penggunan dan keterbatasan device-nya. Jalan Sehat berbasis mobile yang ada tidak begitu saja diaplikasikan. Beberapa aspek yang menjadi perhatian dalam perancangan aplikasi Jalan Sehat berbasis berbasis mobile adalah sebagai berikut:
+Dalam sebuah perancangan Pola Hidup Sehat berbasis mobile, diperlukan perhatian khusus pada karakteristik penggunan dan keterbatasan device-nya. Pola Hidup Sehat berbasis mobile yang ada tidak begitu saja diaplikasikan. Beberapa aspek yang menjadi perhatian dalam perancangan aplikasi Jalan Sehat berbasis berbasis mobile adalah sebagai berikut:
 
 1) Keterbatasan Resource
 
@@ -170,21 +170,21 @@ Beberapa hal yang perlu diperhatikan. Tampilan yang menarik, tidak membosankan, 
 
 1. Laptop
 
-Dalam hal ini keberadaan Laptop digunakan untuk membuat Aplikasi Jalan Sehat, melalui aplikasi Android Studio
+Dalam hal ini keberadaan Laptop digunakan untuk membuat Aplikasi Pola Hidup Sehat, melalui aplikasi Android Studio
 
 2. Handphone Android
 
-Dalam hal ini keberadaan Handphone Android digunakan untuk menguji coba aplikasi apakah sudah bisa digunakan atau tidaknya dari aplikasi Jalan Sehat tersebut
+Dalam hal ini keberadaan Handphone Android digunakan untuk menguji coba aplikasi apakah sudah bisa digunakan atau tidaknya dari aplikasi Pola Hidup Sehat tersebut
 
 3. Buku Referensi
 
-Buku Referensi digunakan sebagai sumber untuk mencari Sourcode yang diperlukan dalam membuat aplikasi Jalan Sehat, dan sebagai Sumber data dari Proposal yang dibuat
+Buku Referensi digunakan sebagai sumber untuk mencari Sourcode yang diperlukan dalam membuat aplikasi Pola Hidup Sehat, dan sebagai Sumber data dari Proposal yang dibuat
 
 4.1.3 Teknik
 
 4.1.3.1 Teknik Pengumpulan data
 
-Teknik pengumpulan data dalam membuat aplikasi Jalan Sehat berbasis Mobile menggunakan dua macam metode penelitian. Kedua macam metode tersebut meliputi :
+Teknik pengumpulan data dalam membuat aplikasi Pola Hidup Sehat berbasis Mobile menggunakan dua macam metode penelitian. Kedua macam metode tersebut meliputi :
 
 1.	Metode Observasi
 
@@ -192,21 +192,21 @@ Metode observasi dilakukan untuk kegiatan analisis kebutuhan pada penelitian pen
 
 2.	Metode Tes
 
-Metode tes digunakan untuk mengetahui tingkat efektivitas produk yang dihasilkan berupa media Jalan Sehat berbasis Mobile, apabila nanti sudah ada aplikasinya akan digunakan atau tidaknya.
+Metode tes digunakan untuk mengetahui tingkat efektivitas produk yang dihasilkan berupa media Pola Hidup Sehat berbasis Mobile, apabila nanti sudah ada aplikasinya akan digunakan atau tidaknya.
 
 4.1.3.2 Teknik Analisis data
 
-Data hasil penelitian diperoleh dari diskusi bersama satu kelompok, dengan cara mengetahui terlebih dahulu apa yang saat ini masyarakat butuhkan. Dengan cara itu maka diambil kesepakatan untuk membuat aplikasi Jalan Sehat berbasis Mobile
+Data hasil penelitian diperoleh dari diskusi bersama satu kelompok, dengan cara mengetahui terlebih dahulu apa yang saat ini masyarakat butuhkan. Dengan cara itu maka diambil kesepakatan untuk membuat aplikasi Pola Hidup Sehat berbasis Mobile
 
 4.2 Dokumentasi perangkat lunak
 
 1. Sistem Operasi
 
-Sistem operasi yang digunakan adalah Linux, dan windows
+Sistem operasi yang digunakan adalah Windows
 
 2. Bahasa Pemrograman
 
-Bahasa Pemrograman yang digunakan untuk membuat aplikasi Jalan sehat berbasis Mobile ini menggunakan bahasa pemrograman Java
+Bahasa Pemrograman yang digunakan untuk membuat aplikasi Pola Hidup sehat berbasis Mobile ini menggunakan bahasa pemrograman Java
 
 3. Program Aplikasi
 
@@ -232,7 +232,7 @@ Yaitu fungsi yang membutuhkan penilaian dan analisis sebagai dasar pengambilan k
 
 5. Fungsi Leader-Manajerial
 
-Yaitu fungsi yang dimiliki oleh seorang Manajer Proyek, dalam hal ini diperlukan adanya ketegasan dari seorang pemimpin tersebut dalam memimpin kelompoknya. Hal ini dimaksudkan agar adanya kerjasama dalam  membuat aplikasi Jalan Sehat berbasis Mobile
+Yaitu fungsi yang dimiliki oleh seorang Manajer Proyek, dalam hal ini diperlukan adanya ketegasan dari seorang pemimpin tersebut dalam memimpin kelompoknya. Hal ini dimaksudkan agar adanya kerjasama dalam  membuat aplikasi Pola Hidup Sehat berbasis Mobile
 
 Bab 5. Paket pekerjaan, jadwal, dan budget
 
