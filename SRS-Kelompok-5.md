@@ -49,13 +49,37 @@ BAB 2 GAMBARAN UMUM
 
 2.1 Perspektif Produk
 
+Perangkat lunak yang dibuat (disebut dengan PAHAT) merupakan sebuah perangkat lunak yang digunakan untuk membantu melakukan proses pola hidup sehat dengan memantau aktifitas olahraga serta memantau asupan yang dikonsumsi.
+
+Prosesnya dimana user bisa memilih olahraga yang diinginnkan lalu dapat melihat jalur olahraganya serta memberikan informasi berapa jarak yang sudah ditempuh dan berapa kalori yang sudah terbakar.Selanjutnya dimana si user bisa memantau asupannya dengan kita melakukan perhitungan BMR.
+
+
 2.1.1 Antarmuka Sistem
 
 2.1.2 Antarmuka Pengguna
 
+Aplikasi ini dikembangkan dalam bentuk aplikasi android. Perangkat lunak ini dilengkapi dengan menu untuk pengaksesan berbagai
+fungsi yang disediakan. Interaksi antara pengguna dan perangkat lunak dilakukan dengan menggunakan smartphone. 
+
 2.1.3 Antarmuka Perangkat Keras
 
+Kebutuhan minimum perangkat keras yang dapat digunakan adalah:
+
+1. Seperangkat komputer
+
+2. Smartphone 
+
+Semua perangkat keras yang digunakan merupakan perangkat standar dalam sistem komputer dan
+menggunakan port standar yang ada. 
+
 2.1.4 Antarmuka Perangkat Lunak
+
+Perangkat lunak yang diperlukan oleh aplikasi ini adalah:
+
+1. Sistem Operasi Windows.
+
+2. Browser Internet (Internet Explorer, Opera, Firefox, dll)
+
 
 2.1.5 Antarmuka Komunikasi
 
