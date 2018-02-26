@@ -168,6 +168,7 @@ Bagian ini menspesifikasikan batasan atas keputusan-keputusan perancangan yang d
 1.	Format laporan
 2.	Penamaan data
 3.	Kebutuhan penelusuran audit
+
 Sebagai contoh, bagian ini dapat menentukan kebutuhan perangkat lunak untuk menelusuri aktivitas pemrosesan. Penelusuran ini diperlukan agar suatu aplikasi sesuai dengan peraturan. Kebutuhan penelusuran audit, sebagai contoh, menyatakan bahwa semua perubahan harus dicatat pada suatu file khusus untuk penelusuran dengan isi sebelum dan sesudah dilakukan.
 Contoh lain adalah menyatakan lingkungan implementasi (seperti sistem operasi, DBMS, kakas pengembangan, bahasa pemrograman, kompilator) bila memang merupakan tuntutan yang ditentukan oleh pelanggan
 
