@@ -113,7 +113,7 @@ Daftar berbeda dari setiap modulnya, yang diberikan sebagai berikut.
 
 3.1.1.1 Module Login
 
-Disini User / pengguna diwajibkan untuk menginputkan email dan sandi dan apabila user/pengguna salah dalam memasukan email dan kata sandi maka pengguna tidak dapat menggunaka aplikasinya
+Disini User / pengguna diwajibkan untuk menginputkan email dan sandi dan apabila user/pengguna salah dalam memasukan email dan kata sandi maka pengguna tidak dapat menggunakan aplikasinya
 
 3.1.1.2 Module Menu
 
