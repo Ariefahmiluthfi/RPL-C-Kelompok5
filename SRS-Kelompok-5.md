@@ -113,21 +113,21 @@ Daftar berbeda dari setiap modulnya, yang diberikan sebagai berikut.
 
 3.1.1.1 Module Login
 
-Disini User / pengguna diwajibkan untuk menginputkan email dan sandi
+Disini User / pengguna diwajibkan untuk menginputkan email dan sandi dan apabila user/pengguna salah dalam memasukan email dan kata sandi maka pengguna tidak dapat menggunaka aplikasinya
 
 3.1.1.2 Module Menu
 
-Disini User / Pengguna setelah berhasil login yaitu memilih menu
+Disini User / Pengguna setelah berhasil login yaitu memilih menu, user boleh memilih menu yang tersedia didalam aplikasi ini
 
 3.1.2 Daftar Keluaran
 
 3.1.2.1 Laporan Hasil
 
-Disini user mendapatkan segala informasi ketika selesai melakukan kegiatan olahraga
+Disini user mendapatkan segala informasi ketika selesai melakukan kegiatan olahraga, informasi-informasi tersebut berupa, berupa seberapa jauh kita berolahraga, informasi kebutuhan kalori yang dibutuhkan dll
 
 3.1.2.2 Laporan Penyimpanan
 
-Disini Data hasil dari kegiatan selama olahraga akan disimpan dalam firebase
+Disini Data hasil dari kegiatan selama olahraga akan disimpan dalam firebase dan dengan otomatis datanya tersimpan
 
 3.2 Kebutuhan Atribut Kualitas Perangkat Lunak
 
