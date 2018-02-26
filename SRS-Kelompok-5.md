@@ -92,9 +92,10 @@ Perangkat lunak yang diperlukan oleh aplikasi ini adalah:
 2.2 Fungsi-fungsi Produk
 
 2.3 Karakteristik Pengguna
+
 | Kategori Pengguna | Tugas | Hak Akses Ke Aplikasi |
-| ----- | | ----- | | ----- |
-| | | |
+| ----- | ----- |  ----- |
+| - | - | - |
 
 2.4 Batasan-batasan
 
