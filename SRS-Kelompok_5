@@ -1,1 +1,70 @@
+Software Requirements Specification
+Version X.X
+26 Maret 2018
+Logo Polindra
+Nama Perangkat Lunak
+Nama Kelompok :
+1. Arie Fahmi Luthfi
+2. Diky Anwar
+3. Shafa Dhiyanti
+4. Stephan Dwiki Alkine
 
+Jurusan D3 Teknik Informatika
+Politeknik Negeri Indramayu
+
+I. Pendahuluan
+1.1. Tujuan
+Lihat contoh bagian “purpose”
+1.2. Lingkup
+Lihat contoh bagian “scope of project”
+1.3. Definisi, akronim, singkatan
+Lihat contoh bagian “glossary”
+1.4. Referensi
+Lihat contoh bagian “references”
+1.5. Overview
+Lihat contoh bagian “overview of document”
+II. Gambaran umum
+Tuliskan produk secara umum dan hindari penulisan pernyataan yang berulang dan
+ambigu (harus jelas subjek predikat dan objeknya)
+2.1. Perspektif produk
+Produk perangkat lunak kalian tentang apa, secara umum dia ngapain, untuk apa. Lalu
+bandingkan dengan produk yang sudah ada, lalu jelaskan perbedaannya apa,
+kelebihannya apa, misalnya dikhusukan untuk mitra x atau diadaptasi untuk daerah
+indramayu yang pada umumnya sebagian besar masyarakat adalah petani dan nelayan.
+2.1.1. Antarmuka sistem
+Ada gambar beberapa calon pengguna produk perangkat lunak dengan garis panah
+ke arah produk dimana di dalam ilustrasi produk ada bagian-bagian yang
+menjelaskan kemampuan si produk. Lihat contoh bagian “system environment”
+2.1.2. Antarmuka pengguna
+Gambarkan mock up produk kalian dan jelaskan menggunakan paragraph deskriptif.
+Misalnya layer home terdiri dari beberapa button yang disusun secara grid. Menunya
+terdiri dari daftar lapangan, daftar booking, dll.
+2.1.3. Antarmuka perangkat keras
+Gambarkan antarmuka perangkat keras yang digunakan untuk mendukung sistem
+kalian. Lalu jelaskan menggunakan paragraf deskriptif.
+2.1.4. Antarmuka perangkat lunak
+Kalau tidak ada, skip.
+2.1.5. Antarmuka komunikasi
+Gambarkan dan jelaskan infrastruktur mitra, kalau ada. Tidak ada? skip.
+2.1.6. Batasan memori
+Kalau belum diketahui, boleh diskip dulu
+2.1.7. Operasi-operasi
+Jelaskan setiap operasi pada produk perangkat lunak.
+2.1.8. Kebutuhan adaptasi
+Ada yang diadaptasi? kalau tidak ada, skip saja.
+2.2. Spesifikasi Kebutuhan fungsional
+Gambarkan use case yang berdasarkan pada kebutuhan fungsional produk perangkat
+lunak (disesuaikan dengan operasi 2.1.7). Lihat contoh bagian “functional requirements
+specifications”
+2.3. Spesifikasi kebtuhan non-fungsinoal
+lihat contoh bagian “non-functional requirements”
+2.4. Karakteristik pengguna
+Lihat contoh bagian “user characteristic”
+2.5. Batasan-batasan
+Jelaskan sendiri batasan produk kalian apa saja
+2.6. Asumsi-asumsi keterkaitan
+nomor registrasi maksimal sampai 999
+2.7. Kebutuhan penyeimbang
+Skip
+III. Requirement specification
+Lihat contoh bab 3 hingga sub bab 3.3
