@@ -2,13 +2,13 @@ SOFTWARE REQUIEREMENTS SPECIFICATION ( SRS )
 
 BAB 1 PENDAHULUAN
 
-1.1 Tujuan
+1.1 Tujuan Penulisan Dokumen
 
 Dokumen ini berisi Spesifikasi Kebutuhan Perangkat Lunak (SKPL) atau Software Requirement Spesification (SRS) untuk Aplikasi Pola Hidup Sehat ( Pola Hidup Sehat ) .Tujuan dari penulisan dokumen ini adalah untuk memberikan penjelasan mengenai perangkat lunak yang akan dibangun baik berupa gambaran umum maupun penjelasan detail dan menyeluruh.
 
 Pengguna dari dokumen ini adalah pengembang perangkat lunak aplikasi Pola Hidup Sehat pengguna (user) dari perangkat lunak atau personil-personil yang terlibat dalam sistem.Dokumen ini akan digunakan sebagai bahan acuan dalam proses pengembangan dan sebagai bahan evaluasi pada saat proses pengembangan perangkat lunak maupun di akhir pengembangannya. Dengan adanya dokumen SRS ini diharapkan pengembangan perangkat lunak akan lebih terarah dan lebih terfokus serta tidak menimbulkan ambiguitas terutama bagi pengembang perangkat lunak aplikasi Pola Hidup Sehat.
 
-1.2 Lingkup
+1.2 Lingkup Masalah 
 
 Perangkat lunak yang akan dikembangkan adalah perangkat lunak aplikasi Pola Hidup Sehat, yaitu merupakan perangkat lunak yang digunakan untuk mempermudah pengguna (user) mengetahui aktivitas seperti jalan sehat, jogging, maupun bersepeda dengan GPS yang dimana fungsinya adalah memberikan statistik kepada kita tentang kecepatan, jarak, waktu berolahraga kita, serta perhitungan BMR ( Basal Metabolic Rate ) . Aplikasi ini dapat melakukan hal-hal berikut ini :
 
@@ -20,22 +20,22 @@ Perangkat lunak yang akan dikembangkan adalah perangkat lunak aplikasi Pola Hidu
 
 1.2.4 Memberikan informasi berupa kandungan kalori pada makanan dan minuman
 
-1.3 Definisi, Akronim, Singkatan
-
-Akronim dan Singkatan :
-- Pahat : Aplikasi Pola Hidup Sehat
-- SRS 	 : Software Requirement Specification
-- lot 	 : lokasi penempatan
+1.3 Definisi, Istilah, Singkatan
 
 Definisi :
 - Software Requirement Specification adalah perangkat lunak yang akan dibuat dan sebagai penyembatani komunikasih pembuat dengan pengguna.
 - Use case adalah situasi dimana sistem anda digunakan untuk memenuhi satu atau lebih kebutuhan pemakaian anda.
+Akronim dan Singkatan :
+- Pahat : Aplikasi Pola Hidup Sehat
+- SRS 	 : Software Requirement Specification
+- lot 	 : lokasi penempatan
+1.4 Aturan Penomoran
 
-1.4 Referensi
+1.5 Referensi
 Referensi yang digunakan dalam pengembangan perangkat lunak ini adalah :
 1. Nazruddin Safaat H, *Android : Pemrograman Aplikasi Mobile Smartphone dan Tablet PC Berbasis Android (Revisi 2)*. Informatika.2014.
 
-1.5 Overview
+1.6 Overview
 
 - Bagian pertama berisi penjelasan tentang dokumen SPL yang mencakup tujuan pembuatan dokumen ini, lingkup masalah yang diselesaikan oleh perangkat lunak yang dikembangkan, definisi, referensi dan deskripsi umum.
 
@@ -45,7 +45,7 @@ diambil dalam pengembangan perangkat lunak.
 - Bagian ketiga berisi uraian kebutuhan perangkat lunak secara lebih detail. 
  
 
-BAB 2 GAMBARAN UMUM
+BAB 2 Deskripsi Umum Perangkat Lunak
 
 2.1 Perspektif Produk
 
