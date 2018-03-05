@@ -8,13 +8,13 @@ Versi 1.0
 
 Aplikasi Pola Hidup Sehat ( Pahat )
 
-Arie Fahmi Luthfi     1603064
+-Arie Fahmi Luthfi     (1603064)
 
-Diky Anwar            1603065
+-Diky Anwar            (1603065)
 
-Shafa Dhiyanti        1603083
+-Shafa Dhiyanti        (1603083)
 
-Stephan Dwiki Alkine  1603065
+-Stephan Dwiki Alkine  (1603065)
 
 
 
