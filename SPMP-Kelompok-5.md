@@ -1,8 +1,20 @@
 SPMP ( Software Project Management Plan )
 
+Versi 1.0
+
+12 Februari 2018
 
 ![](http://i64.tinypic.com/t00pzl.png)
 
+Aplikasi Pola Hidup Sehat ( Pahat )
+
+Arie Fahmi Luthfi     1603064
+
+Diky Anwar            1603065
+
+Shafa Dhiyanti        1603083
+
+Stephan Dwiki Alkine  1603065
 
 
 
