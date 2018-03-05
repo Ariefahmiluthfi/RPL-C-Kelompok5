@@ -167,23 +167,15 @@ Antarmuka pemakai akan dikembangkan dengan menggunakan modus grafik. Pengguna be
 
 3.1.2 Antarmuka Perangkat keras
 
-Kebutuhan perangkat keras yang dapat digunakan oleh aplikasi ini adalah:
-
-	PC (Personal Computer)
-	Papan Kunci (Keyboard)
-	Mouse
-	Modem/internet/WiFi
-	Monitor dll
+Kebutuhan perangkat keras yang dapat digunakan oleh aplikasi ini adalah: PC (Personal Computer), Papan Kunci (Keyboard), Mouse, Modem/internet/WiFi, Monitor dll
 
 3.1.3 Antarmuka perangkat lunak
 
 Komunikasi interface yang kamu gunakan adalah client:
 
 	Client = Masyarakat umum
-Perangkat lunak yang digunakan:
-	Android Studio
-	Firebase
-	CorelDraw X7
+
+Perangkat lunak yang digunakan diantaranya yaitu :Android Studio, Firebase, dan CorelDraw X7
 
 3.1.4 Antarmuka Komunikasi
 
