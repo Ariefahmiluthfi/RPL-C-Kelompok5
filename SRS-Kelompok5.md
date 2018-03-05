@@ -155,96 +155,95 @@ nomor registrasi maksimal sampai 999
 2.7. Kebutuhan penyeimbang
 Skip
 
-III. Requirement specification
+3.0 Deskripsi Rinci Kebutuhan
 
-Berikut adalah kebutuhan perangkat lunak untuk perancang sistem aplikasi Jalan Sehat, diantaranya yaitu sebagai berikut :
+3.1 Kebutuhan antarmuka eksternal
 
-3.1 Kebutuhan Antarmuka Eksternal
+Kebutuhan antarmuka eksternal pada perangkat lunak Aplikasi Hidup Sehat mencakup kebutuhan antarmuka pemakai, antarmuka perangkat keras, dan antarmuka perangkat lunak.
 
-Akan disediakan penjelasan rinci dari semua masukan (input) dan luaran (output) dari aplikasi Jalan Sehat
+3.1.1 Antarmuka Pemakai
 
-3.1.1 Daftar Masukan
+Antarmuka pemakai akan dikembangkan dengan menggunakan modus grafik. Pengguna berinteraksi dengan perangkat lunak Aplikasi hidup Sehat melalui antarmuka android. Aplikasi ini memberikan user interface dan akan memberikan petunjuk penggunaan agar memudahkan user dalam penggunaan perangkat lunak ini
 
-Daftar berbeda dari setiap modulnya, yang diberikan sebagai berikut.
+3.1.2 Antarmuka Perangkat keras
 
-3.1.1.1 Module Login
+Kebutuhan perangkat keras yang dapat digunakan oleh aplikasi ini adalah:
 
-Disini User / pengguna diwajibkan untuk menginputkan email dan sandi dan apabila user/pengguna salah dalam memasukan email dan kata sandi maka pengguna tidak dapat menggunakan aplikasinya
+	PC (Personal Computer)
+	Papan Kunci (Keyboard)
+	Mouse
+	Modem/internet/WiFi
+	Monitor dll
 
-3.1.1.2 Module Menu
+3.1.3 Antarmuka perangkat lunak
 
-Disini User / Pengguna setelah berhasil login yaitu memilih menu, user boleh memilih menu yang tersedia didalam aplikasi ini
+Komunikasi interface yang kamu gunakan adalah client:
 
-3.1.2 Daftar Keluaran
+	Client = Masyarakat umum
+Perangkat lunak yang digunakan:
+	Android Studio
+	Firebase
+	CorelDraw X7
 
-3.1.2.1 Laporan Hasil
+3.1.4 Antarmuka Komunikasi
 
-Disini user mendapatkan segala informasi ketika selesai melakukan kegiatan olahraga, informasi-informasi tersebut berupa, berupa seberapa jauh kita berolahraga, informasi kebutuhan kalori yang dibutuhkan dll
+	User = Masyarakat umum
 
-3.1.2.2 Laporan Penyimpanan
+3.2 Kebutuhan Fungsional
 
-Disini Data hasil dari kegiatan selama olahraga akan disimpan dalam firebase dan dengan otomatis datanya tersimpan
+Kebutuhan Fungsional adalah kebutuhan yang harus dipenuhi agar suatu sistem dapat berjalan atau dapat dikatakan kebutuhan tambahan yang memiliki input, proses, dan output. Kebutuhan fungsional yang harus ada dalam sistem yang akan dikembangkan ini adalah sebagai berikut:
 
-3.2 Kebutuhan Atribut Kualitas Perangkat Lunak
+1.	Sistem harus dapat menyediakan informasi mengenai pola hidup sehat secara lebih detail, cepat dan efektif.
+2.	Sistem harus dapat mempermudah user dalam proses kegiatan olahraga. 
 
-Ada sejumlah atribut kualitas perangkat lunak yang dapat ditampilkan sebagai kebutuhan. Atribut yang diinginkan harus dispesifikasikan sedemikian sehingga hasilnya dapat diverifikasi. Uraian minimum pada bagian ini berisi sebuah tabel dengan kolom: Kriteria Kualitas, Tuntutan Kualitas. Butir kualitas yang dapat dipertimbangkan antara lain: keandalan (reliability), ketersediaan (availability), keamanan (security), keremawatan (maintainability), kepemindahan (portability). Bila diperlukan uraian khusus, dapat dilakukan dengan menguraikannya menjadi sub-bab tersendiri.
+Aktor yang ada dalam dalam lingkup sistem adalah
 
-3.2.1	Kehandalan
+a.	User
 
-Bagian ini berisi spesifikasi factor-faktor yang diperlukan untuk mencapai keandalan sistem pada saat diserahkan.
+Yang dilakukan adalah :
 
-3.2.2	Ketersediaan.
+I.	Login
+II.	Melakukan kegiatan kegiatan pola hidup sehat (berjalan, berlari, bersepeda dll)
+III.	Memilih menu-menu yang tersedia
 
-Bagian ini berisi spesifikasi factor-faktor yang diperlukan untuk menjamin tingkat ketersediaan seluruh sistem saat sistem beroperasi, seperti checkpoint, recovery dan restart.
+3.2.1 Pencarian Artikel
 
-3.2.3	Keamanan
+3.2.2 Komunikasi
 
-Bagian ini berisi faktor untuk memproteksi perangkat lunak dari akses, penggunaan, pengubahan, penghancuran atau pengungkapan (disclosure) yang tidak disengaja atau yang merusak. Kebutuhan yang spesifik termasuk hal-hal berikut:
+3.2.3 Tambahan Penulis
 
-Penggunaan teknik kriptografi
-Penyimpanan data log/history
-Pemberian suatu fungsi ke modul-modul yang berbeda
-Pembatasan komunikasi terhadap suatu area tertentu dalam program
-Pemeriksaan integritas data untuk peubah-peubah kritis
-3.2.4	Keremawatan (Maintainability)
+3.2.4 Tambahan Resensi
 
-Bagian ini menentukan atribut perangkat lunak yang berhubungan dengan kemudahan perawatan dari perangkat lunak tersebut. Atribut tersebut dapat berupa kebutuhan akan tingkat modularitas, antarmuka, kompleksitas, dan lain-lain. Penulisan atribut keremawatan tidak dilakukan hanya atas dasar pemikiran atas praktik perancangan yang baik saja, tetapi harus didasari pada tuntutan kondisi sistem. 3.2.5	Kepemindahan (Portability)
+3.2.5 Ubah orang
 
-Atribut dari perangkat lunak yang berhubungan dengan kemudahan pemindahan perangkat lunak ke mesin dan/atau sistem operasi lain. Atribut ini berbentuk antara lain:
+3.2.6 Ubah status artikel
 
-Persentase komponen yang berisi kode yang bergantung pada host
-Persentase kode yang bergantung pada host
-Penggunaan bahasa yang kepemindahannya terbukti
-Penggunaan suatu kompilator tertentu atau subset bahasa tertentu
-Penggunan suatu sistem operasi tertentu
-3.3	Batasan Perancangan
+3.2.7 Masukan Komunikasi
 
-Bagian ini menspesifikasikan batasan atas keputusan-keputusan perancangan yang dituntut oleh standar lain, keterbatasan perangkat keras, dan lain-lain. Standar atau aturan yang ada dapat menurunkan spesifikasi kebutuhan khusus antara lain:
+3.2.8 Tentukan Resensi
 
-Format laporan
-Penamaan data
-Kebutuhan penelusuran audit
-Sebagai contoh, bagian ini dapat menentukan kebutuhan perangkat lunak untuk menelusuri aktivitas pemrosesan. Penelusuran ini diperlukan agar suatu aplikasi sesuai dengan peraturan. Kebutuhan penelusuran audit, sebagai contoh, menyatakan bahwa semua perubahan harus dicatat pada suatu file khusus untuk penelusuran dengan isi sebelum dan sesudah dilakukan. Contoh lain adalah menyatakan lingkungan implementasi (seperti sistem operasi, DBMS, kakas pengembangan, bahasa pemrograman, kompilator) bila memang merupakan tuntutan yang ditentukan oleh pelanggan
+3.2.9 Mengecek Status
 
-3.4	Matriks Keterunutan
+3.2.10 Kirim Komunikasi
 
-Bagian ini berisi daftar seluruh kebutuhan beserta identifikasinya serta cara verifikasi yang direncanakan, yaitu: Inspeksi, Analisis, Demonstrasi. Inspeksi dilakukan dengan mengamati produk yang dihasilkan (biasanya kode program) yang dibandingkan dengan standar atau spesifikasi yang ada. Analisis dilakukan dengan menerapkan pengukuran matematis/kuantitatif terhadap hasil yang didapat dari penerapan produk. Demonstrasi dilakukan dengan mengamati perilaku produk akhir, yaitu melihat kesesuaian antara masukan dan keluaran.
+3.2.11 Menerbitkan Artikel
 
-3.5	Informasi tambahan
+3.2.12 Menghapus Artikel
 
-Dukungan informasi yang digunakan, antara lain:
+3.3 Persyaratan Non-fungsional yang Rinci
 
-Daftar isi
-Index
-Lampiran
-3.5.1	Daftar isi dan Index
+3.3.1 Structur Logis dari Data
 
-Daftar isi dan index adalah cukup penting dan harus mengikuti standard yang ada.
+3.3.2 Keamanan
 
-3.5.2	Lampiran-lampiran Lampiran tidak selalu menjadi bagian dari spesifikasi kebutuhan aktual dan tidak harus selalu ada. Lampiran dapat berisi:
+Untuk memproteksi perangkat lunak dari akses, penggunaan, penghancuran atau pengungkapan (disclosure) yang tidak sengaja atau yang merusak. Kebutuhan yang spesifik termasuk hal-hal berikut :
 
-Contoh format masukan/keluaran, deskripsi analisa biaya, hasil survey
-Deskripsi dari masalah yang dipecahkan oleh perangkat lunak.
-Instruksi khusus, dan media yang cocok untuk pengamatan, dan kebutuhan lain.
-Flow Map atau prosedur manual yang merupakan lingkungan tempat perangkat lunak yang dispesifikasikan akan dijalankan.
-Lampiran lain yang dianggap perlu dan berhubungan dengan spesifikasi perangkat lunak
+1.	Adanya backup data sehingga data lebih reliable
+2.	Penyimpanan data log/history
+3.	Pemberian suatu fungsi ke modul-modul yang berbeda
+4.	Pembatasan komunikasi terhadap suatu area tertentu dalam program,
+5.	Pemeriksaan integritas data peubah-peubah kritis
+
+3.3.3 Pemeliharaan
+
+Adanya pemeliharaan dan pengecekan berkala yang akan dilakukan terhadap program yang berjalan ataupun pengecekan baik terhadap perangkat lunak itu sendiri ataupun hardware yang digunakan. Untuk pemeliharaan tiap harinya, system ini dilengkapi antivirus sehingga meminimalkan kerusakan pada system serta terdapat back up data untuk mencegah hal-hal yang tidak terduga yang tidak diinginkan
