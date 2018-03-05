@@ -4,7 +4,7 @@ Version X.X
 
 26 Maret 2018
 
-Logo Polindra
+logo polindra
 
 Nama Perangkat Lunak
 
