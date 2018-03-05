@@ -1,8 +1,13 @@
 Software Requirements Specification
+
 Version X.X
+
 26 Maret 2018
+
 Logo Polindra
+
 Nama Perangkat Lunak
+
 Nama Kelompok :
 1. Arie Fahmi Luthfi
 2. Diky Anwar
