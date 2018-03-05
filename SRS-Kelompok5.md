@@ -192,11 +192,7 @@ Aktor yang ada dalam dalam lingkup sistem adalah
 
 a.	User
 
-Yang dilakukan adalah :
-
-I.	Login
-II.	Melakukan kegiatan kegiatan pola hidup sehat (berjalan, berlari, bersepeda dll)
-III.	Memilih menu-menu yang tersedia
+Yang dilakukan adalah : Login, Melakukan kegiatan kegiatan pola hidup sehat (berjalan, berlari, bersepeda dll), dan Memilih menu-menu yang tersedia
 
 3.2.1 Pencarian Artikel
 
