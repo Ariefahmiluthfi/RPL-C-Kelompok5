@@ -1,6 +1,6 @@
 Software Requirements Specification
 
-Version 2
+Version 1.0
 
 26 Maret 2018
 
