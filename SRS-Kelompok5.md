@@ -97,6 +97,9 @@ menjelaskan kemampuan si produk. Lihat contoh bagian “system environment”
 Aplikasi ini dikembangkan dalam bentuk aplikasi android. Perangkat lunak ini dilengkapi dengan menu untuk pengaksesan berbagai
 fungsi yang disediakan. Interaksi antara pengguna dan perangkat lunak dilakukan dengan menggunakan smartphone.
 
+
+![](http://i66.tinypic.com/w05pvd.jpg) ![](http://i66.tinypic.com/xx15x.jpg)
+
 2.1.3. Antarmuka perangkat keras
 Kebutuhan minimum perangkat keras yang dapat digunakan adalah:
 
