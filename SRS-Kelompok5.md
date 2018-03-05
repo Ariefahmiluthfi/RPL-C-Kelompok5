@@ -88,9 +88,7 @@ perhitungan BMR.
 
 2.1.1. Antarmuka sistem
 
-Ada gambar beberapa calon pengguna produk perangkat lunak dengan garis panah
-ke arah produk dimana di dalam ilustrasi produk ada bagian-bagian yang
-menjelaskan kemampuan si produk. Lihat contoh bagian “system environment”
+![](http://i67.tinypic.com/jrywzs.png)
 
 2.1.2. Antarmuka pengguna
 
@@ -98,7 +96,7 @@ Aplikasi ini dikembangkan dalam bentuk aplikasi android. Perangkat lunak ini dil
 fungsi yang disediakan. Interaksi antara pengguna dan perangkat lunak dilakukan dengan menggunakan smartphone.
 
 
-![](http://i66.tinypic.com/w05pvd.jpg) ![](http://i66.tinypic.com/xx15x.jpg)
+![](http://i66.tinypic.com/25jjl7k.jpg)![](http://i66.tinypic.com/w05pvd.jpg) ![](http://i66.tinypic.com/xx15x.jpg) ![](http://i65.tinypic.com/vxey5v.jpg) ![](http://i66.tinypic.com/2agncp0.jpg) ![](http://i63.tinypic.com/2cfa79i.jpg) ![](http://i67.tinypic.com/23mr5t1.jpg) ![](http://i64.tinypic.com/vzwppx.jpg)
 
 2.1.3. Antarmuka perangkat keras
 Kebutuhan minimum perangkat keras yang dapat digunakan adalah:
@@ -116,11 +114,9 @@ Perangkat lunak yang diperlukan oleh aplikasi ini adalah:
 
 1. Sistem Operasi Windows.
 
-2. Browser Internet (Internet Explorer, Opera, Firefox, dll)
+2. Playstore
 
 2.1.5. Antarmuka komunikasi
-
-Gambarkan dan jelaskan infrastruktur mitra, kalau ada. Tidak ada? skip.
 
 2.1.6. Batasan memori
 
@@ -161,4 +157,94 @@ Skip
 
 III. Requirement specification
 
-Lihat contoh bab 3 hingga sub bab 3.3
+Berikut adalah kebutuhan perangkat lunak untuk perancang sistem aplikasi Jalan Sehat, diantaranya yaitu sebagai berikut :
+
+3.1 Kebutuhan Antarmuka Eksternal
+
+Akan disediakan penjelasan rinci dari semua masukan (input) dan luaran (output) dari aplikasi Jalan Sehat
+
+3.1.1 Daftar Masukan
+
+Daftar berbeda dari setiap modulnya, yang diberikan sebagai berikut.
+
+3.1.1.1 Module Login
+
+Disini User / pengguna diwajibkan untuk menginputkan email dan sandi dan apabila user/pengguna salah dalam memasukan email dan kata sandi maka pengguna tidak dapat menggunakan aplikasinya
+
+3.1.1.2 Module Menu
+
+Disini User / Pengguna setelah berhasil login yaitu memilih menu, user boleh memilih menu yang tersedia didalam aplikasi ini
+
+3.1.2 Daftar Keluaran
+
+3.1.2.1 Laporan Hasil
+
+Disini user mendapatkan segala informasi ketika selesai melakukan kegiatan olahraga, informasi-informasi tersebut berupa, berupa seberapa jauh kita berolahraga, informasi kebutuhan kalori yang dibutuhkan dll
+
+3.1.2.2 Laporan Penyimpanan
+
+Disini Data hasil dari kegiatan selama olahraga akan disimpan dalam firebase dan dengan otomatis datanya tersimpan
+
+3.2 Kebutuhan Atribut Kualitas Perangkat Lunak
+
+Ada sejumlah atribut kualitas perangkat lunak yang dapat ditampilkan sebagai kebutuhan. Atribut yang diinginkan harus dispesifikasikan sedemikian sehingga hasilnya dapat diverifikasi. Uraian minimum pada bagian ini berisi sebuah tabel dengan kolom: Kriteria Kualitas, Tuntutan Kualitas. Butir kualitas yang dapat dipertimbangkan antara lain: keandalan (reliability), ketersediaan (availability), keamanan (security), keremawatan (maintainability), kepemindahan (portability). Bila diperlukan uraian khusus, dapat dilakukan dengan menguraikannya menjadi sub-bab tersendiri.
+
+3.2.1	Kehandalan
+
+Bagian ini berisi spesifikasi factor-faktor yang diperlukan untuk mencapai keandalan sistem pada saat diserahkan.
+
+3.2.2	Ketersediaan.
+
+Bagian ini berisi spesifikasi factor-faktor yang diperlukan untuk menjamin tingkat ketersediaan seluruh sistem saat sistem beroperasi, seperti checkpoint, recovery dan restart.
+
+3.2.3	Keamanan
+
+Bagian ini berisi faktor untuk memproteksi perangkat lunak dari akses, penggunaan, pengubahan, penghancuran atau pengungkapan (disclosure) yang tidak disengaja atau yang merusak. Kebutuhan yang spesifik termasuk hal-hal berikut:
+
+Penggunaan teknik kriptografi
+Penyimpanan data log/history
+Pemberian suatu fungsi ke modul-modul yang berbeda
+Pembatasan komunikasi terhadap suatu area tertentu dalam program
+Pemeriksaan integritas data untuk peubah-peubah kritis
+3.2.4	Keremawatan (Maintainability)
+
+Bagian ini menentukan atribut perangkat lunak yang berhubungan dengan kemudahan perawatan dari perangkat lunak tersebut. Atribut tersebut dapat berupa kebutuhan akan tingkat modularitas, antarmuka, kompleksitas, dan lain-lain. Penulisan atribut keremawatan tidak dilakukan hanya atas dasar pemikiran atas praktik perancangan yang baik saja, tetapi harus didasari pada tuntutan kondisi sistem. 3.2.5	Kepemindahan (Portability)
+
+Atribut dari perangkat lunak yang berhubungan dengan kemudahan pemindahan perangkat lunak ke mesin dan/atau sistem operasi lain. Atribut ini berbentuk antara lain:
+
+Persentase komponen yang berisi kode yang bergantung pada host
+Persentase kode yang bergantung pada host
+Penggunaan bahasa yang kepemindahannya terbukti
+Penggunaan suatu kompilator tertentu atau subset bahasa tertentu
+Penggunan suatu sistem operasi tertentu
+3.3	Batasan Perancangan
+
+Bagian ini menspesifikasikan batasan atas keputusan-keputusan perancangan yang dituntut oleh standar lain, keterbatasan perangkat keras, dan lain-lain. Standar atau aturan yang ada dapat menurunkan spesifikasi kebutuhan khusus antara lain:
+
+Format laporan
+Penamaan data
+Kebutuhan penelusuran audit
+Sebagai contoh, bagian ini dapat menentukan kebutuhan perangkat lunak untuk menelusuri aktivitas pemrosesan. Penelusuran ini diperlukan agar suatu aplikasi sesuai dengan peraturan. Kebutuhan penelusuran audit, sebagai contoh, menyatakan bahwa semua perubahan harus dicatat pada suatu file khusus untuk penelusuran dengan isi sebelum dan sesudah dilakukan. Contoh lain adalah menyatakan lingkungan implementasi (seperti sistem operasi, DBMS, kakas pengembangan, bahasa pemrograman, kompilator) bila memang merupakan tuntutan yang ditentukan oleh pelanggan
+
+3.4	Matriks Keterunutan
+
+Bagian ini berisi daftar seluruh kebutuhan beserta identifikasinya serta cara verifikasi yang direncanakan, yaitu: Inspeksi, Analisis, Demonstrasi. Inspeksi dilakukan dengan mengamati produk yang dihasilkan (biasanya kode program) yang dibandingkan dengan standar atau spesifikasi yang ada. Analisis dilakukan dengan menerapkan pengukuran matematis/kuantitatif terhadap hasil yang didapat dari penerapan produk. Demonstrasi dilakukan dengan mengamati perilaku produk akhir, yaitu melihat kesesuaian antara masukan dan keluaran.
+
+3.5	Informasi tambahan
+
+Dukungan informasi yang digunakan, antara lain:
+
+Daftar isi
+Index
+Lampiran
+3.5.1	Daftar isi dan Index
+
+Daftar isi dan index adalah cukup penting dan harus mengikuti standard yang ada.
+
+3.5.2	Lampiran-lampiran Lampiran tidak selalu menjadi bagian dari spesifikasi kebutuhan aktual dan tidak harus selalu ada. Lampiran dapat berisi:
+
+Contoh format masukan/keluaran, deskripsi analisa biaya, hasil survey
+Deskripsi dari masalah yang dipecahkan oleh perangkat lunak.
+Instruksi khusus, dan media yang cocok untuk pengamatan, dan kebutuhan lain.
+Flow Map atau prosedur manual yang merupakan lingkungan tempat perangkat lunak yang dispesifikasikan akan dijalankan.
+Lampiran lain yang dianggap perlu dan berhubungan dengan spesifikasi perangkat lunak
