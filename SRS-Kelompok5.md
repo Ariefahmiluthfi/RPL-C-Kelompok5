@@ -1,15 +1,22 @@
-Software Requirements Specification
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body><center>
+	Software Requirements Specification
 
 Version 1.1
 
 26 Maret 2018
+ <p align="center"> 
+ ![](http://i64.tinypic.com/t00pzl.png)
+ </p> 
 
-![](http://i64.tinypic.com/t00pzl.png)
-
-
-Nama Perangkat Lunak
+Rekayasa Perangkat Lunak
 
 Nama Kelompok :
+
 1. Arie Fahmi Luthfi
 2. Diky Anwar
 3. Shafa Dhiyanti
@@ -17,6 +24,10 @@ Nama Kelompok :
 
 Jurusan D3 Teknik Informatika
 Politeknik Negeri Indramayu
+</center>
+
+</body>
+</html>
 
 I. Pendahuluan
 
