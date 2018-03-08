@@ -1,14 +1,14 @@
 
-	Software Requirements Specification
+##<center>**Software Requirements Specification**
 
-Version 1.1
+###Version 1.1
 
-26 Maret 2018
+###26 Maret 2018
  
  ![](http://i68.tinypic.com/24fbuvd.png)
 
 
-Rekayasa Perangkat Lunak
+##Aplikasi Pola Hidup Sehat ( Pahat )
 
 Nama Kelompok :
 
@@ -18,8 +18,9 @@ Nama Kelompok :
 4. Stephan Dwiki Alkine
 
 Jurusan D3 Teknik Informatika
-Politeknik Negeri Indramayu
-
+<br>Politeknik Negeri Indramayu
+<br>2018
+</center>
 
 I. Pendahuluan
 
