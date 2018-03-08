@@ -10,7 +10,7 @@ Version 1.1
 
 26 Maret 2018
  <p align="center"> 
- ![](http://i64.tinypic.com/t00pzl.png)
+ ![](http://i68.tinypic.com/24fbuvd.png)
  </p> 
 
 Rekayasa Perangkat Lunak
