@@ -1,17 +1,12 @@
-<!DOCTYPE html>
-<html>
-<head>
-	
-</head>
-<body><center>
+
 	Software Requirements Specification
 
 Version 1.1
 
 26 Maret 2018
- <p align="center"> 
+ 
  ![](http://i68.tinypic.com/24fbuvd.png)
- </p> 
+
 
 Rekayasa Perangkat Lunak
 
@@ -24,10 +19,7 @@ Nama Kelompok :
 
 Jurusan D3 Teknik Informatika
 Politeknik Negeri Indramayu
-</center>
 
-</body>
-</html>
 
 I. Pendahuluan
 
