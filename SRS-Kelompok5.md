@@ -226,6 +226,8 @@ Yang dilakukan adalah : Login, Melakukan kegiatan kegiatan pola hidup sehat (ber
 
 3.3.1 Structur Logis dari Data
 
+![](http://i68.tinypic.com/25au81d.png)
+
 3.3.2 Keamanan
 
 Untuk memproteksi perangkat lunak dari akses, penggunaan, penghancuran atau pengungkapan (disclosure) yang tidak sengaja atau yang merusak. Kebutuhan yang spesifik termasuk hal-hal berikut :
