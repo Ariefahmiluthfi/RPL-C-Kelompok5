@@ -92,7 +92,7 @@ perhitungan BMR.
 
 2.1.1. Antarmuka sistem
 
-![](http://i67.tinypic.com/jrywzs.png)
+![](http://i66.tinypic.com/125kuxj.png)
 
 2.1.2. Antarmuka pengguna
 
@@ -100,7 +100,7 @@ Aplikasi ini dikembangkan dalam bentuk aplikasi android. Perangkat lunak ini dil
 fungsi yang disediakan. Interaksi antara pengguna dan perangkat lunak dilakukan dengan menggunakan smartphone.
 
 
-![](http://i66.tinypic.com/25jjl7k.jpg)![](http://i66.tinypic.com/w05pvd.jpg) ![](http://i66.tinypic.com/xx15x.jpg) ![](http://i65.tinypic.com/vxey5v.jpg) ![](http://i66.tinypic.com/2agncp0.jpg) ![](http://i63.tinypic.com/2cfa79i.jpg) ![](http://i67.tinypic.com/23mr5t1.jpg) ![](http://i64.tinypic.com/vzwppx.jpg)
+![](http://i66.tinypic.com/25jjl7k.jpg)![](http://i66.tinypic.com/w05pvd.jpg) ![](http://i66.tinypic.com/xx15x.jpg) ![](http://i65.tinypic.com/vxey5v.jpg) ![](http://i66.tinypic.com/2agncp0.jpg) ![](http://i63.tinypic.com/2cfa79i.jpg) ![](http://i67.tinypic.com/23mr5t1.jpg) ![](http://i64.tinypic.com/vzwppx.jpg) ![](http://i64.tinypic.com/2vabasi.jpg) ![](http://i64.tinypic.com/9qydch.jpg) ![](http://i63.tinypic.com/qyx3f6.jpg) ![](http://i66.tinypic.com/2567bwg.jpg) ![](http://i63.tinypic.com/rw81md.jpg) ![](http://i67.tinypic.com/iqc4eu.jpg) ![](http://i63.tinypic.com/2v8smcw.jpg) ![](http://i65.tinypic.com/wbcr9v.jpg) ![](http://i67.tinypic.com/2cnbi39.jpg) ![](http://i63.tinypic.com/2ynqm3a.jpg) ![](http://i68.tinypic.com/2mh8r9x.jpg) ![](http://i68.tinypic.com/2rpcvp5.jpg)
 
 2.1.3. Antarmuka perangkat keras
 Kebutuhan minimum perangkat keras yang dapat digunakan adalah:
