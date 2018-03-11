@@ -23,6 +23,7 @@ Jurusan D3 Teknik Informatika
 </center>
 
 ##BAB 1 Pendahuluan
+
 1.1 Tujuan
 
 Tujuan pembuatan SDD (Software Design Description) ini adalah untuk menjelaskan langkah-langkah desain dan proses-proses dalam pembuatan sistem aplikasi yang akan diterapkan pada Aplikasi Pola Hidup Sehat berbasis Android, dan juga memberi definisi kebutuhan untuk sistem, spesifikasi kebutuhan fungsional.
@@ -46,6 +47,7 @@ Aplikasi Pola Hidup Sehat (Pahat) adalah sebuah aplikasi berbasis android yang m
 | User | Pengguna aplikasi |
 
 ##BAB 2 Referensi
+
 Dokumen ini memiliki beberapa referensi dalam pembuatannya, yaitu sebagai berikut:
 
 -  IEEE. 1998. IEEE Recommended Practice for Software Requirement Specification. New York : IEEE
