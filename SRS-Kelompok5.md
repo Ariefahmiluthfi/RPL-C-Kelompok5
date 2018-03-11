@@ -165,7 +165,7 @@ Karakteristik pengguna dari Aplikasi Pola Hidup Sehat ini adalah semua yang ingi
 2.7. Kebutuhan penyeimbang
 
 
-##3.0 Deskripsi Rinci Kebutuhan
+##3.Deskripsi Rinci Kebutuhan
 
 3.1 Kebutuhan antarmuka eksternal
 
@@ -203,7 +203,7 @@ Yang dilakukan adalah : Login, Melakukan kegiatan kegiatan pola hidup sehat (ber
 
 3.3.1 Structur Logis dari Data
 
-![](http://i68.tinypic.com/25au81d.png)
+![](http://i66.tinypic.com/2ryro08.png)
 
 3.3.2 Keamanan
 
@@ -218,3 +218,5 @@ Untuk memproteksi perangkat lunak dari akses, penggunaan, penghancuran atau peng
 3.3.3 Pemeliharaan
 
 Adanya pemeliharaan dan pengecekan berkala yang akan dilakukan terhadap program yang berjalan ataupun pengecekan baik terhadap perangkat lunak itu sendiri ataupun hardware yang digunakan. Untuk pemeliharaan tiap harinya, system ini dilengkapi antivirus sehingga meminimalkan kerusakan pada system serta terdapat back up data untuk mencegah hal-hal yang tidak terduga yang tidak diinginkan
+
+##4. Informasi Pendukung
