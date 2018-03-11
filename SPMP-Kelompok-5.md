@@ -1,4 +1,4 @@
-##<center>**Software Project Management Plan**
+##<center>** Software Project Management Plan **
 
 ###Versi 1.1
 
