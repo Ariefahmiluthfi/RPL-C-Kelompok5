@@ -92,7 +92,7 @@ perhitungan BMR.
 
 2.1.1. Antarmuka sistem
 
-![](http://i66.tinypic.com/125kuxj.png)
+![](http://i66.tinypic.com/503g5.png)
 
 2.1.2. Antarmuka pengguna
 
@@ -105,9 +105,11 @@ fungsi yang disediakan. Interaksi antara pengguna dan perangkat lunak dilakukan 
 2.1.3. Antarmuka perangkat keras
 Kebutuhan minimum perangkat keras yang dapat digunakan adalah:
 
-1. Seperangkat komputer
 
-2. Smartphone 
+- Seperangkat komputer
+
+
+- Smartphone 
 
 Semua perangkat keras yang digunakan merupakan perangkat standar dalam sistem komputer dan
 menggunakan port standar yang ada. 
@@ -116,48 +118,47 @@ menggunakan port standar yang ada.
 
 Perangkat lunak yang diperlukan oleh aplikasi ini adalah:
 
-1. Sistem Operasi Windows.
 
-2. Playstore
+- Mobile Aplikasi Pola Hidup Sehat
 
 2.1.5. Antarmuka komunikasi
 
+Aplikasi ini menggunakan internet untuk menjalankannya. 
+
 2.1.6. Batasan memori
 
-Kalau belum diketahui, boleh diskip dulu
 
 2.1.7. Operasi-operasi
 
-Jelaskan setiap operasi pada produk perangkat lunak.
+- Login melalui mobile
+
+- Pilih olahraga
+
+- Hitung BMR
+
+- Data Kalori
 
 2.1.8. Kebutuhan adaptasi
 
-Ada yang diadaptasi? kalau tidak ada, skip saja.
+
 
 2.2. Spesifikasi Kebutuhan fungsional
 
-Gambarkan use case yang berdasarkan pada kebutuhan fungsional produk perangkat
-lunak (disesuaikan dengan operasi 2.1.7). Lihat contoh bagian “functional requirements
-specifications”
+![](http://i66.tinypic.com/125kuxj.jpg)
 
 2.3. Spesifikasi kebtuhan non-fungsinoal
 
-lihat contoh bagian “non-functional requirements”
-
 2.4. Karakteristik pengguna
 
-Lihat contoh bagian “user characteristic”
 
 2.5. Batasan-batasan
 
-Jelaskan sendiri batasan produk kalian apa saja
 
 2.6. Asumsi-asumsi keterkaitan
 
-nomor registrasi maksimal sampai 999
 
 2.7. Kebutuhan penyeimbang
-Skip
+
 
 3.0 Deskripsi Rinci Kebutuhan
 
