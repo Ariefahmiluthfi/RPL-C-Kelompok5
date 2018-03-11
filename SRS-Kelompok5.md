@@ -22,7 +22,7 @@ Jurusan D3 Teknik Informatika
 <br>2018
 </center>
 
-I. Pendahuluan
+##1. Pendahuluan
 
 1.1. Tujuan
 
@@ -76,7 +76,7 @@ perangkat lunak, karakteristik pengguna, batasan dan asumsi yang diambil dalam p
 
 - Bagian ketiga berisi uraian kebutuhan perangkat lunak secara lebih detail.
 
-II. Gambaran umum
+##2. Gambaran Umum
 
 Tuliskan produk secara umum dan hindari penulisan pernyataan yang berulang dan
 ambigu (harus jelas subjek predikat dan objeknya)
@@ -148,10 +148,15 @@ Aplikasi ini menggunakan internet untuk menjalankannya.
 
 2.3. Spesifikasi kebtuhan non-fungsinoal
 
+- Design layout mobile
+
 2.4. Karakteristik pengguna
 
+Karakteristik pengguna dari Aplikasi Pola Hidup Sehat ini adalah semua yang ingin menggunakannya untuk menerapkan pola hidup sehat dengan berolahraga dan mengatur pola makan.
 
 2.5. Batasan-batasan
+
+- Aplikasi Pahat ini belum bisa membagikan kegiatan kita ke media sosial.
 
 
 2.6. Asumsi-asumsi keterkaitan
@@ -160,31 +165,12 @@ Aplikasi ini menggunakan internet untuk menjalankannya.
 2.7. Kebutuhan penyeimbang
 
 
-3.0 Deskripsi Rinci Kebutuhan
+##3.0 Deskripsi Rinci Kebutuhan
 
 3.1 Kebutuhan antarmuka eksternal
 
 Kebutuhan antarmuka eksternal pada perangkat lunak Aplikasi Hidup Sehat mencakup kebutuhan antarmuka pemakai, antarmuka perangkat keras, dan antarmuka perangkat lunak.
 
-3.1.1 Antarmuka Pemakai
-
-Antarmuka pemakai akan dikembangkan dengan menggunakan modus grafik. Pengguna berinteraksi dengan perangkat lunak Aplikasi hidup Sehat melalui antarmuka android. Aplikasi ini memberikan user interface dan akan memberikan petunjuk penggunaan agar memudahkan user dalam penggunaan perangkat lunak ini
-
-3.1.2 Antarmuka Perangkat keras
-
-Kebutuhan perangkat keras yang dapat digunakan oleh aplikasi ini adalah: PC (Personal Computer), Papan Kunci (Keyboard), Mouse, Modem/internet/WiFi, Monitor dll
-
-3.1.3 Antarmuka perangkat lunak
-
-Komunikasi interface yang kamu gunakan adalah client:
-
-	Client = Masyarakat umum
-
-Perangkat lunak yang digunakan diantaranya yaitu :Android Studio, Firebase, dan CorelDraw X7
-
-3.1.4 Antarmuka Komunikasi
-
-	User = Masyarakat umum
 
 3.2 Kebutuhan Fungsional
 
@@ -199,29 +185,19 @@ a.	User
 
 Yang dilakukan adalah : Login, Melakukan kegiatan kegiatan pola hidup sehat (berjalan, berlari, bersepeda dll), dan Memilih menu-menu yang tersedia
 
-3.2.1 Pencarian Artikel
+3.2.1 Memilih olahraga
 
-3.2.2 Komunikasi
+3.2.2 Menampilkan jalur olahraga
 
-3.2.3 Tambahan Penulis
+3.2.3 Melakukan Perhitungan BMR
 
-3.2.4 Tambahan Resensi
+3.2.4 Melihat data kandungan kalori
 
-3.2.5 Ubah orang
+3.2.5 Menghitung konsumsi kalori
 
-3.2.6 Ubah status artikel
+3.2.6 Menampilkan jarak dan kalori yang terbakar saat olahraga
 
-3.2.7 Masukan Komunikasi
-
-3.2.8 Tentukan Resensi
-
-3.2.9 Mengecek Status
-
-3.2.10 Kirim Komunikasi
-
-3.2.11 Menerbitkan Artikel
-
-3.2.12 Menghapus Artikel
+3.2.7 Menampilkan laporan kalori user
 
 3.3 Persyaratan Non-fungsional yang Rinci
 
