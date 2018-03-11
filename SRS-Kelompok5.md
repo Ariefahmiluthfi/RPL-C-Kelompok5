@@ -1,7 +1,7 @@
 
 ##<center>**Software Requirements Specification**
 
-###Versi 1.1
+###Versi 1.2
 
 ###26 Februari 2018
  
