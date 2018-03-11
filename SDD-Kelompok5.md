@@ -1,7 +1,7 @@
 
 ##<center>**Software Design Description**
 
-###Version 1.0
+###Versi 1.0
 
 ###4 Maret 2018
  
