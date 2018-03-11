@@ -1,8 +1,8 @@
-SPMP ( Software Project Management Plan )
+##<center>**Software Project Management Plan**
 
-Versi 1.0
+###Versi 1.1
 
-12 Februari 2018
+###12 Februari 2018
 
 ![](http://i64.tinypic.com/t00pzl.png)
 
@@ -12,17 +12,22 @@ Kelompok 5
 
 Nama Kelompok :
 
--Arie Fahmi Luthfi     (1603064)
+1.Arie Fahmi Luthfi     (1603064)
 
--Diky Anwar            (1603065)
+2.Diky Anwar            (1603065)
 
--Shafa Dhiyanti        (1603083)
+3.Shafa Dhiyanti        (1603083)
 
--Stephan Dwiki Alkine  (1603065)
+4.Stephan Dwiki Alkine  (1603065)
+
+**Jurusan D3 Teknik Informatika
+<br>Politeknik Negeri Indramayu
+<br>2018**
+</center>
 
 
 
-Bab 1. Pendahuluan
+##Bab 1. Pendahuluan
 
 1.1 Gambaran Proyek
 
@@ -54,7 +59,7 @@ dan dari sumber internet : http://12345irfan.blogspot.co.id/2015/03/dokumen-spmp
 | IEEE |	Institute of Electrical and Electronics Engineer |
 | ----------- | --------- | 
 
-Bab 2. Organisasi Proyek
+##Bab 2. Organisasi Proyek
 
 2.1 Model proses
 
@@ -95,7 +100,7 @@ Desainer : Membuat kerangka desain projek yang sedang dibuat
 Database Engineer : Membuat perancangan sistem database
 
 
-Bab 3. Proses Manajerial
+##Bab 3. Proses Manajerial
 
 3.1 Tujuan dan prioritas manajemen
 
@@ -155,7 +160,7 @@ Proses kontroling dilakukan oleh manager tim dan dilaksanakan setiap hari jumat 
 | Desainer            | Arie Fahmi Luthfi |
 | Marketing           | Diky Anwar |
 
-Bab 4. Proses Teknis
+##Bab 4. Proses Teknis
 
 4.1 Metode, tool, dan teknik
 
@@ -258,7 +263,7 @@ Yaitu fungsi yang membutuhkan penilaian dan analisis sebagai dasar pengambilan k
 
 Yaitu fungsi yang dimiliki oleh seorang Manajer Proyek, dalam hal ini diperlukan adanya ketegasan dari seorang pemimpin tersebut dalam memimpin kelompoknya. Hal ini dimaksudkan agar adanya kerjasama dalam  membuat aplikasi Pola Hidup Sehat berbasis Mobile
 
-Bab 5. Paket pekerjaan, jadwal, dan budget
+##Bab 5. Paket pekerjaan, jadwal, dan budget
 
 5.1 Paket pekerjaan
 
