@@ -31,7 +31,7 @@ Sehat ( Pahat ) .Tujuan dari penulisan dokumen ini adalah untuk memberikan penje
 dibangun baik berupa gambaran umum maupun penjelasan detail dan menyeluruh.
 
 Pengguna dari dokumen ini adalah pengembang perangkat lunak aplikasi Pola Hidup Sehat pengguna (user) dari perangkat lunak atau 
-personil-personil yang terlibat dalam sistem.Dokumen ini akan digunakan sebagai bahan acuan dalam proses pengembangan dan sebagai bahan 
+personil-personil yang terlibat dalam sistem. Dokumen ini akan digunakan sebagai bahan acuan dalam proses pengembangan dan sebagai bahan 
 evaluasi pada saat proses pengembangan perangkat lunak maupun di akhir pengembangannya. Dengan adanya dokumen SRS ini diharapkan 
 pengembangan perangkat lunak akan lebih terarah dan lebih terfokus serta tidak menimbulkan ambiguitas terutama bagi pengembang 
 perangkat lunak aplikasi Pola Hidup Sehat.
@@ -40,7 +40,7 @@ perangkat lunak aplikasi Pola Hidup Sehat.
 
 Perangkat lunak yang akan dikembangkan adalah perangkat lunak aplikasi Pola Hidup Sehat, yaitu merupakan perangkat lunak yang digunakan 
 untuk mempermudah pengguna (user) mengetahui aktivitas seperti jalan sehat, jogging, maupun bersepeda dengan GPS yang dimana fungsinya 
-adalah memberikan statistik kepada kita tentang kecepatan, jarak, waktu berolahraga kita, serta perhitungan BMR ( Basal Metabolic Rate ).
+adalah memberikan statistik kepada kita tentang kecepatan, jarak, dan waktu berolahraga kita, serta perhitungan BMR ( Basal Metabolic Rate ).
 Aplikasi ini dapat melakukan hal-hal berikut ini :
 
 1.2.1 Fasilitas Login untuk pengguna ( user )
