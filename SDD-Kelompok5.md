@@ -46,23 +46,64 @@ Aplikasi Pola Hidup Sehat (Pahat) adalah sebuah aplikasi berbasis android yang m
 | SDD | Software Design Description. Dokumen untuk menjelaskan langkah-langkah desain dan proses-proses dalam pembuatan sistem aplikasi yang akan diterapkan pada aplikasi. |
 | User | Pengguna aplikasi |
 
-##BAB 2 Referensi
+1.4 Referensi
 
 Dokumen ini memiliki beberapa referensi dalam pembuatannya, yaitu sebagai berikut:
 
--  IEEE. 1998. IEEE Recommended Practice for Software Requirement Specification. New York : IEEE
 
-- Dokumen SKPL Aplikasi
+- IEEE Draft Standard for Software Design Descriptions
+
+1.5 Ikhtisar Dokumen
+
+##BAB 2 Deskripsi Perancangan Global
+
+2.1 Rancangan Lingkungan Implementasi
+
+2.2 Definisi Domain
+
+2.2.2 Conceptual Data Model
+
+2.2.3 Physical Data Model
+
+2.2.4 Daftar Tabel Aplikasi
+
+2.3 Deskripsi Modul
 
 
-##BAB 3 Data Flow Diagram
+##BAB 3 Deskripsi Perancangan Rinci
 
-- Context Diagram
+3.1 Diagram Konteks
 
 ![](http://i64.tinypic.com/5eguie.png)
 
-- DFD Level 0
+3.1.1 DFD Level 0
 ![](http://i63.tinypic.com/2who2z8.png)
 
-- DFD Level 1
+3.1.1.1 DFD Level 1
 ![](http://i67.tinypic.com/nvw3tu.png)
+
+3.2 Deskripsi Rinci Tabel
+
+3.2.1 Tabel A
+
+3.3 Deskripsi Rinci Modul
+
+3.3.1 Modul A
+
+3.3.1.1 Fungsi Modul
+
+3.3.1.2 Spesifikasi Layar Utama
+
+3.3.1.3 Spesifikasi Query
+
+(jika ada)
+
+3.3.1.4 Spesifikasi Field Data Layar
+
+3.3.1.5 Spesifikasi Obyek Pada Layer
+
+3.3.1.6 Spesifikasi Proses / Algoritma
+
+3.3.2 Modul B
+
+3.4 Matriks Keturunan
