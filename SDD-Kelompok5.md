@@ -55,6 +55,14 @@ Dokumen ini memiliki beberapa referensi dalam pembuatannya, yaitu sebagai beriku
 
 1.5 Ikhtisar Dokumen
 
+Dokumen SDD ini berisi deskripsi rancangan perangkat lunak yang akan dikembangkan berdasarkan dokumen SRS. Dalam dokumen SDD ini dijabarkan perincian rancangan perangkat lunak yang dikembangkan, sehingga dapat diimplementasikan hingga level teknis. Gambaran umum dokumen ini terdapat pada penjelasan dibawah ini .
+
+a. Bab 1, merupakan bab pendahuluan yang berisikan tentang overview dari rencana pengembangan perangkat lunak secara umum, seperti tujuan penulisan dokumen, lingkup masalah, definisi dan istilah, referensi.
+
+b. Bab 2, merupakan deskripsi perancangan global yang berisi tentang perancangan perangkat lunak secara umum seperti lingkungan operasi yang akan digunakan untuk implementasi perangkat lunak, pemodelan data-data yang akan digunakan dalam perangkat lunak, dan daftar tabel yang digunakan sebagai database dalam perangkat lunak yang dikembangkan.
+
+c. Bab 3, merupakan deskripsi perancangan rinci yang berisi tentang rincian keseluruhan atau detail menyeluruh dari perangkat lunak yang akan dikembangkan, seperti pendeskripsian secara rinci database yang akan digunakan didalam perangkat lunak dan rincian pemrosesan yang terjadi didalam perangkat lunak yang dikembangkan.
+
 ##BAB 2 Deskripsi Perancangan Global
 
 2.1 Rancangan Lingkungan Implementasi
