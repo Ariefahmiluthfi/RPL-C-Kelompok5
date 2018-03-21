@@ -200,7 +200,7 @@ Yang dilakukan adalah : Login, Melakukan kegiatan kegiatan pola hidup sehat (ber
 
 3.3.1 Structur Logis dari Data
 
-![](http://i68.tinypic.com/bdns7n.png)
+![](http://i68.tinypic.com/2jacnth.png)
 
 3.3.2 Keamanan
 
