@@ -16,7 +16,7 @@ Arie Fahmi Luthfi<br>Diky Anwar<br>Shafa Dhiyanti<br>Stephan Dwiki Alkine
 
 Jurusan D3 Teknik Informatika
 <br>Politeknik Negeri Indramayu
-<br>2018
+<br>2017
 </center>
 
 ##1. Pendahuluan
