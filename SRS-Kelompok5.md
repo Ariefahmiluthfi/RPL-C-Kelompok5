@@ -1,5 +1,5 @@
 
-##<center>**Software Requirements Specification**
+<center><h2><b>Software Requirements Specification</b>
 
 ###Versi 1.2
 
@@ -12,10 +12,9 @@
 
 Nama Kelompok :
 
-1. Arie Fahmi Luthfi
-2. Diky Anwar
-3. Shafa Dhiyanti
-4. Stephan Dwiki Alkine
+
+
+Arie Fahmi Luthfi<br>Diky Anwar<br>Shafa Dhiyanti<br>Stephan Dwiki Alkine
 
 Jurusan D3 Teknik Informatika
 <br>Politeknik Negeri Indramayu
