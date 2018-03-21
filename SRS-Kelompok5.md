@@ -1,18 +1,16 @@
 
-<center><h2><b>Software Requirements Specification</b>
+<center><h2><b>Software Requirements Specification</h2></b>
 
-###Versi 1.2
+<h3>Versi 1.2
 
-###26 Februari 2018
+<h3>2 Februari 2018
  
  ![](http://i68.tinypic.com/24fbuvd.png)
 
 
-##Aplikasi Pola Hidup Sehat ( Pahat )
+<h2>Aplikasi Pola Hidup Sehat ( Pahat )</h2>
 
-Nama Kelompok :
-
-
+Nama Kelompok : <br>
 
 Arie Fahmi Luthfi<br>Diky Anwar<br>Shafa Dhiyanti<br>Stephan Dwiki Alkine
 
