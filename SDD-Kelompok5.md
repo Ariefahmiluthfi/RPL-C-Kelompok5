@@ -1,28 +1,24 @@
 
-##<center>**Software Design Description**
+<center><b><h2>Software Design Description</h2></b>
 
-###Versi 1.0
-
-###4 Maret 2018
+<h3>Versi 1.0<br>Maret 2018</h3>
+<br>
  
  ![](http://i68.tinypic.com/24fbuvd.png)
 
 
-##Aplikasi Pola Hidup Sehat ( Pahat )
+<h2>Aplikasi Pola Hidup Sehat ( Pahat )</h2>
 
 Nama Kelompok :
 
-1. Arie Fahmi Luthfi
-2. Diky Anwar
-3. Shafa Dhiyanti
-4. Stephan Dwiki Alkine
+Arie Fahmi Luthfi<br>Diky Anwar<br>Shafa Dhiyanti<br>Stephan Dwiki Alkine
 
 Jurusan D3 Teknik Informatika
 <br>Politeknik Negeri Indramayu
 <br>2018
 </center>
 
-##BAB 1 Pendahuluan
+<h3>BAB 1 Pendahuluan</h3>
 
 1.1 Tujuan
 
@@ -63,7 +59,7 @@ b. Bab 2, merupakan deskripsi perancangan global yang berisi tentang perancangan
 
 c. Bab 3, merupakan deskripsi perancangan rinci yang berisi tentang rincian keseluruhan atau detail menyeluruh dari perangkat lunak yang akan dikembangkan, seperti pendeskripsian secara rinci database yang akan digunakan didalam perangkat lunak dan rincian pemrosesan yang terjadi didalam perangkat lunak yang dikembangkan.
 
-##BAB 2 Deskripsi Perancangan Global
+<h3>BAB 2 Deskripsi Perancangan Global</h3>
 
 2.1 Rancangan Lingkungan Implementasi
 
@@ -90,17 +86,17 @@ Aplikasi Pola Hidup Sehat akan dikembangkan menjadi perangkat lunak berbasis and
 2.3 Deskripsi Modul
 
 
-##BAB 3 Deskripsi Perancangan Rinci
+<h3>BAB 3 Deskripsi Perancangan Rinci</h3>
 
 3.1 Diagram Konteks
 
-![](http://i64.tinypic.com/5eguie.png)
+![](http://i64.tinypic.com/28md8bm.png)
 
 3.1.1 DFD Level 0
-![](http://i63.tinypic.com/2who2z8.png)
+![](http://i67.tinypic.com/2cr0yh1.png)
 
 3.1.1.1 DFD Level 1
-![](http://i67.tinypic.com/nvw3tu.png)
+![]()
 
 3.2 Deskripsi Rinci Tabel
 
