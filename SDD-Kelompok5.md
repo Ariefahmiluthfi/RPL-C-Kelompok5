@@ -67,6 +67,18 @@ c. Bab 3, merupakan deskripsi perancangan rinci yang berisi tentang rincian kese
 
 2.1 Rancangan Lingkungan Implementasi
 
+Aplikasi Pola Hidup Sehat akan dikembangkan menjadi perangkat lunak berbasis android yang membutuhkan komputer dengan spesifikasi sebagai berikut :
+
+- Sistem Operasi	: Microsoft Windows 2010
+
+- DBMS				: 
+
+- Development Tools	: Draw IO
+
+- Word Processor	: Microsoft Office Word 2010
+
+- Bahasa pemrograman : Java
+
 2.2 Definisi Domain
 
 2.2.2 Conceptual Data Model
