@@ -75,13 +75,13 @@ Aplikasi Pola Hidup Sehat akan dikembangkan menjadi perangkat lunak berbasis and
 
 - Bahasa pemrograman : Java
 
-2.2 Definisi Domain
+2.2 Deskripsi Data
+
+2.2.1 Definisi Domain/Type
 
 2.2.2 Conceptual Data Model
 
 2.2.3 Physical Data Model
-
-2.2.4 Daftar Tabel Aplikasi
 
 2.3 Deskripsi Modul
 
