@@ -99,6 +99,12 @@ Aplikasi Pola Hidup Sehat akan dikembangkan menjadi perangkat lunak berbasis and
 ![]()
 
 3.2 Deskripsi Rinci Tabel
+     Identifikasi/Nama : Login
+     Deskripsi Isi     : Data Login
+     Jenis             : Tabel data Induk
+     Volume            : 10 Record
+     Laju              : 10 Record/bulan
+     Primary Key       : Id User
 
 3.2.1 Tabel A
 
