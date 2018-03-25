@@ -97,7 +97,40 @@ Aplikasi ini dikembangkan dalam bentuk aplikasi android. Perangkat lunak ini dil
 fungsi yang disediakan. Interaksi antara pengguna dan perangkat lunak dilakukan dengan menggunakan smartphone.
 
 
-<center>![](http://i65.tinypic.com/30v2lgp.png)<br><br>![](http://i64.tinypic.com/mifnr8.png)<br><br>![](http://i66.tinypic.com/2lbiziq.png)<br><br>![](http://i67.tinypic.com/4kwxa0.png)<br><br>![](http://i67.tinypic.com/jtmfyf.png)<br><br>![](http://i67.tinypic.com/4g4y8n.png)<br><br>![](http://i66.tinypic.com/2vt8o6g.png)<br><br>![](http://i68.tinypic.com/sqj9ty.png)<br><br>![](http://i64.tinypic.com/2nl7dr8.png)<br><br>![](http://i67.tinypic.com/2me35t3.png)<br><br>![](http://i67.tinypic.com/2u8h4ox.png)<br><br>![](http://i65.tinypic.com/mli0qu.png)<br><br>![](http://i66.tinypic.com/ix5qtk.png)<br><br>![](http://i65.tinypic.com/nrzvc.png)<br><br>![](http://i66.tinypic.com/5c0jl3.png)</center>
+<center>
+
+![](http://i65.tinypic.com/30v2lgp.png) 
+
+![](http://i64.tinypic.com/mifnr8.png)
+
+[](http://i66.tinypic.com/2lbiziq.png)
+
+![](http://i67.tinypic.com/4kwxa0.png)
+
+![](http://i67.tinypic.com/jtmfyf.png)
+
+![](http://i67.tinypic.com/4g4y8n.png)
+
+![](http://i66.tinypic.com/2vt8o6g.png)
+
+![](http://i68.tinypic.com/sqj9ty.png)
+
+![](http://i64.tinypic.com/2nl7dr8.png)
+
+![](http://i67.tinypic.com/2me35t3.png)
+
+![](http://i67.tinypic.com/2u8h4ox.png)
+
+![](http://i65.tinypic.com/mli0qu.png)
+
+![](http://i66.tinypic.com/ix5qtk.png)
+
+![](http://i65.tinypic.com/nrzvc.png)
+
+![](http://i66.tinypic.com/5c0jl3.png)
+
+</center>
+
 
 2.1.3. Antarmuka perangkat keras
 Kebutuhan minimum perangkat keras yang dapat digunakan adalah:
