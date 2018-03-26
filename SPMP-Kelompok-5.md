@@ -6,7 +6,7 @@
 
 ![](http://i64.tinypic.com/t00pzl.png)
 
-Aplikasi Pola Hidup Sehat ( Pahat )
+Aplikasi Pola Hidup Sehat (Pahat)
 
 Kelompok 5
 
