@@ -37,12 +37,12 @@ perangkat lunak aplikasi Pola Hidup Sehat.
 
 Perangkat lunak yang akan dikembangkan adalah perangkat lunak aplikasi Pola Hidup Sehat, yaitu merupakan perangkat lunak yang digunakan 
 untuk mempermudah pengguna (user) mengetahui aktivitas seperti jalan sehat, jogging, maupun bersepeda dengan GPS yang dimana fungsinya 
-adalah memberikan statistik kepada kita tentang kecepatan, jarak, dan waktu berolahraga kita, serta perhitungan BMR ( Basal Metabolic Rate ).
+adalah memberikan statistik kepada kita tentang kecepatan, jarak, dan waktu berolahraga kita, serta perhitungan BMR (Basal Metabolic Rate).
 Aplikasi ini dapat melakukan hal-hal berikut ini :
 
-1.2.1 Fasilitas Login untuk pengguna ( user )
+1.2.1 Fasilitas Login untuk pengguna (user)
 
-1.2.2 Melakukan perhitungan BMR ( Basal Metabolic Rate )
+1.2.2 Melakukan perhitungan BMR (Basal Metabolic Rate)
 
 1.2.3 Menentukan jalur serta menampilkannya di GPS
 
