@@ -37,7 +37,7 @@ Proyek ini adalah untuk membuat Aplikasi PAHAT (Aplikasi Pola Hidup Sehat berbas
 
 -SPMP
 
-SPMP ( Software Project Management Plan ) adalah software yang dibuat untuk mengatur manajemen tugas, waktu pengerjaan dan kerjasama dalam sebuah tim.
+SPMP (Software Project Management Plan) adalah software yang dibuat untuk mengatur manajemen tugas, waktu pengerjaan dan kerjasama dalam sebuah tim.
 
 -SRS
 
