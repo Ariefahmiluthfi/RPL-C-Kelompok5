@@ -26,7 +26,7 @@ Tujuan pembuatan SDD (Software Design Description) ini adalah untuk menjelaskan 
 
 Dokumen perancangan ini dibuat berdasarkan spesifikasi kebutuhan Aplikasi Pola Hidup Sehat berbasis Android yang akan dibuat. Dalam rangka membangun aplikasi tersebut, tentunya deskripsi perancangan untuk aplikasi tersebut dibutuhkan, khususnya oleh para pengembang dan pembangun aplikasi tersebut.
 
-Aplikasi Pola Hidup Sehat ini memudahkan kita untuk mengetahui aktivitas seperti jalan maupun jogging dengan GIS (Geographic Informatic System) yang dimana fungsinya memberikan statistik kepada kita tentang kecepatan, jarak dan waktu berolahraga kita. Selain itu aplikasi ini juga bisa melakukan perhitungan BMR           ( Basal Metabolic Rate ) agar kita menerapkan pola hidup yang sehat.
+Aplikasi Pola Hidup Sehat ini memudahkan kita untuk mengetahui aktivitas seperti jalan maupun jogging dengan GIS (Geographic Informatic System) yang dimana fungsinya memberikan statistik kepada kita tentang kecepatan, jarak dan waktu berolahraga kita. Selain itu aplikasi ini juga bisa melakukan perhitungan BMR (Basal Metabolic Rate) agar kita menerapkan pola hidup yang sehat.
 
 1.2 Lingkup
 
