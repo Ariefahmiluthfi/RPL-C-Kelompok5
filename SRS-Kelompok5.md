@@ -19,7 +19,7 @@ Jurusan D3 Teknik Informatika
 <br>2017
 </center>
 
-##1. Pendahuluan
+<b>1. Pendahuluan</b>
 
 1.1. Tujuan
 
@@ -73,7 +73,7 @@ perangkat lunak, karakteristik pengguna, batasan dan asumsi yang diambil dalam p
 
 - Bagian ketiga berisi uraian kebutuhan perangkat lunak secara lebih detail.
 
-##2. Gambaran Umum
+<b>2. Gambaran Umum</b>
 
 Tuliskan produk secara umum dan hindari penulisan pernyataan yang berulang dan
 ambigu (harus jelas subjek predikat dan objeknya)
@@ -174,7 +174,7 @@ Aplikasi ini menggunakan internet untuk menjalankannya.
 
 2.2. Spesifikasi Kebutuhan fungsional
 
-![](http://i66.tinypic.com/125kuxj.jpg)
+![](http://i67.tinypic.com/awh1c.png)
 
 2.3. Spesifikasi kebtuhan non-fungsinoal
 
@@ -195,7 +195,7 @@ Karakteristik pengguna dari Aplikasi Pola Hidup Sehat ini adalah semua yang ingi
 2.7. Kebutuhan penyeimbang
 
 
-##3.Deskripsi Rinci Kebutuhan
+<b>3.Deskripsi Rinci Kebutuhan</b>
 
 3.1 Kebutuhan antarmuka eksternal
 
@@ -249,4 +249,4 @@ Untuk memproteksi perangkat lunak dari akses, penggunaan, penghancuran atau peng
 
 Adanya pemeliharaan dan pengecekan berkala dan terus-menerus yang akan dilakukan terhadap program yang berjalan ataupun pengecekan baik terhadap perangkat lunak itu sendiri ataupun hardware yang digunakan. Untuk pemeliharaan tiap harinya, system ini dilengkapi antivirus sehingga meminimalkan kerusakan pada system serta terdapat back up data untuk mencegah hal-hal yang tidak terduga yang tidak diinginkan
 
-##4. Informasi Pendukung
+<b>4. Informasi Pendukung</b>
