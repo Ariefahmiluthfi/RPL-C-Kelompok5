@@ -1,8 +1,8 @@
-##<center>** Software Project Management Plan **
+<center><h2>Software Project Management Plan</h2>
 
-###Versi 1.1
+<h3>Versi 1.1 <br><br>
 
-###12 Februari 2018
+12 Februari 2018</h3>
 
 ![](http://i64.tinypic.com/t00pzl.png)
 
@@ -12,13 +12,7 @@ Kelompok 5
 
 Nama Kelompok :
 
-1.Arie Fahmi Luthfi     (1603064)
-
-2.Diky Anwar            (1603065)
-
-3.Shafa Dhiyanti        (1603083)
-
-4.Stephan Dwiki Alkine  (1603065)
+Arie Fahmi Luthfi<br>Diky Anwar<br>Shafa Dhiyanti<br>Stephan Dwiki Alkine
 
 **Jurusan D3 Teknik Informatika
 <br>Politeknik Negeri Indramayu
@@ -27,7 +21,7 @@ Nama Kelompok :
 
 
 
-##Bab 1. Pendahuluan
+<b>Bab 1. Pendahuluan</b>
 
 1.1 Gambaran Proyek
 
@@ -59,7 +53,7 @@ dan dari sumber internet : http://12345irfan.blogspot.co.id/2015/03/dokumen-spmp
 | IEEE |	Institute of Electrical and Electronics Engineer |
 | ----------- | --------- | 
 
-##Bab 2. Organisasi Proyek
+<b>Bab 2. Organisasi Proyek</b>
 
 2.1 Model proses
 
@@ -67,15 +61,15 @@ Dalam proyek yang kami buat kita menggunakan model proses Sashimi
 
 2.2 Struktur organisasi
 
--Project Manager
+- Project Manager
 
--Programmer
+- Programmer
 
--Database engineer
+- Database engineer
 
--Design Application
+- Design Application
 
--Analysis
+- Analysis
 
 2.3 Batasan dan antarmuka organisasi
 
@@ -100,7 +94,7 @@ Desainer : Membuat kerangka desain projek yang sedang dibuat
 Database Engineer : Membuat perancangan sistem database
 
 
-##Bab 3. Proses Manajerial
+<b>Bab 3. Proses Manajerial</b>
 
 3.1 Tujuan dan prioritas manajemen
 
@@ -152,15 +146,16 @@ Proses kontroling dilakukan oleh manager tim dan dilaksanakan setiap hari jumat 
 
 3.5 Perencanaan staff
 
-| Project Manager     | Arie Fahmi Luthfi |
+| Jobdesk     | Nama |
 | ----------- | --------- | 
+| Project Manager	  | Arie Fahmi Luthfi |
 | Programmer          | Stephan Dwiki Alkine |
 | Tester              | Shafa Dhiyanti |
 | Analisis            | Shafa Dhiyanti |
 | Desainer            | Arie Fahmi Luthfi |
 | Marketing           | Diky Anwar |
 
-##Bab 4. Proses Teknis
+<b>Bab 4. Proses Teknis</b>
 
 4.1 Metode, tool, dan teknik
 
@@ -197,15 +192,15 @@ Beberapa hal yang perlu diperhatikan. Tampilan yang menarik, tidak membosankan, 
 
 4.1.2 Tool
 
-1. Laptop
+1) Laptop
 
 Dalam hal ini keberadaan Laptop digunakan untuk membuat Aplikasi Pola Hidup Sehat, melalui aplikasi Android Studio
 
-2. Handphone Android
+2) Handphone Android
 
 Dalam hal ini keberadaan Handphone Android digunakan untuk menguji coba aplikasi apakah sudah bisa digunakan atau tidaknya dari aplikasi Pola Hidup Sehat tersebut
 
-3. Buku Referensi
+3) Buku Referensi
 
 Buku Referensi digunakan sebagai sumber untuk mencari Sourcode yang diperlukan dalam membuat aplikasi Pola Hidup Sehat, dan sebagai Sumber data dari Proposal yang dibuat
 
@@ -215,11 +210,11 @@ Buku Referensi digunakan sebagai sumber untuk mencari Sourcode yang diperlukan d
 
 Teknik pengumpulan data dalam membuat aplikasi Pola Hidup Sehat berbasis Mobile menggunakan dua macam metode penelitian. Kedua macam metode tersebut meliputi :
 
-1.	Metode Observasi
+1)	Metode Observasi
 
 Metode observasi dilakukan untuk kegiatan analisis kebutuhan pada penelitian pendahuluan. Metode ini digunakan untuk mengetahui kebutuhan masyarakat akan aplikasi yang kami buat.
 
-2.	Metode Tes
+2)	Metode Tes
 
 Metode tes digunakan untuk mengetahui tingkat efektivitas produk yang dihasilkan berupa media Pola Hidup Sehat berbasis Mobile, apabila nanti sudah ada aplikasinya akan digunakan atau tidaknya.
 
@@ -229,50 +224,50 @@ Data hasil penelitian diperoleh dari diskusi bersama satu kelompok, dengan cara 
 
 4.2 Dokumentasi perangkat lunak
 
-1. Sistem Operasi
+1) Sistem Operasi
 
 Sistem operasi yang digunakan adalah Windows
 
-2. Bahasa Pemrograman
+2) Bahasa Pemrograman
 
 Bahasa Pemrograman yang digunakan untuk membuat aplikasi Pola Hidup sehat berbasis Mobile ini menggunakan bahasa pemrograman Java
 
-3. Program Aplikasi
+3) Program Aplikasi
 
 Aplikasi yang digunakan untuk membuat aplikasi ini yaitu menggunakan Android Studio
 
 4.3 Fungsi-fungsi pendukung proyek
 
-1. Fungsi Rutin
+1) Fungsi Rutin
 
 Yaitu fungsi adaministrasi yang membutuhkan banyak pemikiran mencakup pembuatan proposal, serta pembuatan Logbook dll.
 
-2. Fungsi Teknis
+2) Fungsi Teknis
 
 Yaitu fungsi yang membutuhkan pendapat, dan keputusan bersama agar pembuatan aplikasi berjalan dengan baik
 
-3. Fungsi Analisis
+3) Fungsi Analisis
 
 Yaitu fungsi yang membutuhkan pemikiran yang kritis dan kreatif disertai kemampuan untuk mengambil keputusan, seperti menganalisis Proposal, Laporan, maupun membuat keputusan
 
-4. Fungi Interpersonal
+4) Fungi Interpersonal
 
 Yaitu fungsi yang membutuhkan penilaian dan analisis sebagai dasar pengambilan keputusan serta keterampilan yang berhubungan dengan orang lain, sebagai contohnya dia tahu tugasnya sebagai apa dan bisa menempatkan dirinya dengan tugasnya tersebut
 
-5. Fungsi Leader-Manajerial
+5) Fungsi Leader-Manajerial
 
 Yaitu fungsi yang dimiliki oleh seorang Manajer Proyek, dalam hal ini diperlukan adanya ketegasan dari seorang pemimpin tersebut dalam memimpin kelompoknya. Hal ini dimaksudkan agar adanya kerjasama dalam  membuat aplikasi Pola Hidup Sehat berbasis Mobile
 
-##Bab 5. Paket pekerjaan, jadwal, dan budget
+<b>Bab 5. Paket pekerjaan, jadwal, dan budget</b>
 
 5.1 Paket pekerjaan
 
-| No | Nama | Jabatan | Modul | Rincian Pekerjaan |
-| ----------- | --------- | ---------- | ---------- | ---------- |
-| 1 | Arie Fahmi Luthfi | Project Manager & Design application | - | - |
-| 2 | Diky Anwar | Database Engineer | - | - |
-| 3 | Shafa Dhiyanti | Analysis | - | - |
-| 4 | Stephan Dwiki Alkine | Programmer | - | - |
+| No | Nama | Jabatan | Modul |
+| ----------- | --------- | ---------- | ---------- |
+| 1 | Arie Fahmi Luthfi | Project Manager & Design application | Logo, Layout Android |
+| 2 | Diky Anwar | Database Engineer | Database, Maps |
+| 3 | Shafa Dhiyanti | Analysis | Perhitungan BMR, Kalori |
+| 4 | Stephan Dwiki Alkine | Programmer | Login gmail/facebook |
 
 
 5.2 Ketergantungan/keterkaitan
