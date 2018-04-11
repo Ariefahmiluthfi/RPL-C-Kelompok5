@@ -122,7 +122,7 @@ Aplikasi Pola Hidup Sehat akan dikembangkan menjadi perangkat lunak berbasis and
 
 3.1.1.7 DFD Level 1 Proses 7 ( Mengolah data report kalori )
 
-![](http://i66.tinypic.com/23h81zb.jpg)
+
 
 3.2 Deskripsi Rinci Tabel
 
