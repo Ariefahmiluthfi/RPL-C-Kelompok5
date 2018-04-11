@@ -69,7 +69,7 @@ Aplikasi Pola Hidup Sehat akan dikembangkan menjadi perangkat lunak berbasis and
 
 - DBMS				: 
 
-- Development Tools	: Draw IO
+- Development Tools	: Edraw Max
 
 - Word Processor	: Microsoft Office Word 2010
 
