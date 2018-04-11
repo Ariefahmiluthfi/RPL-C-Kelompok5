@@ -93,10 +93,36 @@ Aplikasi Pola Hidup Sehat akan dikembangkan menjadi perangkat lunak berbasis and
 ![](http://i64.tinypic.com/28md8bm.png)
 
 3.1.1 DFD Level 0
-![](http://i67.tinypic.com/2cr0yh1.png)
 
-3.1.1.1 DFD Level 1
-![]()
+![](http://i67.tinypic.com/r0bnsm.png)
+
+3.1.1.1 DFD Level 1 Proses 1 ( Mengolah data user )
+
+![](http://i66.tinypic.com/2us917k.jpg)
+
+3.1.1.2 DFD Level 1 Proses 2 ( Mengolah data olahraga )
+
+![](http://i68.tinypic.com/zo2hg.jpg)
+
+3.1.1.3 DFD Level 1 Proses 3 ( Mengolah data BMR )
+
+![](http://i68.tinypic.com/10dtahx.jpg)
+
+3.1.1.4 DFD Level 1 Proses 4 ( Mengolah menu food )
+
+![](http://i64.tinypic.com/2d6taon.jpg)
+
+3.1.1.5 DFD Level 1 Proses 5 ( Mengolah menu drink )
+
+![](http://i68.tinypic.com/2cngtis.jpg)
+
+3.1.1.6 DFD Level 1 Proses 6 ( Mengolah data kalori )
+
+![](http://i63.tinypic.com/n2d0lw.jpg)
+
+3.1.1.7 DFD Level 1 Proses 7 ( Mengolah data report kalori )
+
+![](http://i66.tinypic.com/23h81zb.jpg)
 
 3.2 Deskripsi Rinci Tabel
 
