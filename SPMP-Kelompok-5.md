@@ -26,7 +26,7 @@
 
 
 
-<h3><b>Bab 1. Pendahuluan</b></h3>
+<h3><b>Bab 1. PENDAHULUAN</b></h3>
 
 <b>1.1 Gambaran Proyek</b>
 
@@ -58,7 +58,7 @@ dan dari sumber internet : http://12345irfan.blogspot.co.id/2015/03/dokumen-spmp
 | IEEE |	Institute of Electrical and Electronics Engineer |
 | ----------- | --------- | 
 
-<b>Bab 2. Organisasi Proyek</b>
+<h3><b>Bab 2. ORGANISASI PROYEK</b></h3>
 
 <b>2.1 Model proses</b>
 
@@ -99,7 +99,7 @@ Desainer : Membuat kerangka desain projek yang sedang dibuat
 Database Engineer : Membuat perancangan sistem database
 
 
-<b>Bab 3. Proses Manajerial</b>
+<h3><b>Bab 3. PROSES MANAJERIAL</b></h3>
 
 <b>3.1 Tujuan dan prioritas manajemen</b>
 
@@ -160,7 +160,7 @@ Proses kontroling dilakukan oleh manager tim dan dilaksanakan setiap hari jumat 
 | Desainer            | Arie Fahmi Luthfi |
 | Marketing           | Diky Anwar |
 
-<b>Bab 4. Proses Teknis</b>
+<h3><b>Bab 4. PROSES TEKNIK</b></h3>
 
 <b>4.1 Metode, tool, dan teknik</b>
 
@@ -263,7 +263,7 @@ Yaitu fungsi yang membutuhkan penilaian dan analisis sebagai dasar pengambilan k
 
 Yaitu fungsi yang dimiliki oleh seorang Manajer Proyek, dalam hal ini diperlukan adanya ketegasan dari seorang pemimpin tersebut dalam memimpin kelompoknya. Hal ini dimaksudkan agar adanya kerjasama dalam  membuat aplikasi Pola Hidup Sehat berbasis Mobile
 
-<b>Bab 5. Paket pekerjaan, jadwal, dan budget</b>
+<h3><b>Bab 5. PAKET PEKERJAAN, JADWAL, dan BUDGET</b></h3>
 
 <b>5.1 Paket pekerjaan</b>
 
