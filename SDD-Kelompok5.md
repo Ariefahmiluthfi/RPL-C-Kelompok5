@@ -1,26 +1,32 @@
+<html>
+<body>
+<div align="center"><h1> Software Design Description</h1></div>
 
-<center><b><h2>Software Design Description</h2></b>
+<p align="center"><b>Version 1.0 </b><br>
+<p align="center">Maret 2018</b>
+<p align="center">
+<img src="https://2.bp.blogspot.com/-dxdRgMQGbLk/WpA-Tp2rNGI/AAAAAAAAAh8/3_jBWFb7Cf48033QvB34D2WCwoN2sxZLgCLcBGAs/s1000/index.png"/>
+</p>
 
-<h3>Versi 1.0<br>Maret 2018</h3>
-<br>
- 
- ![](http://i68.tinypic.com/24fbuvd.png)
 
+<p align="center"><b>Aplikasi Pola Hidup Sehat ( PAHAT )
+</b>
+<p align="center">Kelompok 5 <br>
+ Arie Fahmi Luthfi 				(1603064)<br>
+ Diky Anwar		(1603065)<br>
+ Shafa Dhiyanti			(1603083)<br>
+ Stephan Dwiki Alkine			(1603085)<br><br><br>
 
-<h2>Aplikasi Pola Hidup Sehat ( Pahat )</h2>
+<p align="center"><b>Jurusan Teknik Informatika</b><br>
+<p align="center"><b>Politeknik Negeri Indramayu</b>
+<p align="center"><b>2018</b>
+</p>
+</body>
+</html>
 
-Nama Kelompok :
+<b><h4>BAB 1.PENDAHULUAN</b></h4>
 
-Arie Fahmi Luthfi<br>Diky Anwar<br>Shafa Dhiyanti<br>Stephan Dwiki Alkine
-
-Jurusan D3 Teknik Informatika
-<br>Politeknik Negeri Indramayu
-<br>2018
-</center>
-
-<h3>BAB 1 Pendahuluan</h3>
-
-1.1 Tujuan
+<b>1.1 Tujuan</b>
 
 Tujuan pembuatan SDD (Software Design Description) ini adalah untuk menjelaskan langkah-langkah desain dan proses-proses dalam pembuatan sistem aplikasi yang akan diterapkan pada Aplikasi Pola Hidup Sehat berbasis Android, dan juga memberi definisi kebutuhan untuk sistem, spesifikasi kebutuhan fungsional.
 
@@ -28,11 +34,11 @@ Dokumen perancangan ini dibuat berdasarkan spesifikasi kebutuhan Aplikasi Pola H
 
 Aplikasi Pola Hidup Sehat ini memudahkan kita untuk mengetahui aktivitas seperti jalan maupun jogging dengan GIS (Geographic Informatic System) yang dimana fungsinya memberikan statistik kepada kita tentang kecepatan, jarak dan waktu berolahraga kita. Selain itu aplikasi ini juga bisa melakukan perhitungan BMR (Basal Metabolic Rate) agar kita menerapkan pola hidup yang sehat.
 
-1.2 Lingkup
+<b>1.2 Lingkup</b>
 
 Aplikasi Pola Hidup Sehat (Pahat) adalah sebuah aplikasi berbasis android yang mempermudah masyarakat menerapkan pola hidup sehat. Penggunaan aplikasi ini dengan Login melalui email, memilih olahraga, melakukan perhitungan BMR, melihat daftar kandungan kalori pada makanan dan minuman, menghitung konsumsi kalori, dan melihat hasil kalori dari tubuh kita. Aplikasi ini hanya menggunakan 1 user.
 
-1.3 Definisi, Akronim dan Singkatan
+<b>1.3 Definisi, Akronim dan Singkatan</b>
 
 | Definisi, Akronim dan Singkatan | Penjelasan |
 | ----- | ----- |
@@ -42,14 +48,14 @@ Aplikasi Pola Hidup Sehat (Pahat) adalah sebuah aplikasi berbasis android yang m
 | SDD | Software Design Description. Dokumen untuk menjelaskan langkah-langkah desain dan proses-proses dalam pembuatan sistem aplikasi yang akan diterapkan pada aplikasi. |
 | User | Pengguna aplikasi |
 
-1.4 Referensi
+<b>1.4 Referensi</b>
 
 Dokumen ini memiliki beberapa referensi dalam pembuatannya, yaitu sebagai berikut:
 
 
 - IEEE Draft Standard for Software Design Descriptions
 
-1.5 Ikhtisar Dokumen
+<b>1.5 Ikhtisar Dokumen</b>
 
 Dokumen SDD ini berisi deskripsi rancangan perangkat lunak yang akan dikembangkan berdasarkan dokumen SRS. Dalam dokumen SDD ini dijabarkan perincian rancangan perangkat lunak yang dikembangkan, sehingga dapat diimplementasikan hingga level teknis. Gambaran umum dokumen ini terdapat pada penjelasan dibawah ini .
 
@@ -59,9 +65,9 @@ b. Bab 2, merupakan deskripsi perancangan global yang berisi tentang perancangan
 
 c. Bab 3, merupakan deskripsi perancangan rinci yang berisi tentang rincian keseluruhan atau detail menyeluruh dari perangkat lunak yang akan dikembangkan, seperti pendeskripsian secara rinci database yang akan digunakan didalam perangkat lunak dan rincian pemrosesan yang terjadi didalam perangkat lunak yang dikembangkan.
 
-<h3>BAB 2 Deskripsi Perancangan Global</h3>
+<b><h4>BAB 2.DESKRIPSI PERANCANGAN GLOBAL</b></h4>
 
-2.1 Rancangan Lingkungan Implementasi
+<b>2.1 Rancangan Lingkungan Implementasi</b>
 
 Aplikasi Pola Hidup Sehat akan dikembangkan menjadi perangkat lunak berbasis android yang membutuhkan komputer dengan spesifikasi sebagai berikut :
 
@@ -75,7 +81,7 @@ Aplikasi Pola Hidup Sehat akan dikembangkan menjadi perangkat lunak berbasis and
 
 - Bahasa pemrograman : Java
 
-2.2 Deskripsi Data
+<b>2.2 Deskripsi Data</b>
 
 2.2.1 Definisi Domain/Type
 
@@ -86,9 +92,9 @@ Aplikasi Pola Hidup Sehat akan dikembangkan menjadi perangkat lunak berbasis and
 2.3 Deskripsi Modul
 
 
-<h3>BAB 3 Deskripsi Perancangan Rinci</h3>
+<b><h4>BAB 3.DESKRIPSI PERANCANGAN RINCI</b></h4>
 
-3.1 Diagram Konteks
+<b>3.1 Diagram Konteks</b>
 
 ![](http://i64.tinypic.com/28md8bm.png)
 
@@ -124,7 +130,7 @@ Aplikasi Pola Hidup Sehat akan dikembangkan menjadi perangkat lunak berbasis and
 
 
 
-3.2 Deskripsi Rinci Tabel
+<b>3.2 Deskripsi Rinci Tabel</b>
 
      Identifikasi/Nama : Login
      
@@ -140,7 +146,7 @@ Aplikasi Pola Hidup Sehat akan dikembangkan menjadi perangkat lunak berbasis and
 
 3.2.1 Tabel A
 
-3.3 Deskripsi Rinci Modul
+<b>3.3 Deskripsi Rinci Modul</b>
 
 3.3.1 Modul A
 
