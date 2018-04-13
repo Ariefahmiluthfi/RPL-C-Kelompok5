@@ -34,11 +34,11 @@ Proyek ini adalah untuk membuat Aplikasi PAHAT (Aplikasi Pola Hidup Sehat berbas
 
 <b>1.2 Dokumen-dokumen dalam proyek</b>
 
--SPMP
+- SPMP
 
 SPMP (Software Project Management Plan) adalah software yang dibuat untuk mengatur manajemen tugas, waktu pengerjaan dan kerjasama dalam sebuah tim.
 
--SRS
+- SRS
 
 SRS ( Software Requirements Specification ) adalah dokumen yang menjelaskan tentang berbagai kebutuhan yang harus dipenuhi oleh suatu software. Dokumen ini dibuat oleh developer (pembuat software) setelah menggali informasi dari calon pemakai software.
 
