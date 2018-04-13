@@ -1,27 +1,32 @@
+<html>
+<body>
+<div align="center"><h1> Software Requirements Specification</h1></div>
 
-<center><h2><b>Software Requirements Specification</h2></b>
-
-<h3>Versi 1.2
-
-<h3>2 Februari 2018
- 
- ![](http://i68.tinypic.com/24fbuvd.png)
+<p align="center"><b>Version 1.2 </b><br>
+<p align="center">22 Februari 2018</b>
+<p align="center">
+<img src="https://2.bp.blogspot.com/-dxdRgMQGbLk/WpA-Tp2rNGI/AAAAAAAAAh8/3_jBWFb7Cf48033QvB34D2WCwoN2sxZLgCLcBGAs/s1000/index.png"/>
+</p>
 
 
-<h2>Aplikasi Pola Hidup Sehat ( Pahat )</h2>
+<p align="center"><b>Aplikasi Pola Hidup Sehat ( PAHAT )
+</b>
+<p align="center">Kelompok 5 <br>
+ Arie Fahmi Luthfi 				(1603064)<br>
+ Diky Anwar		(1603065)<br>
+ Shafa Dhiyanti			(1603083)<br>
+ Stephan Dwiki Alkine			(1603085)<br><br><br>
 
-Nama Kelompok : <br>
+<p align="center"><b>Jurusan Teknik Informatika</b><br>
+<p align="center"><b>Politeknik Negeri Indramayu</b>
+<p align="center"><b>2018</b>
+</p>
+</body>
+</html>
 
-Arie Fahmi Luthfi<br>Diky Anwar<br>Shafa Dhiyanti<br>Stephan Dwiki Alkine
+<b><h4>BAB 1. PENDAHULUAN</h4></b>
 
-Jurusan D3 Teknik Informatika
-<br>Politeknik Negeri Indramayu
-<br>2017
-</center>
-
-<b>1. Pendahuluan</b>
-
-1.1. Tujuan
+<b>1.1. Tujuan</b>
 
 Dokumen ini berisi Spesifikasi Kebutuhan Perangkat Lunak (SKPL) atau Software Requirement Spesification (SRS) untuk Aplikasi Pola Hidup
 Sehat (Pahat). Tujuan dari penulisan dokumen ini adalah untuk memberikan penjelasan mengenai perangkat lunak yang akan 
@@ -33,7 +38,7 @@ evaluasi pada saat proses pengembangan perangkat lunak maupun di akhir pengemban
 pengembangan perangkat lunak akan lebih terarah dan lebih terfokus serta tidak menimbulkan ambiguitas terutama bagi pengembang 
 perangkat lunak aplikasi Pola Hidup Sehat.
 
-1.2. Lingkup
+<b>1.2. Lingkup</b>
 
 Perangkat lunak yang akan dikembangkan adalah perangkat lunak aplikasi Pola Hidup Sehat, yaitu merupakan perangkat lunak yang digunakan 
 untuk mempermudah pengguna (user) mengetahui aktivitas seperti jalan sehat, jogging, maupun bersepeda dengan GPS yang dimana fungsinya 
@@ -48,7 +53,7 @@ Aplikasi ini dapat melakukan hal-hal berikut ini :
 
 1.2.4 Memberikan informasi berupa kandungan kalori pada makanan dan minuman
 
-1.3. Definisi, akronim, singkatan
+<b>1.3. Definisi, akronim, singkatan</b>
 
 Definisi :
 
@@ -59,11 +64,11 @@ Pahat : Aplikasi Pola Hidup Sehat
 SRS : Software Requirement Specification
 lot : lokasi penempatan
 
-1.4. Referensi
+<b>1.4. Referensi </b>
 
 Nazruddin Safaat H, Android : Pemrograman Aplikasi Mobile Smartphone dan Tablet PC Berbasis Android (Revisi 2). Informatika.2014.
 
-1.5. Overview
+<b>1.5. Overview</b>
 
 - Bagian pertama berisi penjelasan tentang dokumen SPL yang mencakup tujuan pembuatan dokumen ini, lingkup masalah yang diselesaikan oleh
 perangkat lunak yang dikembangkan, definisi, referensi dan deskripsi umum.
@@ -73,12 +78,12 @@ perangkat lunak, karakteristik pengguna, batasan dan asumsi yang diambil dalam p
 
 - Bagian ketiga berisi uraian kebutuhan perangkat lunak secara lebih detail.
 
-<b>2. Gambaran Umum</b>
+<b><h4>BAB 2.GAMBARAN UMUM</h4></b>
 
 Tuliskan produk secara umum dan hindari penulisan pernyataan yang berulang dan
 ambigu (harus jelas subjek predikat dan objeknya)
 
-2.1. Perspektif produk
+<b>2.1. Perspektif produk</b>
 
 Perangkat lunak yang dibuat (disebut dengan PAHAT) merupakan sebuah perangkat lunak yang digunakan untuk membantu melakukan proses pola 
 hidup sehat dengan memantau aktifitas olahraga serta memantau asupan yang dikonsumsi.
@@ -172,37 +177,39 @@ Aplikasi ini menggunakan internet untuk menjalankannya.
 
 
 
-2.2. Spesifikasi Kebutuhan fungsional
+<b>2.2. Spesifikasi Kebutuhan fungsional</b>
 
 ![](http://i67.tinypic.com/awh1c.png)
 
-2.3. Spesifikasi kebtuhan non-fungsinoal
+<b>2.3. Spesifikasi kebtuhan non-fungsinoal</b>
+
+
 
 - Design layout mobile
 
-2.4. Karakteristik pengguna
+<b>2.4. Karakteristik pengguna</b>
 
 Karakteristik pengguna dari Aplikasi Pola Hidup Sehat ini adalah semua yang ingin menggunakannya untuk menerapkan pola hidup sehat dengan berolahraga dan mengatur pola makan.
 
-2.5. Batasan-batasan
+<b>2.5. Batasan-batasan</b>
 
 - Aplikasi Pahat ini belum bisa membagikan kegiatan kita ke media sosial.
 
 
-2.6. Asumsi-asumsi keterkaitan
+<b>2.6. Asumsi-asumsi keterkaitan</b>
 
 
-2.7. Kebutuhan penyeimbang
+<b>2.7. Kebutuhan penyeimbang</b>
 
 
-<b>3.Deskripsi Rinci Kebutuhan</b>
+<b><h4>BAB 3.DESKRIPSI RINCI KEBUTUHAN</h4></b>
 
-3.1 Kebutuhan antarmuka eksternal
+<b>3.1 Kebutuhan antarmuka eksternal</b>
 
 Kebutuhan antarmuka eksternal pada perangkat lunak Aplikasi Hidup Sehat mencakup kebutuhan antarmuka pemakai, antarmuka perangkat keras, dan antarmuka perangkat lunak.
 
 
-3.2 Kebutuhan Fungsional
+<b>3.2 Kebutuhan Fungsional</b>
 
 Kebutuhan Fungsional adalah kebutuhan yang harus dipenuhi agar suatu sistem dapat berjalan atau dapat dikatakan kebutuhan tambahan yang memiliki input, proses, dan output. Kebutuhan fungsional yang harus ada dalam sistem yang akan dikembangkan ini adalah sebagai berikut:
 
@@ -229,7 +236,7 @@ Yang dilakukan adalah : Login, Melakukan kegiatan kegiatan pola hidup sehat (ber
 
 3.2.7 Menampilkan laporan kalori user
 
-3.3 Persyaratan Non-fungsional yang Rinci
+<b>3.3 Persyaratan Non-fungsional yang Rinci</b>
 
 3.3.1 Structur Logis dari Data
 
@@ -249,4 +256,4 @@ Untuk memproteksi perangkat lunak dari akses, penggunaan, penghancuran atau peng
 
 Adanya pemeliharaan dan pengecekan berkala dan terus-menerus yang akan dilakukan terhadap program yang berjalan ataupun pengecekan baik terhadap perangkat lunak itu sendiri ataupun hardware yang digunakan. Untuk pemeliharaan tiap harinya, system ini dilengkapi antivirus sehingga meminimalkan kerusakan pada system serta terdapat back up data untuk mencegah hal-hal yang tidak terduga yang tidak diinginkan
 
-<b>4. Informasi Pendukung</b>
+<b><h4>BAB 4.INFORMASI PENDUKUNG</h4></b>
