@@ -3,7 +3,7 @@
 <div align="center"><h1> Software Project Management Plan</h1></div>
 
 <p align="center"><b>Version 1.1 </b><br>
-<p align="center">22 Februari 2018</b>
+<p align="center">2 Februari 2018</b>
 <p align="center">
 <img src="https://2.bp.blogspot.com/-dxdRgMQGbLk/WpA-Tp2rNGI/AAAAAAAAAh8/3_jBWFb7Cf48033QvB34D2WCwoN2sxZLgCLcBGAs/s1000/index.png"/>
 </p>
@@ -28,11 +28,11 @@
 
 <b>Bab 1. Pendahuluan</b>
 
-1.1 Gambaran Proyek
+<b>1.1 Gambaran Proyek</b>
 
 Proyek ini adalah untuk membuat Aplikasi PAHAT (Aplikasi Pola Hidup Sehat berbasis Mobile). Didalam proyek ini menggunakan bahasa Pemrograman Java. Aplikasi ini dibuat dengan menggunakan software Android Studio. Dibuatnya aplikasi ini bertujuan untuk masyarakat umum yang memang gemar berolahraga dan membantu seberapa jauh dia berjalan dan berapa jauhnya yang diperlukan untuk berolahraga yang bermanfaat untuk kesehatannya dengan dibantu adanya Aplikasi Jalan Sehat ini. Kami juga mengharapkan dengan adanya aplikasi ini bisa berguna bagi kami sendiri khususnya ataupun bagi masyarakat luas pada umumnya.
 
-1.2 Dokumen-dokumen dalam proyek
+<b>1.2 Dokumen-dokumen dalam proyek</b>
 
 -SPMP
 
@@ -42,29 +42,29 @@ SPMP (Software Project Management Plan) adalah software yang dibuat untuk mengat
 
 SRS ( Software Requirements Specification ) adalah dokumen yang menjelaskan tentang berbagai kebutuhan yang harus dipenuhi oleh suatu software. Dokumen ini dibuat oleh developer (pembuat software) setelah menggali informasi dari calon pemakai software.
 
-1.3 Evolusi SPMP
+<b>1.3 Evolusi SPMP</b>
 
 Dokumen ini akan selalu diperbarui seiring dengan kemajuan proyek. Pembaruan harus diharapkan pada bagian berikut :
 
 Referensi diperbarui seperlunya Definisi, akronim, dan singkatan-singkatan seperlunya Proses teknis - bagian ini akan direvisi dengan tepat karena persyaratan dan keputusan disain menjadi lebih jelas Jadwal - saat proyek berjalan, jadwal akan diperbarui sesuai dengan itu
 
-1.4 Material acuan
+<b>1.4 Material acuan</b>
 
 Dokumen ini adalah dokumen yang digunakan pada tahap perencanaan awal pengerjaan proyek dalam pembuatan kami memakai standar IEEE.
 dan dari sumber internet : http://12345irfan.blogspot.co.id/2015/03/dokumen-spmp-image-capture-online.html
 
-1.5 Definisi dan Akronim (singkatan)
+<b>1.5 Definisi dan Akronim (singkatan)</b>
 
 | IEEE |	Institute of Electrical and Electronics Engineer |
 | ----------- | --------- | 
 
 <b>Bab 2. Organisasi Proyek</b>
 
-2.1 Model proses
+<b>2.1 Model proses</b>
 
 Dalam proyek yang kami buat kita menggunakan model proses Sashimi
 
-2.2 Struktur organisasi
+<b>2.2 Struktur organisasi</b>
 
 - Project Manager
 
@@ -76,7 +76,7 @@ Dalam proyek yang kami buat kita menggunakan model proses Sashimi
 
 - Analysis
 
-2.3 Batasan dan antarmuka organisasi
+<b>2.3 Batasan dan antarmuka organisasi</b>
 
 | From | To | Kaitan |
 | ----------- | --------- | ---------- | 
@@ -86,7 +86,7 @@ Dalam proyek yang kami buat kita menggunakan model proses Sashimi
 | Design Application | Programmer | Bertugas mendesain tampilan aplikasi yang dapat menarik konsumen saat aplikasi dirilis. |
 | Programmer | Database Engineer | Bertugas membuat perancangan sistem database. |
 
-2.4 Lingkup tanggung jawab
+<b>2.4 Lingkup tanggung jawab</b>
 
 Untuk tanggung jawab utama per tahap, lihat bagian 2.2. Seluruh tim proyek bertanggung jawab atas tugasnya masing-masing untuk keberhasilan projek.
 
@@ -101,11 +101,11 @@ Database Engineer : Membuat perancangan sistem database
 
 <b>Bab 3. Proses Manajerial</b>
 
-3.1 Tujuan dan prioritas manajemen
+<b>3.1 Tujuan dan prioritas manajemen</b>
 
 3.1.1 Tujuan dari proyek ini adalah untuk membuat aplikasi jalan sehat atau joging dengan fitur GIS dan perhitungan BMR. Proyek ini sangat diprioritaskan karena memberi manfaat tinggi bagi tubuh manusia dan untuk membentuk tubuh yang ideal.
 
-3.2 Asumsi-asumsi, ketergantungan/keterkaitan, dan batasan-batasan
+<b>3.2 Asumsi-asumsi, ketergantungan/keterkaitan, dan batasan-batasan</b>
 
 3.2.1 Asumsi
 
@@ -115,7 +115,7 @@ Adapun aplikasi yang sejenis jalan sehat atau joging dengan fitur GIS, project y
 
 Dalam project yang kami buat menggunakan smartphone untuk membuka atau menjalankan aplikasi kami.
 
-3.3 Manajemen resiko
+<b>3.3 Manajemen resiko</b>
 
 3.3.1 Resiko
 
@@ -139,7 +139,7 @@ Dalam project yang kami buat menggunakan smartphone untuk membuka atau menjalank
 - Kesungguhan dalam tim
 - Analisis teknis
 
-3.4 Mekanisme monitoring dan kontroling
+<b>3.4 Mekanisme monitoring dan kontroling</b>
 
 3.4.1 Monitoring
 
@@ -149,7 +149,7 @@ Proses monitoring dilakukan secara tim dan dilaksanakan setiap hari minggu.
 
 Proses kontroling dilakukan oleh manager tim dan dilaksanakan setiap hari jumat agar bisa dievaluasi pada hari terakhir kegiatan
 
-3.5 Perencanaan staff
+<b>3.5 Perencanaan staff</b>
 
 | Jobdesk     | Nama |
 | ----------- | --------- | 
@@ -162,7 +162,7 @@ Proses kontroling dilakukan oleh manager tim dan dilaksanakan setiap hari jumat 
 
 <b>Bab 4. Proses Teknis</b>
 
-4.1 Metode, tool, dan teknik
+<b>4.1 Metode, tool, dan teknik</b>
 
 4.1.1. Metoda
 
@@ -227,7 +227,7 @@ Metode tes digunakan untuk mengetahui tingkat efektivitas produk yang dihasilkan
 
 Data hasil penelitian diperoleh dari diskusi bersama satu kelompok, dengan cara mengetahui terlebih dahulu apa yang saat ini masyarakat butuhkan. Dengan cara itu maka diambil kesepakatan untuk membuat aplikasi Pola Hidup Sehat berbasis Mobile
 
-4.2 Dokumentasi perangkat lunak
+<b>4.2 Dokumentasi perangkat lunak</b>
 
 1) Sistem Operasi
 
@@ -241,7 +241,7 @@ Bahasa Pemrograman yang digunakan untuk membuat aplikasi Pola Hidup sehat berbas
 
 Aplikasi yang digunakan untuk membuat aplikasi ini yaitu menggunakan Android Studio
 
-4.3 Fungsi-fungsi pendukung proyek
+<b>4.3 Fungsi-fungsi pendukung proyek</b>
 
 1) Fungsi Rutin
 
@@ -265,7 +265,7 @@ Yaitu fungsi yang dimiliki oleh seorang Manajer Proyek, dalam hal ini diperlukan
 
 <b>Bab 5. Paket pekerjaan, jadwal, dan budget</b>
 
-5.1 Paket pekerjaan
+<b>5.1 Paket pekerjaan</b>
 
 | No | Nama | Jabatan | Modul |
 | ----------- | --------- | ---------- | ---------- |
@@ -275,7 +275,7 @@ Yaitu fungsi yang dimiliki oleh seorang Manajer Proyek, dalam hal ini diperlukan
 | 4 | Stephan Dwiki Alkine | Programmer | Login gmail/facebook |
 
 
-5.2 Ketergantungan/keterkaitan
+<b>5.2 Ketergantungan/keterkaitan</b>
 
 Dalam pengerjaan projek ini keterkaitan dari tugas masing-masing saling menopang agar terbentuknya ketelitian saat pengerjaan dan mendapat hasil akhir yang maksimal
 
@@ -288,7 +288,7 @@ Dalam pengerjaan projek ini keterkaitan dari tugas masing-masing saling menopang
 | Programmer | Database Engineer | Bertugas membuat perancangan sistem database. |
 
 
-5.3 Kebutuhan-kebutuhan sumber daya
+<b>5.3 Kebutuhan-kebutuhan sumber daya</b>
 
 | Sumber Daya | Jenis Kebutuhan | Alasan |
 | ----------- | --------- | ---------- | 
@@ -299,10 +299,10 @@ Dalam pengerjaan projek ini keterkaitan dari tugas masing-masing saling menopang
 | Sumber Daya Hardware | Perangkat Komputer | Perangkat induk yang di gunakan dalam pengerjaan projek. |
 | | Mobile | Perangkat yang digunakan untuk uji coba aplikasi. |
 
-5.4 Alokasi budget dan sumber daya
+<b>5.4 Alokasi budget dan sumber daya</b>
 
 Berikut adalah rincian biaya yang diperlukan untuk penggarapan proyek antara lain :
 ![gambar](img/biaya.png)
 
-5.5 Jadwal
+<b>5.5 Jadwal</b>
 ![gambar](img/jms.PNG)
