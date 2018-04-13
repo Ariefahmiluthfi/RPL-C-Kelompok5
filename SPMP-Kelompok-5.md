@@ -75,15 +75,7 @@ Model ini merupakan model yang dianggap kuno dan disebut juga sebagai “classic
 
 <b>2.2 Struktur organisasi</b>
 
-- Project Manager
-
-- Programmer
-
-- Database engineer
-
-- Design Application
-
-- Analysis
+![](http://i63.tinypic.com/2uj10tl.jpg)
 
 <b>2.3 Batasan dan antarmuka organisasi</b>
 
