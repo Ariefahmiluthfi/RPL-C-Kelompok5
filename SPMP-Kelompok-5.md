@@ -66,7 +66,12 @@ dan dari sumber internet : http://12345irfan.blogspot.co.id/2015/03/dokumen-spmp
 
 <b>2.1 Model proses</b>
 
-Dalam proyek yang kami buat kita menggunakan model proses Sashimi
+Dalam proyek yang kami buat kita menggunakan model proses Waterfall with Feedback.
+Model ini merupakan model yang dianggap kuno dan disebut juga sebagai “classic life cycle”. Tetapi model ini paling banyak digunakan dalam Software Engineering. Disebut dengan waterfall karena tahap yang pertama harus dilalui dan diselesaikan namun bisa kembali ke pekerjaan pertama namun memiliki batas waktu yang tertentu setelah itu dapat melanjutkan ke tahapan selanjutnya. Tahapan yang harus dilalui dalam model waterfall with feedback ini dapat dilihat pada gambar dibawah ini.
+.<br>
+<p align="center">
+<img src="http://i66.tinypic.com/mmzlgn.jpg"/>
+</p>
 
 <b>2.2 Struktur organisasi</b>
 
