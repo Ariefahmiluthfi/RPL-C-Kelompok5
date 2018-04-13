@@ -1,23 +1,27 @@
-<center><h2>Software Project Management Plan</h2>
+<html>
+<body>
+<div align="center"><h1> Software Project Management Plan</h1></div>
 
-<h3>Versi 1.1 <br><br>
+<p align="center"><b>Version 1.1 </b><br>
+<p align="center">22 Februari 2018</b>
+<p align="center">
+<img src="https://2.bp.blogspot.com/-dxdRgMQGbLk/WpA-Tp2rNGI/AAAAAAAAAh8/3_jBWFb7Cf48033QvB34D2WCwoN2sxZLgCLcBGAs/s1000/index.png"/>
+</p>
 
-12 Februari 2018</h3>
+<br><p align="center"><b> Q-PRESS (QR-Kode Presensi)</b><br>
+<p align="center"><b>Aplikasi Menggunakan Kode QR
+</b>
+<p align="center">Kelompok 8 <br>
+ Arie Fahmi Luthfi 				(1603064)<br>
+ Diky Anwar		(1603065)<br>
+ Shafa dhiyanti			(1603083)<br>
+ Stephan Dwiki Alkine			(1603085)<br><br><br>
 
-![](http://i64.tinypic.com/t00pzl.png)
-
-Aplikasi Pola Hidup Sehat (Pahat)
-
-Kelompok 5
-
-Nama Kelompok :
-
-Arie Fahmi Luthfi<br>Diky Anwar<br>Shafa Dhiyanti<br>Stephan Dwiki Alkine
-
-**Jurusan D3 Teknik Informatika
-<br>Politeknik Negeri Indramayu
-<br>2018**
-</center>
+<p align="center"><b>Jurusan Teknik Informatika</b><br>
+<p align="center"><b>Politeknik Negeri Indramayu</b>
+</p>
+</body>
+</html>
 
 
 
