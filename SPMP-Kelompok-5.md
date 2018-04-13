@@ -8,10 +8,9 @@
 <img src="https://2.bp.blogspot.com/-dxdRgMQGbLk/WpA-Tp2rNGI/AAAAAAAAAh8/3_jBWFb7Cf48033QvB34D2WCwoN2sxZLgCLcBGAs/s1000/index.png"/>
 </p>
 
-<br><p align="center"><b> Q-PRESS (QR-Kode Presensi)</b><br>
-<p align="center"><b>Aplikasi Menggunakan Kode QR
-</b>
-<p align="center">Kelompok 8 <br>
+<br><p align="center"><b> Aplikasi Pola Hidup Sehat (PAHAT)</b><br>
+
+<p align="center">Kelompok 5 <br>
  Arie Fahmi Luthfi 				(1603064)<br>
  Diky Anwar		(1603065)<br>
  Shafa dhiyanti			(1603083)<br>
