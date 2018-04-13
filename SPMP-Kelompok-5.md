@@ -98,6 +98,7 @@ Model ini merupakan model yang dianggap kuno dan disebut juga sebagai “classic
 <b>2.4 Lingkup tanggung jawab</b>
 
 Untuk tanggung jawab utama per tahap, lihat bagian 2.2. Seluruh tim proyek bertanggung jawab atas tugasnya masing-masing untuk keberhasilan projek.
+
 | Jobdesk | Tugas |
 | --------- | ---------- |
 | Ketua Tim (Manager) | Bertanggung jawab, mengarahkan, mengatur anggota tim atas  projek  yang sedang dibuat |
