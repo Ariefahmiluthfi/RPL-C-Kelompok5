@@ -26,7 +26,7 @@
 
 
 
-<b>Bab 1. Pendahuluan</b>
+<h4><b>Bab 1. Pendahuluan</b></h4>
 
 <b>1.1 Gambaran Proyek</b>
 
