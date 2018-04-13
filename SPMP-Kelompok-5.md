@@ -56,15 +56,10 @@ dan dari sumber internet : http://12345irfan.blogspot.co.id/2015/03/dokumen-spmp
 <b>1.5 Definisi dan Akronim (singkatan)</b>
 
 | IEEE |	Institute of Electrical and Electronics Engineer |
-| ----------- | --------- | 
 | BMR | Basal Metabolic Rate |
-| ----------- | --------- | 
 | SPMP | Software Project Management Plan |
-| ----------- | --------- | 
 | SRS | Software Requirements Specification |
-| ----------- | --------- | 
 | GIS | Geographic Informatic System |
-| ----------- | --------- | 
 
 <h3><b>Bab 2. ORGANISASI PROYEK</b></h3>
 
