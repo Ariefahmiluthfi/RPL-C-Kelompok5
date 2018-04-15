@@ -2,7 +2,7 @@
 <body>
 <div align="center"><h1> Software Project Management Plan</h1></div>
 
-<p align="center"><b>Version 1.1 </b><br>
+<p align="center"><b>Version 1.2 </b><br>
 <p align="center">12 Februari 2018</b>
 <p align="center">
 <img src="https://2.bp.blogspot.com/-dxdRgMQGbLk/WpA-Tp2rNGI/AAAAAAAAAh8/3_jBWFb7Cf48033QvB34D2WCwoN2sxZLgCLcBGAs/s1000/index.png"/>
@@ -111,7 +111,7 @@ Prioritas jadwal yang dilakukan pada saat ini adalah membuat sistem yang sudah d
 
 <b>3.1.2 Budget</b>
 
-Budget dalam projek ini dibutuhkan untuk memenuhi kebutuhan projek.
+Budget dalam projek ini dibutuhkan untuk memenuhi kebutuhan yang dibutuhkan dalam pembuatan projek.
 
 <b>3.1.3 Kemampuan ( Kualitas dan Reusability )</b>
 
@@ -142,11 +142,11 @@ Adapun aplikasi yang sejenis jalan sehat atau jogging dengan fitur GIS, projek y
 
 <b>3.4 Mekanisme Monitoring dan Kontroling</b>
 
-3.4.1 Monitoring
+<b>3.4.1 Monitoring</b>
 
 Proses monitoring dilakukan secara tim dan dilaksanakan setiap hari senin.
 
-3.4.2 Kontroling
+<b>3.4.2 Kontroling</b>
 
 Proses kontroling dilakukan oleh manager tim dan dilaksanakan setiap hari jumat agar bisa dievaluasi pada hari terakhir kegiatan.
 
