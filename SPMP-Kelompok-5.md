@@ -174,15 +174,36 @@ Metode yang kami gunakan yaitu menggunakan metode UML (Unified Modeling Language
 
 <b>5.1 Paket pekerjaan</b>
 
-| No | Nama | Jabatan | Modul |
-| ----------- | --------- | ---------- | ---------- |
-| 1 | Arie Fahmi Luthfi | Project Manager & Design Application | Logo, Layout Android |
-| 2 | Diky Anwar | Database Engineer | Database, Maps |
-| 3 | Shafa Dhiyanti | Analysis | Perhitungan BMR, Kalori |
-| 4 | Stephan Dwiki Alkine | Programmer | Login gmail/facebook |
+| No | Nama | Jabatan | Modul | Rincian Pekerjaan |
+| ----------- | --------- | ---------- | ---------- | ---------- |
+| 1 | Arie Fahmi Luthfi | Project Manager & Design Application | Otentikasi | Mendesain interface login |
+| | | | Tracking | Mendesain interface tracking |
+| | | | Kalori Burn | Mendesain interfacekalori burn |
+| | | | BMR | Mendesain interface BMR |
+| | | | Kalori Konsumsi | Mendesain interface kalori konsumsi |
+| | | | Riwayat Tracking | Mendesain interface riwayat tracking |
+| | | | Riwayat Kalori burn | Mendesain interface riwayat kalori burn |
+| | | | Riwayat BMR | Mendesain interface riwayat BMR |
+| | | | Riwayat Kalori Konsumsi | Mendesain interface riwayat kalori konsumsi |
+| 2 | Diky Anwar | Database Engineer | Otentikasi | Membuat login user |
+| | | | | Mengkoneksikan login dengan database |
+| | | | Tracking | Menampilkan jalur tracking dengan maps |
+| 3 | Shafa Dhiyanti | Analysis | BMR | Memasukkan rumus BMR | 
+| | | | | Menghitung rumus BMR |
+| | | | Kalori Konsumsi | Memasukkan rumus konsumsi kalori |
+| | | | | Menghitung rumus konsumsi kalori |
+| 4 | Stephan Dwiki Alkine | Programmer | Otentikasi | Membuat login dengan gmail / facebook |
+| | | | Tracking | Menampilkan jarak tracking |
+| | | | Kalori Burn | Menampilkan kalori burn |
+| | | | BMR | Menampilkan kalori ideal dari perhitungan BMR |
+| | | | Kalori Konsumsi | Menampilkan kalori konsumsi |
+| | | | Riwayat Tracking | Menampilkan riwayat jarak tracking |
+| | | | Riwayat Kalori Burn | Menampilkan riwayat kalori burn |
+| | | | Riwayat BMR | Menampilkan riwayat kalori ideal dari perhitungan BMR |
+| | | | Riwayat Kalori Konsumsi | Menampilkan riwayat kalori konsumsi |
 
 
-<b>5.2 Ketergantungan/keterkaitan</b>
+<b>5.2 Ketergantungan/Keterkaitan</b>
 
 Dalam pengerjaan projek ini keterkaitan dari tugas masing-masing saling menopang agar terbentuknya ketelitian saat pengerjaan dan mendapat hasil akhir yang maksimal
 
@@ -190,12 +211,12 @@ Dalam pengerjaan projek ini keterkaitan dari tugas masing-masing saling menopang
 | ----------- | --------- | ---------- | 
 | Manager | Anggota | Dimana manager menjadi pengawas dari anggota-anggotanya bilamana saat anggota lalai dengan tugas-tugasnya manager berhak menegur dan bagi anggota tidak berhak melawan jika ditegur, dan untuk manager sendiri tidak berhak semena-mena dengan jabatanya. |
 | Programmer | Analysis | Dikala programmer melakukan kesalahan dalam mengkoding, analisis memiliki tanggung jawab untuk mengecek kesalahan koding-koding yg dilakukan programmer. |
-| Analysis | Programmer | Betugas untuk memberi gambaran projek dan alur pengkodingan pada programmer.|
+| Analysis | Programmer | Bertugas untuk memberi gambaran projek dan alur pengkodingan pada programmer.|
 | Design | Programmer | Bertugas mendesain tampilan aplikasi yang dapat menarik konsumen saat aplikasi dirilis. |
 | Programmer | Database Engineer | Bertugas membuat perancangan sistem database. |
 
 
-<b>5.3 Kebutuhan-kebutuhan sumber daya</b>
+<b>5.3 Kebutuhan-kebutuhan Sumber Daya</b>
 
 | Sumber Daya | Jenis Kebutuhan | Alasan |
 | ----------- | --------- | ---------- | 
@@ -206,7 +227,7 @@ Dalam pengerjaan projek ini keterkaitan dari tugas masing-masing saling menopang
 | Sumber Daya Hardware | Perangkat Komputer | Perangkat induk yang di gunakan dalam pengerjaan projek. |
 | | Mobile | Perangkat yang digunakan untuk uji coba aplikasi. |
 
-<b>5.4 Alokasi budget dan sumber daya</b>
+<b>5.4 Alokasi Budget dan Sumber Daya</b>
 
 Berikut adalah rincian biaya yang diperlukan untuk penggarapan proyek antara lain :
 ![gambar](img/biaya.png)
