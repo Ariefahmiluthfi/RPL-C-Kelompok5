@@ -314,6 +314,21 @@ Kebutuhan antarmuka eksternal pada perangkat lunak Aplikasi Hidup Sehat mencakup
 | Post Condition | User dapat mengakses menu dari aplikasi PAHAT |
 | Exception Push | Tidak ada koneksi |
 
+<b>3.2.3 Olahraga </b>
+| Nama Fungsi | Navbar Menu User |
+| ----- | ----- |
+| Ref | Bag 2.1.2, Menu Olahraga |
+| Trigger | Mengklik tombol Olahraga pada navbar menu |
+| Precondition | Halaman utama menu Olahraga |
+| Basic Path | 1. User mengklik tombol Olahraga pada navbar menu |
+| | 2. Sistem menampilkan 3 pilihan olahraga |
+| | 3. User memilih olahraga |
+| | 4. Sistem menampilkan track olahraga yang dipilih |
+| | 5. Setelah user berolahraga, sistem menampilkan jarak yang sudah ditempuh dan kalori yang terbakar |
+| Alternative | Tidak ada |
+| Post Condition | User dapat mengetahui track, jarak dan kalori yang terbakar |
+| Exception Push | Tidak ada koneksi |
+
 <b>3.3 Persyaratan Non-fungsional yang Rinci</b>
 
 3.3.1 Structur Logis dari Data
