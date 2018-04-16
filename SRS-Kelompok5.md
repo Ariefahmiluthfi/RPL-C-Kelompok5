@@ -76,44 +76,74 @@ jarak yang sudah ditempuh dan berapa kalori yang sudah terbakar.Selanjutnya user
 
 <b>2.1.1. Antarmuka Sistem</b>
 
-![](http://i65.tinypic.com/qs8bjl.jpg)
+![](http://i68.tinypic.com/2zfsk7s.jpg)
 
 Aplikasi Pahat ini memiliki 1 user yaitu si pengguna aplikasi itu sendiri. User dapat melihat jalur tracking, mengetahui jumlah kalori terbakar setelah melakukan olahraga, mengetahui kalori ideal dari perhitungan BMR dan mengetahui kalori yang dikonsumsi setelah menginputkan makanan atau minuman apa saja yang telah dikonsumsi.
 
 <b>2.1.2. Antarmuka Pengguna</b>
 
-<p align="center">
-
-![](http://i65.tinypic.com/30v2lgp.png)
-
-![](http://i64.tinypic.com/mifnr8.png)
-
-[](http://i66.tinypic.com/2lbiziq.png)
-
-![](http://i67.tinypic.com/4kwxa0.png)
-
-![](http://i67.tinypic.com/jtmfyf.png)
-
-![](http://i67.tinypic.com/4g4y8n.png)
-
-![](http://i66.tinypic.com/2vt8o6g.png)
-
-![](http://i68.tinypic.com/sqj9ty.png)
-
-![](http://i64.tinypic.com/2nl7dr8.png)
-
-![](http://i67.tinypic.com/2me35t3.png)
-
-![](http://i67.tinypic.com/2u8h4ox.png)
-
-![](http://i65.tinypic.com/mli0qu.png)
-
-![](http://i66.tinypic.com/ix5qtk.png)
-
-![](http://i65.tinypic.com/nrzvc.png)
-
-![](http://i66.tinypic.com/5c0jl3.png)
-
+<table>
+<tr>
+	<td><p align="center">Splashscreen</td>
+	<td><p align="center"><img src="http://i64.tinypic.com/315bt6e.png"></p> </td>
+	<td><p align="center">Tampilan saat user membuka aplikasi</td>
+</tr>
+<tr>
+	<td><p align="center">Form Login</td>
+	<td><p align="center"><img src="http://i65.tinypic.com/s6twuq.png"></p> </td>
+	<td><p align="center">Tampilan form login. User login dengan memasukkan username dan password </td>
+</tr>
+<tr>
+	<td><p align="center">Menu Olahraga</td>
+	<td><p align="center"><img src="http://i68.tinypic.com/2e2gjmq.png"></p> </td>
+	<td><p align="center">Tampilan menu. User dapat memilih olahraga Lari, Bersepeda maupun Jalan</td>
+</tr>
+<tr>
+	<td><p align="center">Lari</td>
+	<td><p align="center"><img src="http://i66.tinypic.com/fpcd4z.png"></p> </td>
+	<td><p align="center">Tampilan saat user memilih olahraga Lari. Terdapat track, jarak yang ditempuh dan kalori terbakar</td>
+</tr>
+<tr>
+	<td><p align="center">Bersepeda</td>
+	<td><p align="center"><img src="http://i63.tinypic.com/2d9cxzo.png"></p> </td>
+	<td><p align="center">Tampilan saat user memilih olahraga Bersepeda. Terdapat track, jarak yang ditempuh dan kalori terbakar</td>
+</tr>
+<tr>
+	<td><p align="center">Jalan</td>
+	<td><p align="center"><img src="http://i68.tinypic.com/27y77k1.png"></p> </td>
+	<td><p align="center">Tampilan saat user memilih olahraga Jalan. Terdapat track, jarak yang ditempuh dan kalori terbakar</td>
+</tr>
+<tr>
+	<td><p align="center">Jalan</td>
+	<td><p align="center"><img src="http://i68.tinypic.com/27y77k1.png"></p> </td>
+	<td><p align="center">Tampilan saat user memilih olahraga Jalan. Terdapat track, jarak yang ditempuh dan kalori terbakar</td>
+</tr>
+<tr>
+	<td><p align="center">Menu</td>
+	<td><p align="center"><img src="http://i66.tinypic.com/2dl4zrp.png"></p> </td>
+	<td><p align="center">Tampilan menu</td>
+</tr>
+<tr>
+	<td><p align="center">Menu Perhitungan BMR</td>
+	<td><p align="center"><img src="http://i68.tinypic.com/33k4o7m.png"></p> </td>
+	<td><p align="center">Tampilan menu</td>
+</tr>
+<tr>
+	<td><p align="center">Menu Daftar Makanan dan Minuman</td>
+	<td><p align="center"><img src="http://i65.tinypic.com/2v2y2y8.png"></p> </td>
+	<td><p align="center">Tampilan ini menampilkan daftar makanan dan minuman</td>
+</tr>
+<tr>
+	<td><p align="center">Menu Perhitungan Kalori Konsumsi</td>
+	<td><p align="center"><img src="http://i68.tinypic.com/2d6s2a8.png"></p> </td>
+	<td><p align="center">Tampilan ini menampilkan pilihan makanan dan minuman apa saja yang dikonsumsi, lalu akan dihitung jumlah kalorinya</td>
+</tr>
+<tr>
+	<td><p align="center">Menu Data Kalori</td>
+	<td><p align="center"><img src="http://i63.tinypic.com/b8mdea.png"></p> </td>
+	<td><p align="center">Tampilan ini menampilkan report dari kalori yang terbakar, kalori ideal hasil perhitungan BMR dan jumlah kalori dari makanan / minuman yang sudah dikonsumsi</td>
+</tr>
+</table>
 
 <b>2.1.3. Antarmuka Perangkat Keras</b>
 Kebutuhan minimum perangkat keras yang dapat digunakan adalah:
@@ -156,7 +186,9 @@ Aplikasi ini membutuhkan koneksi internet untuk menjalankannya.
 
 <b>2.2. Spesifikasi Kebutuhan Fungsional</b>
 
-![](http://i67.tinypic.com/awh1c.png)
+![](http://i66.tinypic.com/11jn1vt.jpg)
+
+<b>2.2.1 User Login </b>
 
 <b>2.3. Spesifikasi Kebutuhan Non-fungsinoal</b>
 
