@@ -2,7 +2,7 @@
 <body>
 <div align="center"><h1> Software Project Management Plan</h1></div>
 
-<p align="center"><b>Version 1.2 </b><br>
+<p align="center"><b>Version 1.3 </b><br>
 <p align="center">12 Februari 2018</b>
 <p align="center">
 <img src="https://2.bp.blogspot.com/-dxdRgMQGbLk/WpA-Tp2rNGI/AAAAAAAAAh8/3_jBWFb7Cf48033QvB34D2WCwoN2sxZLgCLcBGAs/s1000/index.png"/>
@@ -128,7 +128,7 @@ Adapun aplikasi yang sejenis jalan sehat atau jogging dengan fitur GIS, projek y
 | Biaya dan waktu yang tidak sesuai | Membuat biaya estimasi |
 | | Menganalisa waktu projek yang akan dibuat |
 | | Menambah waktu dalam pengerjaan projek |
-| Pengembangan software yang belum maksimal | Evaluasi projek yan ditingkatkan |
+| Pengembangan software yang belum maksimal | Evaluasi projek yang ditingkatkan |
 | | Membuat metode berspesifikasi |
 | | Membuat prototype |
 | Kegagalan pada komponen | Mencari lebih banyak referensi |
@@ -152,13 +152,13 @@ Proses kontroling dilakukan oleh manager tim dan dilaksanakan setiap hari jumat 
 
 <b>3.5 Perencanaan Staff</b>
 
-| Jobdesk     | Nama |
+| Nama | Jobdesk |
 | ----------- | --------- | 
-| Project Manager	  | Arie Fahmi Luthfi |
-| Design Application | |
-| Programmer          | Stephan Dwiki Alkine |
-| Analysis            | Shafa Dhiyanti |
-| Database Engineer           | Diky Anwar |
+| Arie Fahmi Luthfi | Project Manager | 
+| | Design Application |
+| Stephan Dwiki Alkine | Programmer |
+| Shafa Dhiyanti | Analysis |
+| Diky Anwar | Database Engineer |
 
 <h3><b>Bab 4. PROSES TEKNIS</b></h3>
 
@@ -181,6 +181,7 @@ Metode yang kami gunakan yaitu menggunakan metode UML (Unified Modeling Language
 | | | | Kalori Burn | Mendesain interfacekalori burn |
 | | | | BMR | Mendesain interface BMR |
 | | | | Kalori Konsumsi | Mendesain interface kalori konsumsi |
+| | | | Report Kalori | Mendesain interface report kalori |
 | | | | Riwayat Tracking | Mendesain interface riwayat tracking |
 | | | | Riwayat Kalori burn | Mendesain interface riwayat kalori burn |
 | | | | Riwayat BMR | Mendesain interface riwayat BMR |
@@ -197,6 +198,7 @@ Metode yang kami gunakan yaitu menggunakan metode UML (Unified Modeling Language
 | | | | Kalori Burn | Menampilkan kalori burn |
 | | | | BMR | Menampilkan kalori ideal dari perhitungan BMR |
 | | | | Kalori Konsumsi | Menampilkan kalori konsumsi |
+| | | | Report Kalori | Menampilkan kalori burn, kalori ideal dari perhitungan BMR dan kalori konsumsi |
 | | | | Riwayat Tracking | Menampilkan riwayat jarak tracking |
 | | | | Riwayat Kalori Burn | Menampilkan riwayat kalori burn |
 | | | | Riwayat BMR | Menampilkan riwayat kalori ideal dari perhitungan BMR |
