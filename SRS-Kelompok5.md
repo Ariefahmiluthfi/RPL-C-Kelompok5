@@ -318,18 +318,4 @@ Yang dilakukan adalah : Login, Melakukan kegiatan kegiatan pola hidup sehat (ber
 
 ![](http://i68.tinypic.com/2jacnth.png)
 
-3.3.2 Keamanan
-
-Untuk memproteksi perangkat lunak dari akses, penggunaan, penghancuran atau pengungkapan (disclosure) yang tidak sengaja atau yang merusak. Kebutuhan yang spesifik termasuk hal-hal berikut :
-
-1.	Adanya backup data sehingga data lebih reliable
-2.	Penyimpanan data log/history
-3.	Pemberian suatu fungsi ke modul-modul yang berbeda
-4.	Pembatasan komunikasi terhadap suatu area tertentu dalam program,
-5.	Pemeriksaan integritas data peubah-peubah kritis
-
-3.3.3 Pemeliharaan
-
-Adanya pemeliharaan dan pengecekan berkala dan terus-menerus yang akan dilakukan terhadap program yang berjalan ataupun pengecekan baik terhadap perangkat lunak itu sendiri ataupun hardware yang digunakan. Untuk pemeliharaan tiap harinya, system ini dilengkapi antivirus sehingga meminimalkan kerusakan pada system serta terdapat back up data untuk mencegah hal-hal yang tidak terduga yang tidak diinginkan
-
 <b><h4>BAB 4.INFORMASI PENDUKUNG</h4></b>
