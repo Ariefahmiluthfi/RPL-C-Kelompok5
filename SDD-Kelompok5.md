@@ -3,7 +3,7 @@
 <div align="center"><h1> Software Design Description</h1></div>
 
 <p align="center"><b>Version 1.0 </b><br>
-<p align="center">Maret 2018</b>
+<p align="center">5 Maret 2018</b>
 <p align="center">
 <img src="https://2.bp.blogspot.com/-dxdRgMQGbLk/WpA-Tp2rNGI/AAAAAAAAAh8/3_jBWFb7Cf48033QvB34D2WCwoN2sxZLgCLcBGAs/s1000/index.png"/>
 </p>
@@ -71,23 +71,33 @@ c. Bab 3, merupakan deskripsi perancangan rinci yang berisi tentang rincian kese
 
 Aplikasi Pola Hidup Sehat akan dikembangkan menjadi perangkat lunak berbasis android yang membutuhkan komputer dengan spesifikasi sebagai berikut :
 
-- Sistem Operasi	: Microsoft Windows 2010
+- Sistem Operasi  : Windows, Android
 
-- DBMS				: 
+- DBMS	: Firebase
 
-- Development Tools	: Edraw Max
-
-- Word Processor	: Microsoft Office Word 2010
+- Tools	: Android Studio, Edraw Max
 
 - Bahasa pemrograman : Java
 
 <b>2.2 Deskripsi Data</b>
+
+Deskripsi tabel-tabel yang terdapat pada database pembuatan aplikasi PAHAT adalah sebagai berikut :
+
+<b>Tabel User</b>
+
+| Nama Field | Jenis | Volume | Laju | Primary Key | Constraint Integrity | Deskripsi |
+| ----- | ----- | ----- | ----- | ----- | ----- | ----- | 
+| id_user | integer | 11 | Primary key | Iya | auto_increment | id_user auto increment |
+| email | varchar | 20 | Tidak | Tidak | - | email yang digunakan user untuk login |
+| password | varchar | 20 | Tidak | Tidak | password yang digunakan user untuk login |
 
 2.2.1 Definisi Domain/Type
 
 2.2.2 Conceptual Data Model
 
 2.2.3 Physical Data Model
+
+2.2.4 Daftat Tabel Aplikasi
 
 2.3 Deskripsi Modul
 
