@@ -2,7 +2,7 @@
 <body>
 <div align="center"><h1> Software Requirements Specification</h1></div>
 
-<p align="center"><b>Version 1.3 </b><br>
+<p align="center"><b>Version 1.4 </b><br>
 <p align="center">22 Februari 2018</b>
 <p align="center">
 <img src="https://2.bp.blogspot.com/-dxdRgMQGbLk/WpA-Tp2rNGI/AAAAAAAAAh8/3_jBWFb7Cf48033QvB34D2WCwoN2sxZLgCLcBGAs/s1000/index.png"/>
@@ -146,6 +146,7 @@ Aplikasi Pahat ini memiliki 1 user yaitu si pengguna aplikasi itu sendiri. User 
 </table>
 
 <b>2.1.3. Antarmuka Perangkat Keras</b>
+
 Kebutuhan minimum perangkat keras yang dapat digunakan adalah:
 
 - Seperangkat komputer
