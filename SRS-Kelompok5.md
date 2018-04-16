@@ -364,6 +364,17 @@ Kebutuhan antarmuka eksternal pada perangkat lunak Aplikasi Hidup Sehat mencakup
 | Post Condition | User dapat mengetahui kalori yang dikonsumsinya |
 | Exception Push | Tidak ada koneksi |
 
+<b>3.2.6 Report Kalori </b>
+| Nama Fungsi | Data Kalori Anda  |
+| ----- | ----- |
+| Ref | Bag 2.1.2, Menu Data Kalori Anda  |
+| Trigger | Mengklik tombol Data Kalori Anda pada navbar menu |
+| Precondition | Halaman utama menu Data Kalori Anda  |
+| Basic Path | 1. User mengklik tombol Data Kalori Anda pada navbar menu |
+| | 2. Sistem menampilkan kalori terbakar, kalori ideal dan banyaknya kalori pada makanan/minuman yang dikonsumsi |
+| Alternative | Tidak ada |
+| Post Condition | User dapat mengetahui kalori terbakar, kalori ideal dan kalori yang dikonsumsinya |
+| Exception Push | Tidak ada koneksi |
 
 
 <b>3.3 Persyaratan Non-fungsional yang Rinci</b>
