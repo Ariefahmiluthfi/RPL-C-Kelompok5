@@ -89,7 +89,7 @@ Deskripsi tabel-tabel yang terdapat pada database pembuatan aplikasi PAHAT adala
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | 
 | id_user | integer | 11 | Primary key | Iya | auto_increment | id_user auto increment |
 | email | varchar | 20 | Tidak | Tidak | - | email yang digunakan user untuk login |
-| password | varchar | 20 | Tidak | Tidak | password yang digunakan user untuk login |
+| password | varchar | 20 | Tidak | Tidak | - | password yang digunakan user untuk login |
 
 2.2.1 Definisi Domain/Type
 
