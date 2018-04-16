@@ -315,7 +315,8 @@ Kebutuhan antarmuka eksternal pada perangkat lunak Aplikasi Hidup Sehat mencakup
 | Exception Push | Tidak ada koneksi |
 
 <b>3.2.3 Olahraga </b>
-| Nama Fungsi | Navbar Menu User |
+
+| Nama Fungsi | Olahraga |
 | ----- | ----- |
 | Ref | Bag 2.1.2, Menu Olahraga |
 | Trigger | Mengklik tombol Olahraga pada navbar menu |
@@ -328,6 +329,42 @@ Kebutuhan antarmuka eksternal pada perangkat lunak Aplikasi Hidup Sehat mencakup
 | Alternative | Tidak ada |
 | Post Condition | User dapat mengetahui track, jarak dan kalori yang terbakar |
 | Exception Push | Tidak ada koneksi |
+
+<b>3.2.4 BMR </b>
+
+| Nama Fungsi | BMR |
+| ----- | ----- |
+| Ref | Bag 2.1.2, Menu BMR |
+| Trigger | Mengklik tombol Perhitungan BMR pada navbar menu |
+| Precondition | Halaman utama menu Perhitungan BMR |
+| Basic Path | 1. User mengklik tombol Perhitungan BMR pada navbar menu |
+| | 2. Sistem menampilkan 3 kolom yakni kolom usia, berat badan dan tinggi badan |
+| | 3. User mengisi 3 kolom tersebut sebagai data untuk melakukan perhiutngan BMR |
+| | 4. Sistem melakukan perhitungan BMR |
+| | 5. User mengetahui kalori ideal melalui perhitungan BMR |
+| Alternative | Tidak ada |
+| Post Condition | User dapat mengetahui kalori ideal |
+| Exception Push | Tidak ada koneksi |
+
+<b>3.2.5 Daftar Makanan dan Minuman serta Hitung Konsumsi Kalori </b>
+
+| Nama Fungsi | Daftar Makanan dan Minuman  |
+| ----- | ----- |
+| Ref | Bag 2.1.2, Menu Daftar Makanan dan Minuman  |
+| Trigger | Mengklik tombol Daftar Makanan dan Minuman  pada navbar menu |
+| Precondition | Halaman utama menu Daftar Makanan dan Minuman  |
+| Basic Path | 1. User mengklik tombol Daftar Makanan dan Minuman  pada navbar menu |
+| | 2. Sistem menampilkan daftar makanan dan minuman serta kandungan kalorinya |
+| | 3. User mengklik tombol hitung kalori |
+| | 4. Sistem menampilkan kolom makanan dan minuman |
+| | 5. User mengisi kolom tersebut dengan makanan atau minuman apa saja yang sudah dikonsumsi |
+| | 6. Sistem menghitung kalori yang dikonsumsi |
+| 7. Sistem menampilkan konsumsi kalori |
+| Alternative | Tidak ada |
+| Post Condition | User dapat mengetahui kalori yang dikonsumsinya |
+| Exception Push | Tidak ada koneksi |
+
+
 
 <b>3.3 Persyaratan Non-fungsional yang Rinci</b>
 
