@@ -359,12 +359,13 @@ Kebutuhan antarmuka eksternal pada perangkat lunak Aplikasi Hidup Sehat mencakup
 | | 4. Sistem menampilkan kolom makanan dan minuman |
 | | 5. User mengisi kolom tersebut dengan makanan atau minuman apa saja yang sudah dikonsumsi |
 | | 6. Sistem menghitung kalori yang dikonsumsi |
-| 7. Sistem menampilkan konsumsi kalori |
+| | 7. Sistem menampilkan konsumsi kalori |
 | Alternative | Tidak ada |
 | Post Condition | User dapat mengetahui kalori yang dikonsumsinya |
 | Exception Push | Tidak ada koneksi |
 
 <b>3.2.6 Report Kalori </b>
+
 | Nama Fungsi | Data Kalori Anda  |
 | ----- | ----- |
 | Ref | Bag 2.1.2, Menu Data Kalori Anda  |
