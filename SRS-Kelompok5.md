@@ -188,17 +188,66 @@ Aplikasi ini membutuhkan koneksi internet untuk menjalankannya.
 
 ![](http://i66.tinypic.com/11jn1vt.jpg)
 
-<b>2.2.1 User Login </b>
+<b>2.2.1 Login </b>
+
+![](http://i67.tinypic.com/20r8bkh.jpg)
+
+Untuk dapat menggunakan aplikasi, user harus login terlebih dahulu dengan cara :
+
+1. User mengaktifkan fungsi login 
+2. Sistem menampilkan halaman login yang terdiri dari email dan password 
+3. User mengisi email dan password 
+4. Sistem melakukan validasi dari email dan password 
+5. Jika login gagal maka member akan diminta mengulangi proses login 
+6. Jika login berhasil maka member akan diarahkan ke menu aplikasi
+
+<b>2.2.2 Pilih Olahraga </b>
+
+![](http://i64.tinypic.com/2j5gos9.jpg)
+
+User dapat memilih olahraga dengan cara:
+
+1. User pilih menu olahraga
+2. Sistem memberikan 3 pilihan olahraga
+3. User memilih olahraga
+4. Sistem menampilkan track untuk olahraga
+5. Setelah user olahraga, sistem akan menampilkan jarak yang ditempuh dan kalori yang terbakar
+
+<b>2.2.3 Perhitungan BMR</b>
+
+![](http://i66.tinypic.com/117xp2c.jpg)
+
+User dapat mengetahui kalori ideal dari perhitungan BMR, dengan cara:
+
+1. User pilih menu Hitung BMR
+2. Sistem memberikan kolom Usia,Berat Badan dan Tinggi Badan
+3. User mengisi kolom yang disediakan
+4. Sistem akan melakukan perhitungan BMR untuk mengetahui kalori ideal user
+5. Sistem menampilkan kalori ideal user
+
+<b>2.2.4 Kalori Konsumsi </b>
+
+![](http://i64.tinypic.com/kdlkp4.jpg)
+
+User dapat mengetahui kalori konsumsi dengan cara :
+
+1. User memilih menu Daftar Makanan dan Minuman
+2. Sistem memberikan daftar makanan dan minuman serta jumlah kalori yang terkandung didalamnya
+3. User memilih makanan atau minuman yang telah ia konsumsi
+4. Sistem menghitung keseluruhan jumlah kalori yang telah user konsumsi
+5. Sistem menampilkan kalori konsumsi user
+
+
 
 <b>2.3. Spesifikasi Kebutuhan Non-fungsinoal</b>
 
 - Availability
  
-Ketersediaan aplikasi yang dapat di-update sewaktu-waktu dan dapat beroperasi terus menerus selama 24 jam per hari tanpa berhenti, karena aplikasi ini akan bersifat android-based dan web-based dan akan diakses oleh pengguna yang membutuhkan dari berbagai tempat pada waktu yang berbeda-beda.
+Ketersediaan aplikasi yang dapat di-update sewaktu-waktu dan dapat beroperasi terus menerus selama 24 jam per hari tanpa berhenti, karena aplikasi ini akan bersifat android-based dan akan diakses oleh pengguna yang membutuhkan dari berbagai tempat pada waktu yang berbeda-beda.
 
 - Security 
 
-Aplikasi yang dikembangkan nantinya harus memiliki tingkat keamanan yang tinggi dimana setiap user yang masuk tidak dapat seenaknya mengubah data yang berada di dalam aplikasi ini. Aplikasi ini juga aman karena terdapat transaksi keuangan maka faktor keamanan menjadi sangat penting.
+Aplikasi yang dikembangkan nantinya harus memiliki tingkat keamanan yang tinggi dimana setiap user yang masuk tidak dapat seenaknya mengubah data yang berada di dalam aplikasi ini. 
 
 - Usability
  
