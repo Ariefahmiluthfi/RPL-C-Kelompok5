@@ -287,35 +287,24 @@ Kebutuhan antarmuka eksternal pada perangkat lunak Aplikasi Hidup Sehat mencakup
 
 <b>3.2 Kebutuhan Fungsional</b>
 
-Kebutuhan Fungsional adalah kebutuhan yang harus dipenuhi agar suatu sistem dapat berjalan atau dapat dikatakan kebutuhan tambahan yang memiliki input, proses, dan output. Kebutuhan fungsional yang harus ada dalam sistem yang akan dikembangkan ini adalah sebagai berikut:
+<b>3.2.1 Login User </b>
 
-1.	Sistem harus dapat menyediakan informasi mengenai pola hidup sehat secara lebih detail, cepat dan efektif.
-2.	Sistem harus dapat mempermudah user dalam proses kegiatan olahraga. 
-
-Aktor yang ada dalam dalam lingkup sistem adalah
-
-a.	User
-
-Yang dilakukan adalah : Login, Melakukan kegiatan kegiatan pola hidup sehat (berjalan, berlari, bersepeda dll), dan Memilih menu-menu yang tersedia
-
-3.2.1 Memilih olahraga
-
-3.2.2 Menampilkan jalur olahraga
-
-3.2.3 Melakukan Perhitungan BMR
-
-3.2.4 Melihat data kandungan kalori
-
-3.2.5 Menghitung konsumsi kalori
-
-3.2.6 Menampilkan jarak dan kalori yang terbakar saat olahraga
-
-3.2.7 Menampilkan laporan kalori user
+| Nama Fungsi | Login User |
+| ----- | ----- |
+| Ref | Bag 2.1.2, Login User |
+| Trigger | Membuka aplikasi PAHAT |
+| Precondition | Halaman utama Login pada aplikasi |
+| Basic Path | 1. Sistem menampilkan halaman Login yang terdiri dari email dan password |
+| | 2. User memasukkan email dan password |
+| | 3. Sistem memvalidasi email dan password |
+| Alternative | Tidak ada |
+| Post Condition | User dapat login dan dapat mengakses aplikasi PAHAT |
+| Exception Push | Tidak ada koneksi |
 
 <b>3.3 Persyaratan Non-fungsional yang Rinci</b>
 
 3.3.1 Structur Logis dari Data
 
-![](http://i68.tinypic.com/2jacnth.png)
+![](http://i63.tinypic.com/2nuhaav.jpg)
 
 <b><h4>BAB 4.INFORMASI PENDUKUNG</h4></b>
