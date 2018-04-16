@@ -40,33 +40,21 @@ perangkat lunak aplikasi Pola Hidup Sehat.
 
 <b>1.2. Lingkup</b>
 
-Perangkat lunak yang akan dikembangkan adalah perangkat lunak aplikasi Pola Hidup Sehat, yaitu merupakan perangkat lunak yang digunakan 
-untuk mempermudah pengguna (user) mengetahui aktivitas seperti jalan sehat, jogging, maupun bersepeda dengan GPS yang dimana fungsinya 
-adalah memberikan statistik kepada kita tentang kecepatan, jarak, dan waktu berolahraga kita, serta perhitungan BMR (Basal Metabolic Rate).
-Aplikasi ini dapat melakukan hal-hal berikut ini :
+Sistem perangkat lunak yang akan dikembangkan adalah perangkat lunak aplikasi Pola Hidup Sehat. Sistem ini dirancang untuk mempermudah pengguna (user) mengetahui aktivitas seperti jalan sehat, jogging, maupun bersepeda dengan GPS yang dimana fungsinya 
+adalah memberikan statistik kepada kita tentang kecepatan, jarak, dan waktu berolahraga kita, perhitungan BMR (Basal Metabolic Rate), serta perhitungan kalori.
 
-1.2.1 Fasilitas Login untuk pengguna (user)
+<b>1.3. Definisi, Akronim dan Singkatan</b>
 
-1.2.2 Melakukan perhitungan BMR (Basal Metabolic Rate)
 
-1.2.3 Menentukan jalur serta menampilkannya di GPS
-
-1.2.4 Memberikan informasi berupa kandungan kalori pada makanan dan minuman
-
-<b>1.3. Definisi, akronim, singkatan</b>
-
-Definisi :
-
-Software Requirement Specification adalah perangkat lunak yang akan dibuat dan sebagai penyembatani komunikasih pembuat dengan pengguna.
-Use case adalah situasi dimana sistem anda digunakan untuk memenuhi satu atau lebih kebutuhan pemakaian anda. 
-Akronim dan Singkatan :
-Pahat : Aplikasi Pola Hidup Sehat
-SRS : Software Requirement Specification
-lot : lokasi penempatan
+| Definisi, Akronim dan Singkatan |	Penjelasan |
+| -------- | ----------- |
+| IEEE |	Institute of Electrical and Electronics Engineer. |
+| BMR | adalah kebutuhan energi minimal yang dibutuhkan tubuh untuk menjalankan proses tubuh yang vital |
+| SPMP dan SRS | adalah dokumen yang menggambarkan secara detail spesifikasi kebutuhan software dalam pembangunan proyek perangkat lunak Aplikasi Pahat Berbasis Android. |
 
 <b>1.4. Referensi </b>
 
-Nazruddin Safaat H, Android : Pemrograman Aplikasi Mobile Smartphone dan Tablet PC Berbasis Android (Revisi 2). Informatika.2014.
+- IEEE Std. 830-1998, IEEE Recommended Practice for Software Requirement Specifications.
 
 <b>1.5. Overview</b>
 
@@ -80,31 +68,23 @@ perangkat lunak, karakteristik pengguna, batasan dan asumsi yang diambil dalam p
 
 <b><h4>BAB 2.GAMBARAN UMUM</h4></b>
 
-Tuliskan produk secara umum dan hindari penulisan pernyataan yang berulang dan
-ambigu (harus jelas subjek predikat dan objeknya)
-
-<b>2.1. Perspektif produk</b>
+<b>2.1. Perspektif Produk</b>
 
 Perangkat lunak yang dibuat (disebut dengan PAHAT) merupakan sebuah perangkat lunak yang digunakan untuk membantu melakukan proses pola 
-hidup sehat dengan memantau aktifitas olahraga serta memantau asupan yang dikonsumsi.
+hidup sehat dengan memantau aktifitas olahraga serta memantau asupan yang dikonsumsi.Prosesnya dimana user bisa memilih olahraga yang diinginkan lalu dapat melihat jalur olahraganya serta memberikan informasi berupa berapa 
+jarak yang sudah ditempuh dan berapa kalori yang sudah terbakar.Selanjutnya user bisa melakukan perhitungan BMR dan mengetahui berapa kalori yang telah dikonsumsi.
 
-Prosesnya dimana user bisa memilih olahraga yang diinginnkan lalu dapat melihat jalur olahraganya serta memberikan informasi berapa 
-jarak yang sudah ditempuh dan berapa kalori yang sudah terbakar.Selanjutnya dimana si user bisa memantau asupannya dengan kita melakukan
-perhitungan BMR.
+<b>2.1.1. Antarmuka Sistem</b>
 
-2.1.1. Antarmuka sistem
+![](http://i65.tinypic.com/qs8bjl.jpg)
 
-![](http://i66.tinypic.com/503g5.png)
+Aplikasi Pahat ini memiliki 1 user yaitu si pengguna aplikasi itu sendiri. User dapat melihat jalur tracking, mengetahui jumlah kalori terbakar setelah melakukan olahraga, mengetahui kalori ideal dari perhitungan BMR dan mengetahui kalori yang dikonsumsi setelah menginputkan makanan atau minuman apa saja yang telah dikonsumsi.
 
-2.1.2. Antarmuka pengguna
+<b>2.1.2. Antarmuka Pengguna</b>
 
-Aplikasi ini dikembangkan dalam bentuk aplikasi android. Perangkat lunak ini dilengkapi dengan menu untuk pengaksesan berbagai
-fungsi yang disediakan. Interaksi antara pengguna dan perangkat lunak dilakukan dengan menggunakan smartphone.
+<p align="center">
 
-
-<center>
-
-![](http://i65.tinypic.com/30v2lgp.png) 
+![](http://i65.tinypic.com/30v2lgp.png)
 
 ![](http://i64.tinypic.com/mifnr8.png)
 
@@ -134,72 +114,87 @@ fungsi yang disediakan. Interaksi antara pengguna dan perangkat lunak dilakukan 
 
 ![](http://i66.tinypic.com/5c0jl3.png)
 
-</center>
 
-
-2.1.3. Antarmuka perangkat keras
+<b>2.1.3. Antarmuka Perangkat Keras</b>
 Kebutuhan minimum perangkat keras yang dapat digunakan adalah:
-
 
 - Seperangkat komputer
 
-
 - Smartphone 
 
-Semua perangkat keras yang digunakan merupakan perangkat standar dalam sistem komputer dan
-menggunakan port standar yang ada. 
+![](http://i67.tinypic.com/b8jx2g.jpg)
 
-2.1.4. Antarmuka perangkat lunak
+<b>2.1.4. Antarmuka Perangkat Lunak</b>
 
 Perangkat lunak yang diperlukan oleh aplikasi ini adalah:
 
+- Android Studio
 
-- Mobile Aplikasi Pola Hidup Sehat
+- Firebase
 
-2.1.5. Antarmuka komunikasi
+- Balsamiq Mockup
 
-Aplikasi ini menggunakan internet untuk menjalankannya. 
+<b>2.1.5. Antarmuka Komunikasi</b>
 
-2.1.6. Batasan memori
+Aplikasi ini membutuhkan koneksi internet untuk menjalankannya. 
+
+<b>2.1.6. Batasan memori</b>
+
+<b>2.1.7. Operasi-operasi</b>
+
+| Operasi | Fungsi |
+| ----- | ----- |
+| Login | Digunakan untuk masuk akses ke aplikasi |
+| Pilih Olahraga | Digunakan untuk memilih olahraga apa yang ingin dilakukan |
+| Perhitungan BMR | Digunakan untuk menghitung BMR agar mengetahui kalori ideal |
+| Pilih makanan | Digunakan untuk memilih makanan yang dikonsumsi |
+| Pilih minuman | Digunakan untuk memilih minuman yang dikonsumsi |
+|  Perhitungan kalori konsumsi | Digunakan untuk menghitung berapa kalori kita setelah mengkonsumsi makanan atau minuman |
+
+<b>2.1.8. Kebutuhan Adaptasi</b>
 
 
-2.1.7. Operasi-operasi
-
-- Login melalui mobile
-
-- Pilih olahraga
-
-- Hitung BMR
-
-- Data Kalori
-
-2.1.8. Kebutuhan adaptasi
-
-
-
-<b>2.2. Spesifikasi Kebutuhan fungsional</b>
+<b>2.2. Spesifikasi Kebutuhan Fungsional</b>
 
 ![](http://i67.tinypic.com/awh1c.png)
 
-<b>2.3. Spesifikasi kebtuhan non-fungsinoal</b>
+<b>2.3. Spesifikasi Kebutuhan Non-fungsinoal</b>
 
+- Availability
+ 
+Ketersediaan aplikasi yang dapat di-update sewaktu-waktu dan dapat beroperasi terus menerus selama 24 jam per hari tanpa berhenti, karena aplikasi ini akan bersifat android-based dan web-based dan akan diakses oleh pengguna yang membutuhkan dari berbagai tempat pada waktu yang berbeda-beda.
 
+- Security 
 
-- Design layout mobile
+Aplikasi yang dikembangkan nantinya harus memiliki tingkat keamanan yang tinggi dimana setiap user yang masuk tidak dapat seenaknya mengubah data yang berada di dalam aplikasi ini. Aplikasi ini juga aman karena terdapat transaksi keuangan maka faktor keamanan menjadi sangat penting.
 
-<b>2.4. Karakteristik pengguna</b>
+- Usability
+ 
+Aplikasi ini diharapkan memudahkan user dalam penggunaannya.
 
-Karakteristik pengguna dari Aplikasi Pola Hidup Sehat ini adalah semua yang ingin menggunakannya untuk menerapkan pola hidup sehat dengan berolahraga dan mengatur pola makan.
+- Accessibility
+ 
+Aplikasi bisa digunakan kapanpun dan dimanapun selama terkoneksi internet.
+
+- Portability
+ 
+Aplikasi ini memberi kemudahan dalam pengaksesan sistem khususnya terkait dengan faktor waktu dan lokasi pengaksesan, serta perangkat atau teknologi yang digunakan untuk mengakses.
+
+<b>2.4. Karakteristik Pengguna</b>
+
+- Pengguna diharapkan dapat memiliki koneksi internet untuk menjalankan aplikasi.
+
+- Pengguna diharapkan dapat memahami menu yang diberikan aplikasi serta dapat menggunakan tombol, pulldown menu dan lain-lain. 
 
 <b>2.5. Batasan-batasan</b>
 
 - Aplikasi Pahat ini belum bisa membagikan kegiatan kita ke media sosial.
 
 
-<b>2.6. Asumsi-asumsi keterkaitan</b>
+<b>2.6. Asumsi-asumsi Keterkaitan</b>
 
 
-<b>2.7. Kebutuhan penyeimbang</b>
+<b>2.7. Kebutuhan Penyeimbang</b>
 
 
 <b><h4>BAB 3.DESKRIPSI RINCI KEBUTUHAN</h4></b>
