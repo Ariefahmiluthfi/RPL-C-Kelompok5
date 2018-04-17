@@ -407,6 +407,7 @@ Deskripsi tabel-tabel yang terdapat pada database pembuatan aplikasi PAHAT adala
 | No | Fungsi | Jenis | Tabel terkait |
 | ----- | ----- | ----- | ----- |
 | 1 | Login | Form entry | user |
+| 2 | Forgot password | Form entry | user |
 
 <b>3.3.1.2 Spesifikasi Layar Utama</b>
 
@@ -423,7 +424,9 @@ Deskripsi tabel-tabel yang terdapat pada database pembuatan aplikasi PAHAT adala
 
 <b>3.3.1.3 Spesifikasi Query</b>
 
-(jika ada)
+| ID Query | Deskripsi | Ekspresi Query |
+| ----- | ----- | ----- |
+| QRY01 | Login | SELECT*FROM user where email ='$email' AND password='$password' |
 
 <b>3.3.1.4 Spesifikasi Field Data Layar</b>
 
