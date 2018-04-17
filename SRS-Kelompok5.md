@@ -2,7 +2,7 @@
 <body>
 <div align="center"><h1> Software Requirements Specification</h1></div>
 
-<p align="center"><b>Version 1.4 </b><br>
+<p align="center"><b>Version 1.5 </b><br>
 <p align="center">22 Februari 2018</b>
 <p align="center">
 <img src="https://2.bp.blogspot.com/-dxdRgMQGbLk/WpA-Tp2rNGI/AAAAAAAAAh8/3_jBWFb7Cf48033QvB34D2WCwoN2sxZLgCLcBGAs/s1000/index.png"/>
@@ -401,7 +401,7 @@ Deskripsi :
 | ----- | ----- | ----- |
 | id_or | integer | id or auto increment |
 | nama_or | varchar | nama olahraga |
-| jarak_or | integer | jarak yang ditempuh user saat berolahraga |
+| jarak_or | varchar | jarak yang ditempuh user saat berolahraga |
 | kal_burn | varchar | kalori yang terbakar user setelah berolahraga |
 
 <b> Tabel BMR </b>
@@ -410,9 +410,9 @@ Deskripsi :
 | ----- | ----- | ----- |
 | id_bmr | integer | id_bmr auto increment |
 | umur | integer | umur user |
-| tinggi_bdn | integer | tinggi badan user |
-| berat_bdn | integer | berat badan user |
-| kal_ideal | integer | hasil perhitunga BMR |
+| tinggi_bdn | varchar | tinggi badan user |
+| berat_bdn | varchar | berat badan user |
+| kal_ideal | varchar | hasil perhitunga BMR |
 
 <b> Tabel Menu_food </b>
 
@@ -420,7 +420,7 @@ Deskripsi :
 | ----- | ----- | ----- |
 | id_food | integer | id food auto increment |
 | nama_food | varchar | nama makanan |
-| kal_food | integer | kandungan kalori pada makanan |
+| kal_food | varchar | kandungan kalori pada makanan |
 
 <b> Tabel Menu_drink </b>
 
@@ -428,7 +428,7 @@ Deskripsi :
 | ----- | ----- | ----- |
 | id_drink | integer | id drink auto increment |
 | nama_drink | varchar | nama minuman |
-| kal_drink | integer | kandungan kalori pada minuman |
+| kal_drink | varchar | kandungan kalori pada minuman |
 
 <b> Tabel Kalori </b>
 
@@ -437,7 +437,7 @@ Deskripsi :
 | id_kalori | integer | id kalori auto increment |
 | id_food | integer | makanan yang dipilih |
 | id_drink | integer | minuman yang dipilih |
-| kal_consum | integer | hasil perhitungan jumlah kalori pada makanan dan minuman yang dikonsumsi |
+| kal_consum | varchar | hasil perhitungan jumlah kalori pada makanan dan minuman yang dikonsumsi |
 
 <b> Tabel Report Kalori </b>
 
@@ -445,9 +445,9 @@ Deskripsi :
 | ----- | ----- | ----- |
 | id_report | integer | id report auto increment |
 | id_user | integer | info user |
-| kal_burn | integer | kalori yang terbakar pada user setelah berolahraga|
-| kal_ideal | integer | kalori ideal user yang didapatkan dari perhitungan BMR |
-| kal_consum | integer | jumlah kalori pada makanan / minuman yang dikonsumsi |
+| kal_burn | varchar | kalori yang terbakar pada user setelah berolahraga|
+| kal_ideal | varchar | kalori ideal user yang didapatkan dari perhitungan BMR |
+| kal_consum | varchar | jumlah kalori pada makanan / minuman yang dikonsumsi |
 
 
 
