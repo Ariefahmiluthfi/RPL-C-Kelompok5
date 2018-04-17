@@ -284,17 +284,23 @@ Deskripsi tabel-tabel yang terdapat pada database pembuatan aplikasi PAHAT adala
 
 <b>3.2 Deskripsi Rinci Tabel</b>
 
-     Identifikasi/Nama : Login
-     
-     Deskripsi Isi     : Data Login
-     
-     Jenis             : Tabel data Induk
-     
-     Volume            : 10 Record
-     
-     Laju              : 10 Record/bulan
-     
-     Primary Key       : Id User
+<b>3.2.1 Tabel User </b>
+
+- Identifikasi / Nama : User
+- Deskripsi Isi : Berisi semua user dalam aplikasi
+- Jenis : Tabel Referensi
+- Volume : -
+- Laju : -
+- Primary key : id_user
+
+| Id Field | Deskripsi | Tipe & Length | Boleh NULL | Default | Keterangan |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| id_user | merupakan key dari tabel user | int | No | - | Primary key yang unik dari setiap user, bersifat auto increment |
+| email | menyatakan email user | varchar(20) | No | - | Email akan digunakan sebagai username untuk login user |
+| password | menyatakan password user | varchar(20) | No | - | password akan digunakan untuk login user, password harus sesuai dengan email agar login berhasil |
+
+
+
 
 3.2.1 Tabel A
 
