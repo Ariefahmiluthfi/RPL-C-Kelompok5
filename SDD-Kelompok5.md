@@ -310,10 +310,27 @@ Deskripsi tabel-tabel yang terdapat pada database pembuatan aplikasi PAHAT adala
 
 | Id Field | Deskripsi | Tipe & Length | Boleh NULL | Default | Keterangan |
 | ----- | ----- | ----- | ----- | ----- | ----- |
-| id_or | merupakan key dari tabel olahraga | int | No | - | Primary key yang unik dari jenis olahraga, bersifat auto incrementn|
+| id_or | merupakan key dari tabel olahraga | int | No | - | Primary key yang unik dari jenis olahraga, bersifat auto increment |
 | nama_or | menyatakan nama olahraga | varchar(20) | No | - | nama olahraga |
-| jarak_or | menyatakan jarak olahraga | varchar | No | -| jarak yang ditempuh setelah olahraga, dapat diketahui menggunakan maps |
-| kal_burn | menyatakan kalori terbakar | varchar(20) | No | - | menyatakan jumlah kalori terakar setelah user berolahraga |
+| jarak_or | menyatakan jarak olahraga | varchar | No | -| jarak yang ditempuh user setelah olahraga, dapat diketahui menggunakan maps |
+| kal_burn | menyatakan kalori terbakar | varchar(20) | No | - | menyatakan jumlah kalori terbakar setelah user berolahraga |
+
+<b>3.2.3 Tabel BMR </b>
+
+- Identifikasi / Nama : BMR
+- Deskripsi Isi : Berisi data user yaitu umur, tinggi badan dan berat badan, kalori ideal
+- Jenis : Tabel Referensi
+- Volume : -
+- Laju : -
+- Primary key : id_bmr
+
+| Id Field | Deskripsi | Tipe & Length | Boleh NULL | Default | Keterangan |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| id_bmr | merupakan key dari tabel bmr | int | No | - | Primary key yang unik dari setiap perhitungan BMR, bersifat auto increment |
+| umur | menyatakan umur user | int | No | - | data umur user untuk melakukan perhitungan BMR |
+| tinggi_bdn | menyatakan tinggi badan user | varchar(20) | No | - | data tinggi badan user untuk melakukan perhitungan bmr |
+| berat_bdn | menyatakan berat badan user | varchar(20) | No | - | data tinggi badan user untuk melakukan perhitungan bmr |
+| kal_ideal | menyatakan kalori ideal user | varchar(20) | No | - | menyatakan kalori ideal user yang didapatkan dari perhitungan bmr | 
  
 
 
