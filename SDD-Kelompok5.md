@@ -299,10 +299,23 @@ Deskripsi tabel-tabel yang terdapat pada database pembuatan aplikasi PAHAT adala
 | email | menyatakan email user | varchar(20) | No | - | Email akan digunakan sebagai username untuk login user |
 | password | menyatakan password user | varchar(20) | No | - | password akan digunakan untuk login user, password harus sesuai dengan email agar login berhasil |
 
+<b>3.2.2 Tabel Olahraga </b>
 
+- Identifikasi / Nama : Olahraga
+- Deskripsi Isi : Berisi nama olahraga, jarak olahraga dan kalori terbakar
+- Jenis : Tabel Referensi
+- Volume : -
+- Laju : -
+- Primary key : id_or
 
+| Id Field | Deskripsi | Tipe & Length | Boleh NULL | Default | Keterangan |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| id_or | merupakan key dari tabel olahraga | int | No | - | Primary key yang unik dari jenis olahraga, bersifat auto incrementn|
+| nama_or | menyatakan nama olahraga | varchar(20) | No | - | nama olahraga |
+| jarak_or | menyatakan jarak olahraga | varchar | No | -| jarak yang ditempuh setelah olahraga, dapat diketahui menggunakan maps |
+| kal_burn | menyatakan kalori terbakar | varchar(20) | No | - | menyatakan jumlah kalori terakar setelah user berolahraga |
+ 
 
-3.2.1 Tabel A
 
 <b>3.3 Deskripsi Rinci Modul</b>
 
