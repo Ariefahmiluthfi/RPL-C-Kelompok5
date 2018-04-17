@@ -400,22 +400,37 @@ Deskripsi tabel-tabel yang terdapat pada database pembuatan aplikasi PAHAT adala
 
 <b>3.3 Deskripsi Rinci Modul</b>
 
-3.3.1 Modul A
+<b>3.3.1 Modul Otentikasi </b>
 
-3.3.1.1 Fungsi Modul
+<b>3.3.1.1 Fungsi Modul</b>
 
-3.3.1.2 Spesifikasi Layar Utama
+| No | Fungsi | Jenis | Tabel terkait |
+| ----- | ----- | ----- | ----- |
+| 1 | Login | Form entry | user |
 
-3.3.1.3 Spesifikasi Query
+<b>3.3.1.2 Spesifikasi Layar Utama</b>
+
+<table>
+<tr>
+	<tr>
+		<td><p align="center">Login</td>
+	</tr>
+	<tr>
+		<td><p align="center"><img src="http://i65.tinypic.com/s6twuq.jpg"></p></td>
+	</tr>
+</tr>
+</table>
+
+<b>3.3.1.3 Spesifikasi Query</b>
 
 (jika ada)
 
-3.3.1.4 Spesifikasi Field Data Layar
+<b>3.3.1.4 Spesifikasi Field Data Layar</b>
 
-3.3.1.5 Spesifikasi Obyek Pada Layer
+<b>3.3.1.5 Spesifikasi Obyek Pada Layer</b>
 
-3.3.1.6 Spesifikasi Proses / Algoritma
+<b>3.3.1.6 Spesifikasi Proses / Algoritma</b>
 
-3.3.2 Modul B
+<b>3.3.2 Modul Tracking</b>
 
-3.4 Matriks Keturunan
+<b>3.4 Matriks Keturunan</b>
