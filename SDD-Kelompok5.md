@@ -91,6 +91,17 @@ Deskripsi tabel-tabel yang terdapat pada database pembuatan aplikasi PAHAT adala
 | email | varchar | 20 | Tidak | Tidak | - | email yang digunakan user untuk login |
 | password | varchar | 20 | Tidak | Tidak | - | password yang digunakan user untuk login |
 
+<b> Tabel Olahraga </b>
+
+
+| Nama Field | Jenis | Volume | Laju | Primary Key | Constraint Integrity | Deskripsi |
+| ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+| id_or | integer | 11 | Primary Key | Iya | auto_increment | id-or auto increment |
+| nama_or | varchar | 20 | Tidak | Tidak | - | Nama olahraga |
+| jarak_or | integer | 11 | Tidak | Tidak | - | jarak yang ditempuh user saat berolahraga |
+| kal_burn | varchar | 20 | Tidak | Tidak | - | kalori yang terbakar user setelah berolahraga |
+
+
 2.2.1 Definisi Domain/Type
 
 2.2.2 Conceptual Data Model
