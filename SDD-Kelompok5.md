@@ -147,7 +147,28 @@ Deskripsi tabel-tabel yang terdapat pada database pembuatan aplikasi PAHAT adala
 
 
 
-2.2.1 Definisi Domain/Type
+<b>2.2.1 Definisi Domain/Type</b>
+
+<b>Data User</b>
+
+| Domain Name | Power Designer Type |
+| ----- | ----- |
+| id_user | primary key |
+| email | string |
+| password | string |
+
+<b>Data Olahraga</b>
+
+| Domain Name | Power Designer Type |
+| ----- | ----- |
+| id_or | primary key |
+| nama_or | string |
+| jarak_or | string |
+| kal_burn | string | 
+
+
+
+
 
 2.2.2 Conceptual Data Model
 
