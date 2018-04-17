@@ -229,8 +229,20 @@ Deskripsi tabel-tabel yang terdapat pada database pembuatan aplikasi PAHAT adala
 | Report_kalori | id_report | D7 | - | Berisi data user, info kalori terakar, ideal dan kalori konsumsi user |
 
 
-2.3 Deskripsi Modul
+<b>2.3 Deskripsi Modul</b>
 
+| Nama Modul | Keterangan |
+| ----- | ----- |
+| Otentikasi | Modul yang digunakan untuk memberika  validasi akses user |
+| Tracking | Modul yang digunakan untuk mengelola data jarak yang ditempuh user saat berolahraga dengan menggunakan maps |
+| Kalori Burn | Modul yang digunakan untuk mengelola data kalori terbakar user setelah berolahraga |
+| BMR | Modul yang digunakan untuk melakukan perhitungan BMR agar mengetahui kalori ideal user |
+| Kalori Konsumsi | Modul yang digunakan untuk mengelola makanan dan minuman apa saja yang sudah dikonsumsi user lalu dihitung keseluruhan kalori yang dikonsumsi |
+| Report Kalori | Modul yang digunakan untuk membuat laporan data kalori user |
+| Riwayat Tracking | Modul yang digunakan untuk mengetahui riwayat tracking user |
+| Riwayat Kalori Burn | Modul yang digunakan untuk mengetahui riwayat kalori terbakar user |
+| Riwayat BMR | Modul yang digunakan untuk mengetahui riwayat kalori ideal user melalui perhitungan BMR sebelumnya |
+| Riwayat Kalori Konsumsi | Modul yang digunakan untuk mengetahui riwayat konsumsi kalori user |
 
 <b><h4>BAB 3.DESKRIPSI PERANCANGAN RINCI</b></h4>
 
