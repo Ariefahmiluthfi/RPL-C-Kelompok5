@@ -361,7 +361,39 @@ Deskripsi tabel-tabel yang terdapat pada database pembuatan aplikasi PAHAT adala
 | id_drink | merupakan key dari tabel menu_drink | int | No | - | Primary key yang unik dari setiap drink, bersifat auto increment |
 | nama_drink | menyatakan nama minuman | varchar(20) | No | - | menyatakan nama minuman untuk perhitungan konsumsi kalori |
 | kal_drink | menyatakan kalori yang terkandung pada minuman | varchar(20) | No | - |  menyatakan kandungan kalori pada minuman untuk perhitungan konsumsi kalori |
- 
+
+<b>3.2.6 Tabel Kalori </b>
+
+- Identifikasi / Nama : Kalori
+- Deskripsi Isi : Berisi data makanan dan minuman yang dikonsumsi untuk dilakukan perhitungan konsumsi kalori
+- Jenis : Tabel Referensi
+- Volume : -
+- Laju : -
+- Primary key : id_kalori
+
+| Id Field | Deskripsi | Tipe & Length | Boleh NULL | Default | Keterangan |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| id_kalori | merupakan key dari tabel kalori | int | No | - | Primary key yang unik dari kalori , bersifat auto increment |
+| id_food | merupakan foreign key yang terhubung dengan tabel menu_food | int | No | - | Foreign key yang menghubungkan tabel kalori dengan menu_food karena perhitungan kalori membutuhkan data makanan dari tabel menu_food |
+| id_drink | merupakan foreign key yang terhubung dengan tabel menu_drink | int | No | - | Foreign key yang menghubungkan tabel kalori dengan menu_drink karena perhitungan kalori membutuhkan data minuman dari tabel menu_drink |
+| kal_consum | menyatakan kalori konsumsi user | varchar(20) | No | - | menyatakan kalori konsumsi user yang didapatkan dari perhitungan kalori | 
+
+<b>3.2.7 Tabel Report_kalori </b>
+
+- Identifikasi / Nama : Report_kalori
+- Deskripsi Isi : Berisi laporan data kalori user
+- Jenis : Tabel Referensi
+- Volume : -
+- Laju : -
+- Primary key : id_report
+
+| Id Field | Deskripsi | Tipe & Length | Boleh NULL | Default | Keterangan |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| id_report | merupakan key dari tabel report | int | No | - | Primary key yang unik dari report_kalori , bersifat auto increment |
+| id_user | merupakan foreign key yang terhubung dengan tabel user | int | No | - | Foreign key yang menghubungkan tabel report_kalori dengan user karena untuk setiap laporan data kalori dibutuhkan juga data user |
+| kal_burn | menyatakan kalori terbakar | varchar(20) | No | - | menyatakan jumlah kalori terbakar setelah user berolahraga |
+| kal_ideal | menyatakan kalori ideal user | varchar(20) | No | - | menyatakan kalori ideal user yang didapatkan dari perhitungan bmr |
+| kal_consum | menyatakan kalori konsumsi user | varchar(20) | No | - | menyatakan kalori konsumsi user yang didapatkan dari perhitungan kalori |
 
 
 <b>3.3 Deskripsi Rinci Modul</b>
