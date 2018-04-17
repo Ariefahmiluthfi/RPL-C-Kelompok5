@@ -126,6 +126,26 @@ Deskripsi tabel-tabel yang terdapat pada database pembuatan aplikasi PAHAT adala
 | nama_drink | varchar | 20 | Tidak | Tidak | - | nama makanan |
 | kal_drink | integer | 11 | Tidak | Tidak | - | kandungan kalori pada minuman |
 
+<b> Tabel Kalori </b>
+
+| Nama Field | Jenis | Volume | Laju | Primary Key | Constraint Integrity | Deskripsi |
+| ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+| id_kalori | integer | 11 | Primary Key | Iya | auto_increment | id kalori auto increment |
+| id_food | integer | 11 | Tidak | Foreign Key | - | makanan yang dipilih |
+| id_drink | integer | 11 | Tidak | Foreign Key | - | minuman yang dipilih |
+| kal_consum | integer | 11 | Tidak | Tidak | - | hasil perhitungan jumlah kalori pada makanan dan minuman yang dikonsumsi |
+
+<b> Tabel Report Kalori </b>
+
+| Nama Field | Jenis | Volume | Laju | Primary Key | Constraint Integrity | Deskripsi |
+| ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+| id_report | integer | 11 | Primary Key | Iya | auto increment | id report auto increment |
+| id_user | integer | 11 | Tidak | Foreign Key | - | info user |
+| kal_burn | integer | 11 | Tidak | Tidak | - | kalori yang terbakar pada user setelah berolahraga |
+| kal_ideal | integer | 11 | Tidak | Tidak | - | kalori ideal user yang didapatkan dari perhitungan BMR |
+| kal_consum | integer | 11 | Tidak | Tidak | - | jumlah kalori pada makanan / minuman yang dikonsumsi |
+
+
 
 2.2.1 Definisi Domain/Type
 
