@@ -212,15 +212,22 @@ Deskripsi tabel-tabel yang terdapat pada database pembuatan aplikasi PAHAT adala
 | kal_consum | number |
 
 
+<b>2.2.2 Conceptual Data Model</b>
 
+<b>2.2.3 Physical Data Model</b>
 
+<b>2.2.4 Daftar Tabel Aplikasi</b>
 
+| Nama Tabel | Primary Key | Data Store | E/R | Deskripsi isi |
+| ----- | ----- | ----- | -----| ----- |
+| User | id_user | D1 | - | Berisi email dan password user yang digunakan untuk login |
+| Olahraga | id_or | D2 | - | Berisi nama olahraga, jarak olahraga dan kalori terbakar |
+| BMR | id_bmr | D3 | - | Berisi data umur, tinggi badan, berat badan dan kalori ideal |
+| Menu_food | id_food | D4 | - | Berisi data nama food dan kandungan kalorinya |
+| Menu_drink | id_drink | D5 | - | Berisi data nama drink dan kandungan kalorinya |
+| Kalori | id_kalori | D6 | - | Berisi makanan, minuman yang dipilih dan kalori konsumsi |
+| Report_kalori | id_report | D7 | - | Berisi data user, info kalori terakar, ideal dan kalori konsumsi user |
 
-2.2.2 Conceptual Data Model
-
-2.2.3 Physical Data Model
-
-2.2.4 Daftat Tabel Aplikasi
 
 2.3 Deskripsi Modul
 
