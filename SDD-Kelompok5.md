@@ -110,6 +110,22 @@ Deskripsi tabel-tabel yang terdapat pada database pembuatan aplikasi PAHAT adala
 | berat_bdn | integer | 11 | Tidak | Tidak | - | berat badan user |
 | kal_ideal | integer | 11 | Tidak | Tidak | - | hasil perhitungan BMR |
 
+<b> Tabel Menu_food </b>
+
+| Nama Field | Jenis | Volume | Laju | Primary Key | Constraint Integrity | Deskripsi |
+| ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+| id_food | integer | 11 | Primary Key | Iya | auto_increment | id food auto increment |
+| nama_food | varchar | 20 | Tidak | Tidak | - | nama makanan |
+| kal_food | integer | 11 | Tidak | Tidak | - | kandungan kalori pada makanan |
+
+<b> Tabel Menu_drink </b>
+
+| Nama Field | Jenis | Volume | Laju | Primary Key | Constraint Integrity | Deskripsi |
+| ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+| id_drink | integer | 11 | Primary Key | Iya | auto_increment | id drink auto increment |
+| nama_drink | varchar | 20 | Tidak | Tidak | - | nama makanan |
+| kal_drink | integer | 11 | Tidak | Tidak | - | kandungan kalori pada minuman |
+
 
 2.2.1 Definisi Domain/Type
 
