@@ -163,8 +163,54 @@ Deskripsi tabel-tabel yang terdapat pada database pembuatan aplikasi PAHAT adala
 | ----- | ----- |
 | id_or | primary key |
 | nama_or | string |
-| jarak_or | string |
-| kal_burn | string | 
+| jarak_or | number |
+| kal_burn | number | 
+
+<b>Data BMR</b>
+
+| Domain Name | Power Designer Type |
+| ----- | ----- |
+| id_bmr | primary key |
+| umur | number |
+| tinggi_bdn | number |
+| berat_bdn | number |
+| kal_ideal | number |
+
+<b>Data Menu_food</b>
+
+| Domain Name | Power Designer Type |
+| ----- | ----- |
+| id_food | primary key |
+| nama_food | string |
+| kal_food | number |
+
+<b>Data Menu_drink</b>
+
+| Domain Name | Power Designer Type |
+| ----- | ----- |
+| id_drink | primary key |
+| nama_drink | string |
+| kal_drink | number |
+
+<b>Data Kalori</b>
+
+| Domain Name | Power Designer Type |
+| ----- | ----- |
+| id_kalori | primary key |
+| id_food | foreign key |
+| id_drink | foreign key |
+| kal_consum | number |
+
+<b>Data Report Kalori</b>
+
+| Domain Name | Power Designer Type |
+| ----- | ----- |
+| id_report | primary key |
+| id_user | foreign key |
+| kal_burn | number |
+| kal_ideal | number |
+| kal_consum | number |
+
 
 
 
