@@ -331,6 +331,36 @@ Deskripsi tabel-tabel yang terdapat pada database pembuatan aplikasi PAHAT adala
 | tinggi_bdn | menyatakan tinggi badan user | varchar(20) | No | - | data tinggi badan user untuk melakukan perhitungan bmr |
 | berat_bdn | menyatakan berat badan user | varchar(20) | No | - | data tinggi badan user untuk melakukan perhitungan bmr |
 | kal_ideal | menyatakan kalori ideal user | varchar(20) | No | - | menyatakan kalori ideal user yang didapatkan dari perhitungan bmr | 
+
+<b>3.2.4 Tabel Menu_food </b>
+
+- Identifikasi / Nama : Menu_food
+- Deskripsi Isi : Berisi daftar makanan dan kandungan kalorinya
+- Jenis : Tabel Referensi
+- Volume : -
+- Laju : -
+- Primary key : id_food
+
+| Id Field | Deskripsi | Tipe & Length | Boleh NULL | Default | Keterangan |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| id_food | merupakan key dari tabel menu_food | int | No | - | Primary key yang unik dari setiap food, bersifat auto increment |
+| nama_food | menyatakan nama makanan | varchar(20) | No | - | menyatakan nama makanan untuk perhitungan konsumsi kalori |
+| kal_food | menyatakan kalori yang terkandung pada makanan | varchar(20) | No | - |  menyatakan kandungan kalori pada makanan untuk perhitungan konsumsi kalori |
+
+<b>3.2.5 Tabel Menu_drink </b>
+
+- Identifikasi / Nama : Menu_drink
+- Deskripsi Isi : Berisi daftar minuman dan kandungan kalorinya
+- Jenis : Tabel Referensi
+- Volume : -
+- Laju : -
+- Primary key : id_drink
+
+| Id Field | Deskripsi | Tipe & Length | Boleh NULL | Default | Keterangan |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| id_drink | merupakan key dari tabel menu_drink | int | No | - | Primary key yang unik dari setiap drink, bersifat auto increment |
+| nama_drink | menyatakan nama minuman | varchar(20) | No | - | menyatakan nama minuman untuk perhitungan konsumsi kalori |
+| kal_drink | menyatakan kalori yang terkandung pada minuman | varchar(20) | No | - |  menyatakan kandungan kalori pada minuman untuk perhitungan konsumsi kalori |
  
 
 
