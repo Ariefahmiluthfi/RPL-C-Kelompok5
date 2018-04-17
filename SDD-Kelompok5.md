@@ -2,7 +2,7 @@
 <body>
 <div align="center"><h1> Software Design Description</h1></div>
 
-<p align="center"><b>Version 1.0 </b><br>
+<p align="center"><b>Version 1.1 </b><br>
 <p align="center">5 Maret 2018</b>
 <p align="center">
 <img src="https://2.bp.blogspot.com/-dxdRgMQGbLk/WpA-Tp2rNGI/AAAAAAAAAh8/3_jBWFb7Cf48033QvB34D2WCwoN2sxZLgCLcBGAs/s1000/index.png"/>
@@ -279,6 +279,8 @@ Deskripsi tabel-tabel yang terdapat pada database pembuatan aplikasi PAHAT adala
 ![](http://i63.tinypic.com/n2d0lw.jpg)
 
 <b>3.1.1.7 DFD Level 1 Proses 7 ( Mengolah data report kalori )</b>
+
+![](http://i65.tinypic.com/2u6mqza.jpg)
 
 
 
