@@ -28,13 +28,46 @@
 
 <b>1.1 Tujuan Pembuatan Dokumen</b>
 
+Dokumen ini digunakan sebagai panduan untuk melakukan pengujian terhadap perangkat lunak Aplikasi Pola Hidup Sehat (PAHAT) . Dokumen ini dipakai untuk melihat kemampuan dari program yang telah dirancang agar sesuai dengan keinginan dari pengguna. Pembuatan dokumen ini ditujukan untuk menguji perangkat lunak Aplikasi Pola Hidup Sehat (PAHAT) yang merupakan bagian dari tugas mata kuliah Proyek 2.
+
 <b>1.2 Deskripsi Umum Sistem</b>
+
+Perangkat lunak yang akan diuji adalah "Aplikasi Pola Hidup Sehat (PAHAT)". Perangkat lunak ini adalah perangkat lunak yang digunakan untuk mempermudah pengguna (user) mengetahui aktivitas seperti jalan sehat, jogging, maupun bersepeda dengan GPS yang dimana fungsinya adalah memberikan statistik kepada kita tentang kecepatan, jarak, dan waktu berolahraga kita, perhitungan BMR (Basal Metabolic Rate), serta perhitungan kalori.
 
 <b>1.3 Deskripsi Dokumen (Ikhtisar)</b>
 
+Dalam dokumen ini berisi 3 bagian utama yaitu Pendahuluan, Identifikasi
+dan Rencana Pengujian, Deskripsi dan Uji Hasil.
+
 <b>1.4 Definisi dan Singkatan</b>
 
+| Singkatan | Definisi 
+| ----- | ----- |
+| SKPL | Spesifikasi Kebutuhan Perangkat Lunak, atau dalam bahasa
+Inggris-nya sering juga disebut sebagai Software Requirements Spesification
+(SRS), dan merupakan spesifikasi dari perangkat lunak yang akan
+dikembangkan |
+| SKPL-SK.K-xxxx | kode yang digunakan untuk merepresentasikan
+kebutuhan (requirement) pada SK, dengan SK merupakan kode perangkat
+lunak, SK.K adalah kode fase, dan xxxx adalah digit/nomor kebutuhan
+(requirement) |
+| DFD | Data Flow Diagram, diagram dan notasi yang digunakan untuk
+menunjukkan aliran data pada perangkat lunak |
+| ERD | Entity Relationship Diagram, diagram dan notasi yang digunakan
+untuk merepresentasikan struktur data statis pada perangkat lunak |
+| DPPL-Akkses.K-xxxx | kode yang digunakan untuk
+mengimplementasikan perancangan pada Akkses, dengan Akkses merupakan
+kode perangkat lunak, Akkses.Kadalah kode fase, dan xxxx adalahdigit/nomor
+perancangan |
+
+
 <b>1.5 Dokumen Referensi</b>
+
+| Ernita H. GL03. Dokumen Uji Perangkat Lunak (DUPL) SDS. Bogor. |
+| Sistem Pentiketan Elektronik Konser.2013. Spesifikasi Kebutuhan Perangkat
+Lunak (SKPL)SPEK. Bogor. |
+| Sistem Pentiketan Elektronik Konser.2013. Dokumen Perancangan Perangkat
+Lunak (DPPL)SPEK. Bogor. |
 
 <b><h4>2. Lingkungan Pengujian Perangkat Lunak</b></h4>
 
