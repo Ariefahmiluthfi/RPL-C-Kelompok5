@@ -53,7 +53,7 @@ dan Rencana Pengujian, Deskripsi dan Uji Hasil.
 <b>1.5 Dokumen Referensi</b>
 
 | Ernita H. GL03. Dokumen Uji Perangkat Lunak (DUPL) SDS. Bogor. |
-| ----- | ----- |
+| ----- |
 | Sistem Pentiketan Elektronik Konser.2013. Spesifikasi Kebutuhan Perangkat
 Lunak (SKPL)SPEK. Bogor. |
 | Sistem Pentiketan Elektronik Konser.2013. Dokumen Perancangan Perangkat
