@@ -44,26 +44,17 @@ dan Rencana Pengujian, Deskripsi dan Uji Hasil.
 | Singkatan | Definisi 
 | ----- | ----- |
 | SKPL | Spesifikasi Kebutuhan Perangkat Lunak, atau dalam bahasa
-Inggris-nya sering juga disebut sebagai Software Requirements Spesification
-(SRS), dan merupakan spesifikasi dari perangkat lunak yang akan
-dikembangkan |
-| SKPL-SK.K-xxxx | kode yang digunakan untuk merepresentasikan
-kebutuhan (requirement) pada SK, dengan SK merupakan kode perangkat
-lunak, SK.K adalah kode fase, dan xxxx adalah digit/nomor kebutuhan
-(requirement) |
-| DFD | Data Flow Diagram, diagram dan notasi yang digunakan untuk
-menunjukkan aliran data pada perangkat lunak |
-| ERD | Entity Relationship Diagram, diagram dan notasi yang digunakan
-untuk merepresentasikan struktur data statis pada perangkat lunak |
-| DPPL-Akkses.K-xxxx | kode yang digunakan untuk
-mengimplementasikan perancangan pada Akkses, dengan Akkses merupakan
-kode perangkat lunak, Akkses.Kadalah kode fase, dan xxxx adalahdigit/nomor
-perancangan |
+Inggris-nya sering juga disebut sebagai Software Requirements Spesification (SRS), dan merupakan spesifikasi dari perangkat lunak yang akan dikembangkan |
+| SKPL-SK.K-xxxx | kode yang digunakan untuk merepresentasikan kebutuhan (requirement) pada SK, dengan SK merupakan kode perangkat lunak, SK.K adalah kode fase, dan xxxx adalah digit/nomor kebutuhan (requirement) |
+| DFD | Data Flow Diagram, diagram dan notasi yang digunakan untuk menunjukkan aliran data pada perangkat lunak |
+| ERD | Entity Relationship Diagram, diagram dan notasi yang digunakan untuk merepresentasikan struktur data statis pada perangkat lunak |
+| DPPL-Akkses.K-xxxx | kode yang digunakan untuk mengimplementasikan perancangan pada Akkses, dengan Akkses merupakan kode perangkat lunak, Akkses.K adalah kode fase, dan xxxx adalahdigit/nomor perancangan |
 
 
 <b>1.5 Dokumen Referensi</b>
 
 | Ernita H. GL03. Dokumen Uji Perangkat Lunak (DUPL) SDS. Bogor. |
+| ----- | ----- |
 | Sistem Pentiketan Elektronik Konser.2013. Spesifikasi Kebutuhan Perangkat
 Lunak (SKPL)SPEK. Bogor. |
 | Sistem Pentiketan Elektronik Konser.2013. Dokumen Perancangan Perangkat
