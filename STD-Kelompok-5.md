@@ -43,6 +43,7 @@ dan Rencana Pengujian, Deskripsi dan Uji Hasil.
 
 | Singkatan | Definisi 
 | ----- | ----- |
+| PAHAT | Pola Hidup Sehat |
 | SKPL | Spesifikasi Kebutuhan Perangkat Lunak, atau dalam bahasa inggris-nya sering juga disebut sebagai Software Requirements Spesification (SRS), dan merupakan spesifikasi dari perangkat lunak yang akan dikembangkan |
 | SKPL-SK.K-xxxx | kode yang digunakan untuk merepresentasikan kebutuhan (requirement) pada SK, dengan SK merupakan kode perangkat lunak, SK.K adalah kode fase, dan xxxx adalah digit/nomor kebutuhan (requirement) |
 | DFD | Data Flow Diagram, diagram dan notasi yang digunakan untuk menunjukkan aliran data pada perangkat lunak |
@@ -52,36 +53,95 @@ dan Rencana Pengujian, Deskripsi dan Uji Hasil.
 
 <b>1.5 Dokumen Referensi</b>
 
-| Ernita H. GL03. Dokumen Uji Perangkat Lunak (DUPL) SDS. Bogor. |
-| ----- |
-| Sistem Pentiketan Elektronik Konser.2013. Spesifikasi Kebutuhan Perangkat Lunak (SKPL)SPEK. Bogor. |
-| Sistem Pentiketan Elektronik Konser.2013. Dokumen Perancangan Perangkat Lunak (DPPL)SPEK. Bogor. |
+- Ernita H. GL03. Dokumen Uji Perangkat Lunak (DUPL) SDS. Bogor.
+- Sistem Pentiketan Elektronik Konser.2013. Spesifikasi Kebutuhan Perangkat Lunak (SKPL)SPEK. Bogor.
+- Sistem Pentiketan Elektronik Konser.2013. Dokumen Perancangan Perangkat Lunak (DPPL)SPEK. Bogor.
 
 <b><h4>2. Lingkungan Pengujian Perangkat Lunak</b></h4>
 
 <b>2.1 Perangkat Lunak Pengujian</b>
 
+Perangkat lunak ini diujikan dengan beberapa perangkat lain, yaitu :
+
+- Sistem Operasi : Windows 10
+- Bahasa pemrograman : Java dan PHP
+- Database : MySQL
+
 <b>2.2 Perangkat Keras Pengujian</b>
+
+Perangkat keras yang diperlukan untuk menguji aplikasi PAHAT ini adalah satu set komputer dengan spesifikasi :
+
+- Processor :
+- Memory :
+- Harddisk 
+
+Dan smartphone dengan spesifikasi :
+
+- RAM :
+- Android : 
 
 <b>2.3 Material Pengujian</b>
 
+Pada program "Aplikasi Pola Hidup Sehat" ini, user dapat melakukan register tanpa melalui admin. Admin sendiri dapat mengelola user tersebut. User dapat melakukan olahraga dengan menggunakan maps dan melihat kalori terbakar, melakukan perhitungan BMR dan melakukan perhitungan konsumsi kalori.
+
 <b>2.4 Sumber Daya Manusia</b>
+
+Persyaratan sumber daya manusia yang akan terlibat dalam proses pengujian perangkat lunak ini adalah :
+
+- Memahami konsep pemrograman berorientasi objek dalam bahasa Java
+- Memahami proses pengujiam perangkat lunak berorientasi objek
+- Memahami konsep pemrograman database MySQL
 
 <b>2.5 Prosedur Umum Pengujian</b>
 
 <b>2.5.1 Pengenalan dan Latihan</b>
 
+Penguji aplikasi ini hanya diberikan latihan kembali tentang SQL, dan
+pengenalan lebih lanjut tentang Android Studio dan Java. Pada dasarnya penguji telah memiliki pengetahuan tentang hal yang disebutkan sebelumnya tetapi latihan yang diberikan hanya bersifat penyegaran kembali.
+
 <b>2.5.2 Persiapan Awal</b>
 
 <b>2.5.2.1 Persiapan Prosedural</b>
 
+Pengujian ini dilakukan di luar lingkungan kampus. Dimana pengujian ini dilakukan oleh tim penguji yang telah di tentukan oleh Dosen mata kuliah Rekayasa Perangkat Lunak (RPL). Alat yang digunakan 1 buah laptop dengan software yang telah di instalasi dan 1 buah smartphone yang telah diinstal aplikasi PAHAT.
+
 <b>2.5.2.2 Persiapan Perangkat Keras</b>
+
+Perangkat keras yang perlu dipesiapkan adalah :
+Sebuah perangkat komputer yang dilengkapi dengan :
+
+- Processor :
+- Memory :
+- Harddisk 
+
+Sebuah handphone dengan spesifikasi :
+
+- RAM :
+- Android : 
 
 <b>2.5.2.3 Persiapan Perangkat Lunak</b>
 
+Persiapan yang harus dilakukan untuk menyiapkan perangkat lunak untuk diuji di lingkungan sistem operasi Microsoft Windows 10 adalah sebagai berikut :
+
+1. Persiapkan sistem operasi Microsoft Windows.
+2. Instal aplikasi PAHAT pada smartphone
+3. Perangkat lunak yang akan di uji di copy ke sebuah direktori,
+misalnya C:\XAMPP\htdocs.
+4. Browser Google Chrome.
+5. Database di import ke phpMyAdmin di database -----.
+6. Sublime Text untuk melihat source code.
+
 <b>2.5.3 Pelaksanaan </b>
 
+Pelaksanaan pengujian dilakukan dengan mengeksekusi perangkat lunak aplikasi PAHAT dengan mengikuti skenario tertentu yang dibuat berdasarkan
+skenario yang tedapat pada dokumen SKPL-SPEK.
+
 <b>2.5.4 Pelaporan Hasil </b>
+
+Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten
+praktikum dan dievaluasi oleh asisten dan kelompok lain yang bertindak
+sebagai klien dari kelompok kami. Sehingga aplikasi mendapatkan umpan
+balik dalam pengembangan perangkat lunak ini selanjutnya.
 
 <b><h4>3. Identifikasi dan Rencana Pengujian</b></h4>
 
