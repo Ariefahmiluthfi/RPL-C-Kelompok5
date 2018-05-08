@@ -2,8 +2,8 @@
 <body>
 <div align="center"><h1> Software Testing Document</h1></div>
 
-<p align="center"><b>Version 1.1 </b><br>
-<p align="center">5 Maret 2018</b>
+<p align="center"><b>Version 1.0 </b><br>
+<p align="center">7 Mei 201</b>
 <p align="center">
 <img src="https://2.bp.blogspot.com/-dxdRgMQGbLk/WpA-Tp2rNGI/AAAAAAAAAh8/3_jBWFb7Cf48033QvB34D2WCwoN2sxZLgCLcBGAs/s1000/index.png"/>
 </p>
