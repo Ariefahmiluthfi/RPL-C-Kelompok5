@@ -43,8 +43,7 @@ dan Rencana Pengujian, Deskripsi dan Uji Hasil.
 
 | Singkatan | Definisi 
 | ----- | ----- |
-| SKPL | Spesifikasi Kebutuhan Perangkat Lunak, atau dalam bahasa
-Inggris-nya sering juga disebut sebagai Software Requirements Spesification (SRS), dan merupakan spesifikasi dari perangkat lunak yang akan dikembangkan |
+| SKPL | Spesifikasi Kebutuhan Perangkat Lunak, atau dalam bahasa inggris-nya sering juga disebut sebagai Software Requirements Spesification (SRS), dan merupakan spesifikasi dari perangkat lunak yang akan dikembangkan |
 | SKPL-SK.K-xxxx | kode yang digunakan untuk merepresentasikan kebutuhan (requirement) pada SK, dengan SK merupakan kode perangkat lunak, SK.K adalah kode fase, dan xxxx adalah digit/nomor kebutuhan (requirement) |
 | DFD | Data Flow Diagram, diagram dan notasi yang digunakan untuk menunjukkan aliran data pada perangkat lunak |
 | ERD | Entity Relationship Diagram, diagram dan notasi yang digunakan untuk merepresentasikan struktur data statis pada perangkat lunak |
