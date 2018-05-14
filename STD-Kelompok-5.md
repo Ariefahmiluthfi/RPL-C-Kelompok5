@@ -71,14 +71,14 @@ Perangkat lunak ini diujikan dengan beberapa perangkat lain, yaitu :
 
 Perangkat keras yang diperlukan untuk menguji aplikasi PAHAT ini adalah satu set komputer dengan spesifikasi :
 
-- Processor :
-- Memory :
-- Harddisk 
+- Processor : Intel(R) Core(TM) i3-2367MCPU @ 1.40GHz
+- Memory : 4096MB RAM
+
 
 Dan smartphone dengan spesifikasi :
 
-- RAM :
-- Android : 
+- RAM : 2GB
+- Android : Lollipop 5.0.2
 
 <b>2.3 Material Pengujian</b>
 
@@ -110,14 +110,14 @@ Pengujian ini dilakukan di luar lingkungan kampus. Dimana pengujian ini dilakuka
 Perangkat keras yang perlu dipesiapkan adalah :
 Sebuah perangkat komputer yang dilengkapi dengan :
 
-- Processor :
-- Memory :
-- Harddisk 
+- Processor : Intel(R) Core(TM) i3-2367MCPU @ 1.40GHz
+- Memory : 4096 MB RAM
+
 
 Sebuah handphone dengan spesifikasi :
 
-- RAM :
-- Android : 
+- RAM : 2GB
+- Android : Lollipop 5.0.2
 
 <b>2.5.2.3 Persiapan Perangkat Lunak</b>
 
@@ -128,7 +128,7 @@ Persiapan yang harus dilakukan untuk menyiapkan perangkat lunak untuk diuji di l
 3. Perangkat lunak yang akan di uji di copy ke sebuah direktori,
 misalnya C:\XAMPP\htdocs.
 4. Browser Google Chrome.
-5. Database di import ke phpMyAdmin di database -----.
+5. Database di import ke phpMyAdmin di database MySQL.
 6. Sublime Text untuk melihat source code.
 
 <b>2.5.3 Pelaksanaan </b>
