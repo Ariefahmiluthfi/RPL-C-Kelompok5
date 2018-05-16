@@ -187,13 +187,13 @@ Aplikasi ini membutuhkan koneksi internet untuk menjalankannya.
 
 <b>2.2. Spesifikasi Kebutuhan Fungsional</b>
 
-![](http://i66.tinypic.com/11jn1vt.jpg)
+![](http://i63.tinypic.com/15qadyf.jpg)
 
 ![](http://i68.tinypic.com/204gpi.jpg)
 
-<b>2.2.1 Login User </b>
+<b>2.2.1 Register & Login User </b>
 
-![](http://i67.tinypic.com/20r8bkh.jpg)
+![](http://i64.tinypic.com/2mrcugx.jpg)
 
 Untuk dapat menggunakan aplikasi, user harus login terlebih dahulu dengan cara :
 
