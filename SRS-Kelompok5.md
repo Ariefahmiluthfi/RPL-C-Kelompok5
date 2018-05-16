@@ -189,7 +189,9 @@ Aplikasi ini membutuhkan koneksi internet untuk menjalankannya.
 
 ![](http://i66.tinypic.com/11jn1vt.jpg)
 
-<b>2.2.1 Login </b>
+![](http://i68.tinypic.com/204gpi.jpg)
+
+<b>2.2.1 Login User </b>
 
 ![](http://i67.tinypic.com/20r8bkh.jpg)
 
@@ -202,7 +204,7 @@ Untuk dapat menggunakan aplikasi, user harus login terlebih dahulu dengan cara :
 5. Jika login gagal maka member akan diminta mengulangi proses login 
 6. Jika login berhasil maka member akan diarahkan ke menu aplikasi
 
-<b>2.2.2 Pilih Olahraga </b>
+<b>2.2.2 User Pilih Olahraga </b>
 
 ![](http://i64.tinypic.com/2j5gos9.jpg)
 
@@ -214,7 +216,7 @@ User dapat memilih olahraga dengan cara:
 4. Sistem menampilkan track untuk olahraga
 5. Setelah user olahraga, sistem akan menampilkan jarak yang ditempuh dan kalori yang terbakar
 
-<b>2.2.3 Perhitungan BMR</b>
+<b>2.2.3 Perhitungan BMR User</b>
 
 ![](http://i66.tinypic.com/117xp2c.jpg)
 
@@ -226,7 +228,7 @@ User dapat mengetahui kalori ideal dari perhitungan BMR, dengan cara:
 4. Sistem akan melakukan perhitungan BMR untuk mengetahui kalori ideal user
 5. Sistem menampilkan kalori ideal user
 
-<b>2.2.4 Kalori Konsumsi </b>
+<b>2.2.4 Kalori Konsumsi User </b>
 
 ![](http://i64.tinypic.com/kdlkp4.jpg)
 
@@ -238,6 +240,29 @@ User dapat mengetahui kalori konsumsi dengan cara :
 4. Sistem menghitung keseluruhan jumlah kalori yang telah user konsumsi
 5. Sistem menampilkan kalori konsumsi user
 
+<b>2.2.5 Login Admin </b>
+
+![](http://i63.tinypic.com/vpb58o.jpg)
+
+Untuk dapat menggunakan web, admin harus login terlebih dahulu dengan cara :
+
+1. Admin mengaktifkan fungsi login 
+2. Sistem menampilkan halaman login yang terdiri dari username dan password 
+3. Admin mengisi username dan password 
+4. Sistem melakukan validasi dari username dan password 
+5. Jika login gagal maka admin akan diminta mengulangi proses login 
+6. Jika login berhasil maka admin akan diarahkan ke menu web
+
+
+<b>2.2.5 Admin Kelola User </b>
+
+![](http://i67.tinypic.com/yzc05.jpg)
+
+Admin dapat mengelola user dengan cara :
+
+1. Sistem memberikan kolom data user
+2. Admin dapat mengedit, menghapus dan menambah user
+3. Jika admin berhasil mengedit, menghapus dan menambah user maka sistem akan menampilkan data terbarunya
 
 
 <b>2.3. Spesifikasi Kebutuhan Non-fungsinoal</b>
