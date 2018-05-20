@@ -200,7 +200,7 @@ balik dalam pengembangan perangkat lunak ini selanjutnya.
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Tujuan</td>
-			<td colspan="3">Memeriks a apakah data baru masuk ke database</td>
+			<td colspan="3">Memeriksa apakah data baru masuk ke database</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Kondisi Awal</td>
@@ -239,8 +239,8 @@ balik dalam pengembangan perangkat lunak ini selanjutnya.
 				<ul>
 					<li>Alamat email:ariefahmi300897@gmail.com</li>
 					<li>Nama Lengkap: Arie Fahmi</li>
-					<li>Password: 123</li>
-					<li>Konfirmasi Password: 123</li>
+					<li>Password: 12345678</li>
+					<li>Konfirmasi Password: 12345678</li>
 					<li>Alamat: Indramayu</li>
 					<li>No HP: 083100145917</li>
 
@@ -260,6 +260,94 @@ balik dalam pengembangan perangkat lunak ini selanjutnya.
 			<td rowspan="1">
 				<ul>
 					OK
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Catatan</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>------</li>
+				</ul>
+			</td>
+		</tr>
+	</thead>
+</table>
+
+<table>  
+	<thead> 
+		<tr>
+			<td rowspan="1"><strong>Identifikasi</td>
+			<td colspan="3">DUPL-012/td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Nama Butir Uji</td>
+			<td colspan="3">Data email tidak ada lambang '@'</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tujuan</td>
+			<td colspan="3">Memeriksa apakah data emai masuk ke database jika ada kesalahan penulisan</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Kondisi Awal</td>
+			<td colspan="3">Tabel user sudah ada di database</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tanggal Pengujian</td>
+			<td colspan="3">16/05/2018</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Penguji</td>
+			<td colspan="3">Arie</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Skenario</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>1. Ketikkan email tanpa lambang "@"</li>
+					<li>2. Klik tombol Register</li>
+				</ul>
+</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Hasil</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Data yang Diberikan</td>
+			<td rowspan="1"><strong>Yang Diharapkan</td>
+			<td rowspan="1"><strong>Pengamatan</td>
+			<td rowspan="1"><strong>Kesimpulan</td>
+		</tr>
+		<tr>
+			<td rowspan="1">
+				<ul>
+					<li>Alamat email:ariefahmi300897gmail.com</li>
+					<li>Nama Lengkap: Arie Fahmi</li>
+					<li>Password: 123</li>
+					<li>Konfirmasi Password: 123</li>
+					<li>Alamat: Indramayu</li>
+					<li>No HP: 083100145917</li>
+
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					Data gagal masuk ke database karena ada kesalahan
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>Belum bisa register sebagai user karena saat pengisian email ada kesalahan</li>
+					
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					Gagal
 				</ul>
 			</td>
 		</tr>
