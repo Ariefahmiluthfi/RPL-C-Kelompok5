@@ -268,7 +268,6 @@ balik dalam pengembangan perangkat lunak ini selanjutnya.
 			<td colspan="4">
 				<ul>
 					<li>------</li>
-					<li>------</li>
 				</ul>
 			</td>
 		</tr>
