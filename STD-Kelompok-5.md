@@ -237,11 +237,13 @@ balik dalam pengembangan perangkat lunak ini selanjutnya.
 		<tr>
 			<td rowspan="1">
 				<ul>
-					<li>Username:Arie Fahmi</li>
-					<li>Email: ariefahmi300897@gmail.com</li>
+					<li>Alamat email:ariefahmi300897@gmail.com</li>
+					<li>Nama Lengkap: Arie Fahmi</li>
 					<li>Password: 123</li>
-					<li>No HP: 083100145917</li>
+					<li>Konfirmasi Password: 123</li>
 					<li>Alamat: Indramayu</li>
+					<li>No HP: 083100145917</li>
+
 				</ul>
 			</td>
 			<td rowspan="1">
