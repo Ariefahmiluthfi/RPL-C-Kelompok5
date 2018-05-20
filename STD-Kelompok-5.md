@@ -187,3 +187,93 @@ balik dalam pengembangan perangkat lunak ini selanjutnya.
 </table>
 
 <b><h4>4. Deskripsi dan Hasil Uji</b></h4>
+
+<table>  
+	<thead> 
+		<tr>
+			<td rowspan="1"><strong>Identifikasi</td>
+			<td colspan="3">DUPL-01</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Nama Butir Uji</td>
+			<td colspan="3">Data email dan password benar</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tujuan</td>
+			<td colspan="3">Memeriks a apakah data baru masuk ke database</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Kondisi Awal</td>
+			<td colspan="3">Tabel user sudah ada di database</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tanggal Pengujian</td>
+			<td colspan="3">16/05/2018</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Penguji</td>
+			<td colspan="3">Arie</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Skenario</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>1. Ketikkan data yang akan ditambahkan</li>
+					<li>2. Klik tombol Register</li>
+				</ul>
+</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Hasil</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Data yang Diberikan</td>
+			<td rowspan="1"><strong>Yang Diharapkan</td>
+			<td rowspan="1"><strong>Pengamatan</td>
+			<td rowspan="1"><strong>Kesimpulan</td>
+		</tr>
+		<tr>
+			<td rowspan="1">
+				<ul>
+					<li>Username:Arie Fahmi</li>
+					<li>Email: ariefahmi300897@gmail.com</li>
+					<li>Password: 123</li>
+					<li>No HP: 083100145917</li>
+					<li>Alamat: Indramayu</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					Data user yang diisikan saat register masuk ke database
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>Belum bisa register sebagai user jika data belum semua terisi</li>
+					<li>Tombol Register menyimpan semua data user agar bisa masuk ke database</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					OK
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Catatan</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					
+				</ul>
+			</td>
+		</tr>
+	</thead>
+</table>
+
+
+
+
