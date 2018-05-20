@@ -156,28 +156,28 @@ balik dalam pengembangan perangkat lunak ini selanjutnya.
 	<td rowspan="2" align="center"><strong>Penguji</td>
 </tr>
 		<tr>
-			<td align="center"><strong>SKPL-DPPL</td>
-			<td align="center"><strong>DUPL</td>
+			<td align="center"><strong>SRS / SDD</td>
+			<td align="center"><strong>STD</td>
 		</tr>
 <tr>
 	<td rowspan="3" align="center"><strong>Register User</td>
 	<td>Data email dan password benar</td>
-	<td>SKPL-SPEK.K-0001</td>
-	<td>DUPL-01</td>
+	<td>SRS-2.2.1</td>
+	<td>SDD-01</td>
 	<td>Pengujian Sistem</td>
 	<td>Black Box</td>
 	<td>Arie</td>
 <tr>
 	<td>Data email tidak ada lambang "@"</td>
 	<td></td>
-	<td>DUPL-02</td>
+	<td>SDD-02</td>
 	<td>Pengujian Sistem</td>
 	<td>Black Box</td>
 	<td>Arie</td>
 <tr>
 	<td>Password tidak 8 digit</td>
 	<td></td>
-	<td>DUPL-03</td>
+	<td>SDD-03</td>
 	<td>Pengujian Sistem</td>
 	<td>Black Box</td>
 	<td>Arie</td>
@@ -186,13 +186,55 @@ balik dalam pengembangan perangkat lunak ini selanjutnya.
 </thead>  
 </table>
 
+<table>  
+	<thead>  
+<tr>
+	<td rowspan="2" align="center"><strong>Kelas Uji</td>
+	<td rowspan="2" align="center"><strong>Butir Uji </td>
+	<td colspan="2" align="center"><strong>Identifikasi</td>
+	<td rowspan="2" align="center"><strong>Tingkat Pengujian</td>
+	<td rowspan="2" align="center"><strong>Jenis Pengujian</td>
+	<td rowspan="2" align="center"><strong>Penguji</td>
+</tr>
+		<tr>
+			<td align="center"><strong>SRS / SDD</td>
+			<td align="center"><strong>SDD</td>
+		</tr>
+<tr>
+	<td rowspan="3" align="center"><strong>Login User</td>
+	<td>Data email dan password benar</td>
+	<td>SRS-2.2.1</td>
+	<td>SDD-04</td>
+	<td>Pengujian Sistem</td>
+	<td>Black Box</td>
+	<td>Arie</td>
+<tr>
+	<td>Email atau password tidak diisi</td>
+	<td></td>
+	<td>SDD-05</td>
+	<td>Pengujian Sistem</td>
+	<td>Black Box</td>
+	<td>Arie</td>
+<tr>
+	<td>Mengisi form login deNgan data yang salah</td>
+	<td></td>
+	<td>SDD-06</td>
+	<td>Pengujian Sistem</td>
+	<td>Black Box</td>
+	<td>Arie</td>
+</tr>		
+
+</thead>  
+</table>
+
+
 <b><h4>4. Deskripsi dan Hasil Uji</b></h4>
 
 <table>  
 	<thead> 
 		<tr>
 			<td rowspan="1"><strong>Identifikasi</td>
-			<td colspan="3">DUPL-01</td>
+			<td colspan="3">SDD-01</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Nama Butir Uji</td>
@@ -280,7 +322,7 @@ balik dalam pengembangan perangkat lunak ini selanjutnya.
 	<thead> 
 		<tr>
 			<td rowspan="1"><strong>Identifikasi</td>
-			<td colspan="3">DUPL-002</td>
+			<td colspan="3">SDD-02</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Nama Butir Uji</td>
@@ -368,7 +410,7 @@ balik dalam pengembangan perangkat lunak ini selanjutnya.
 	<thead> 
 		<tr>
 			<td rowspan="1"><strong>Identifikasi</td>
-			<td colspan="3">DUPL-003</td>
+			<td colspan="3">SDD-03</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Nama Butir Uji</td>
