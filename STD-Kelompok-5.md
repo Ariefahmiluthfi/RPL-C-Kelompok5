@@ -145,4 +145,45 @@ balik dalam pengembangan perangkat lunak ini selanjutnya.
 
 <b><h4>3. Identifikasi dan Rencana Pengujian</b></h4>
 
+<table>  
+	<thead>  
+<tr>
+	<td rowspan="2" align="center"><strong>Kelas Uji</td>
+	<td rowspan="2" align="center"><strong>Butir Uji </td>
+	<td colspan="2" align="center"><strong>Identifikasi</td>
+	<td rowspan="2" align="center"><strong>Tingkat Pengujian</td>
+	<td rowspan="2" align="center"><strong>Jenis Pengujian</td>
+	<td rowspan="2" align="center"><strong>Penguji</td>
+</tr>
+		<tr>
+			<td align="center"><strong>SKPL-DPPL</td>
+			<td align="center"><strong>DUPL</td>
+		</tr>
+<tr>
+	<td rowspan="3" align="center"><strong>Register User</td>
+	<td>Data email dan password benar</td>
+	<td>SKPL-SPEK.K-0001</td>
+	<td>DUPL-01</td>
+	<td>Pengujian Sistem</td>
+	<td>Black Box</td>
+	<td>Arie</td>
+<tr>
+	<td>Data email tidak ada lambang "@"</td>
+	<td></td>
+	<td>DUPL-02</td>
+	<td>Pengujian Sistem</td>
+	<td>Black Box</td>
+	<td>Arie</td>
+<tr>
+	<td>Password tidak 8 digit</td>
+	<td></td>
+	<td>DUPL-03</td>
+	<td>Pengujian Sistem</td>
+	<td>Black Box</td>
+	<td>Arie</td>
+</tr>		
+
+</thead>  
+</table>
+
 <b><h4>4. Deskripsi dan Hasil Uji</b></h4>
