@@ -246,7 +246,7 @@ balik dalam pengembangan perangkat lunak ini selanjutnya.
 			</td>
 			<td rowspan="1">
 				<ul>
-					Data user yang diisikan saat register masuk ke database
+					<li>Data user yang diisikan saat register masuk ke database</li>
 				</ul>
 			</td>
 			<td rowspan="1">
@@ -257,7 +257,7 @@ balik dalam pengembangan perangkat lunak ini selanjutnya.
 			</td>
 			<td rowspan="1">
 				<ul>
-					OK
+					<li>OK</li>
 				</ul>
 			</td>
 		</tr>
@@ -267,13 +267,10 @@ balik dalam pengembangan perangkat lunak ini selanjutnya.
 		<tr>
 			<td colspan="4">
 				<ul>
-					
+					<li>------</li>
+					<li>------</li>
 				</ul>
 			</td>
 		</tr>
 	</thead>
 </table>
-
-
-
-
