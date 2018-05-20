@@ -183,7 +183,7 @@ balik dalam pengembangan perangkat lunak ini selanjutnya.
 	<td>Arie</td>
 </tr>		
 
-</thead>  
+	</thead>  
 </table>
 
 <table>  
@@ -224,7 +224,7 @@ balik dalam pengembangan perangkat lunak ini selanjutnya.
 	<td>Arie</td>
 </tr>		
 
-</thead>  
+	</thead>  
 </table>
 
 
@@ -265,7 +265,7 @@ balik dalam pengembangan perangkat lunak ini selanjutnya.
 					<li>1. Ketikkan data yang akan ditambahkan</li>
 					<li>2. Klik tombol Register</li>
 				</ul>
-</td>
+	</td>
 		</tr>
 		<tr>
 			<td colspan="4" align="center"><strong>Hasil</td>
@@ -353,7 +353,7 @@ balik dalam pengembangan perangkat lunak ini selanjutnya.
 					<li>1. Ketikkan email tanpa lambang "@"</li>
 					<li>2. Klik tombol Register</li>
 				</ul>
-</td>
+	</td>
 		</tr>
 		<tr>
 			<td colspan="4" align="center"><strong>Hasil</td>
@@ -441,7 +441,7 @@ balik dalam pengembangan perangkat lunak ini selanjutnya.
 					<li>1. Ketikkan password 6 digit</li>
 					<li>2. Klik tombol Register</li>
 				</ul>
-</td>
+	</td>
 		</tr>
 		<tr>
 			<td colspan="4" align="center"><strong>Hasil</td>
